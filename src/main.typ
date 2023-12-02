@@ -29,14 +29,14 @@
 
 // Warum wird dem einen Argument mehr Glauben geschenkt als dem anderen? Wie lassen gute und schlechte Argumente unterscheiden? Fragen, die nicht nur Journalisten und Politiker beschäftigen sollten, sondern eigentlich jeden, denn wir alle werden täglich mit Argumenten konfrontiert.
 
-Menschen, als teil der Gesellschaft, werden täglich mit Argumenten konfrontiert.
-Sei es als teil des Politischen Diskurs, in Nachrichten, der Werbung oder im privaten Gespräch mit Freunden und Familie.
+Menschen, als Teil der Gesellschaft, werden täglich mit Argumenten konfrontiert.
+Sei es als Teil des politischen Diskurses, in Nachrichten, der Werbung oder im privaten Gespräch mit Freunden und Familie.
 Von welchen Argumenten sollten wir uns überzeugen lassen und welche sollten wir ablehnen?
-Es gibt verschiedene Ebenen auf denen sich Argumente bewerten lassen.
+Es gibt verschiedene Ebenen, auf denen sich Argumente bewerten lassen.
 Argumente können literarisch wertvoll, originell oder auch rhetorisch geschickt sein.
-In dieser Arbeit sollen allerdings allein Eigenschaften von Argumenten betrachtet werden, mit denen sich die Philosophische Disziplin der Logik beschäftigt, namentlich die Gültigkeit und die Stichhaltigkeit.
-Im folgenden wird am Beispiel politischer Argumente eine Einführung in die Logik gegeben.
-Fokus soll dabei auf der Logik as Werkzeug liegen, mit dem sich politische Argumente bewerten lassen liegen.
+In dieser Arbeit sollen allerdings allein Eigenschaften von Argumenten betrachtet werden, mit denen sich die philosophische Disziplin der Logik beschäftigt, namentlich die Gültigkeit und die Stichhaltigkeit.
+Im Folgenden wird am Beispiel politischer Argumente eine Einführung in die Logik gegeben.
+Fokus soll dabei auf der Logik als Werkzeug liegen, mit dem sich politische Argumente bewerten lassen.
 
 = Deduktive gültige Argumente
 
@@ -56,13 +56,13 @@ Das folgende Argument könnte Benutzt werden, um für Steuersenkungen für Reich
   [Steuersenkungen für Reiche sind eine gute Maßnahme.]
 )
 
-Die erste Prämisse des Arguments ist eine Konditionalaussage, sie besteht aus zwei Teilen, dem Antezedens und dem Konsequens.
+Die erste Prämisse des Arguments ist ein Konditional, sie besteht aus zwei Teilen, dem Antezedens und dem Konsequens.
 Das Antezedens ist der Erste Halbsatz der Premisse, er beginnt hier mit "Wenn".
 Das Konsequens ist der zweite Halbsatz, er beginnt hier mit "dann".
 Das Antezedens ist die Bedingung, die erfüllt sein muss, damit das Konsequens wahr ist.
 Das Konsequens ist die Schlussfolgerung, die aus dem Antezedens folgt.
 Die zweite Prämisse ist eine Aussage, die die Wahrheit des Konsequens der ersten Prämisse behauptet.
-Wenn die Konditionalaussage der ersten Prämisse wahr ist und die zweite Prämisse wahr ist, dann ist auch die Wahrheit der Konsequens der ersten Prämisse garantiert.
+Wenn das Konditional der ersten Prämisse wahr ist und die zweite Prämisse wahr ist, dann ist auch die Wahrheit der Konsequens der ersten Prämisse garantiert.
 Die Konklusion hat den gleichen Inhalt wie das Konsequens der ersten Prämisse, die Wahrheit der Prämissen garantiert demnach auch die Wahrheit der Konklusion.
 Das Argument hat sich als deduktiv gültig erwiesen.
 

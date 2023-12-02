@@ -63,7 +63,7 @@ Das Antezedens ist die Bedingung, die erfüllt sein muss, damit das Konsequens w
 Das Konsequens ist die Schlussfolgerung, die aus dem Antezedens folgt.
 Die zweite Prämisse ist eine Aussage, die die Wahrheit des Konsequens der ersten Prämisse behauptet.
 Wenn die Konditionalaussage der ersten Prämisse wahr ist und die zweite Prämisse wahr ist, dann ist auch die Wahrheit der Konsequens der ersten Prämisse garantiert.
-Die Konklusion hat den gleichen Inhalt wie das Konsequens der ersten Prämisse, die Wahrheit garantiert demnach auch die Wahrheit der Konklusion.
+Die Konklusion hat den gleichen Inhalt wie das Konsequens der ersten Prämisse, die Wahrheit der Prämissen garantiert demnach auch die Wahrheit der Konklusion.
 Das Argument hat sich als deduktiv gültig erwiesen.
 
 Ohne viel fachsprachliches Vokabular erklärt, es ist keine Welt denkbar, in der Beide Prämissen des Arguments wahr sind, die Konklusion aber falsch, also ist das Argument ein deduktiv Gültiges.

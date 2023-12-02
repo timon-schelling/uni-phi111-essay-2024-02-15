@@ -57,11 +57,12 @@ Das folgende Argument könnte Benutzt werden, um für Steuersenkungen für Reich
 )
 
 Die erste Prämisse des Arguments ist ein Konditional, sie besteht aus zwei Teilen, dem Antezedens und dem Konsequens.
+// TODO: welche artikel für antezedens und konsequens?
 Das Antezedens ist der Erste Halbsatz der Premisse, er beginnt hier mit "Wenn".
-Das Konsequens ist der zweite Halbsatz, er beginnt hier mit "dann".
-Das Antezedens ist die Bedingung, die erfüllt sein muss, damit das Konsequens wahr ist.
-Das Konsequens ist die Schlussfolgerung, die aus dem Antezedens folgt.
-Die zweite Prämisse ist eine Aussage, die die Wahrheit des Konsequens der ersten Prämisse behauptet.
+Die Konsequens ist der zweite Halbsatz, er beginnt hier mit "dann".
+Das Antezedens ist die Bedingung, die erfüllt sein muss, damit die Konsequens wahr ist.
+Die Konsequens ist die Schlussfolgerung, die aus dem Antezedens folgt.
+Die zweite Prämisse ist eine Aussage, die die Wahrheit der Konsequens der ersten Prämisse behauptet.
 Wenn das Konditional der ersten Prämisse wahr ist und die zweite Prämisse wahr ist, dann ist auch die Wahrheit der Konsequens der ersten Prämisse garantiert.
 Die Konklusion hat den gleichen Inhalt wie das Konsequens der ersten Prämisse, die Wahrheit der Prämissen garantiert demnach auch die Wahrheit der Konklusion.
 Das Argument hat sich als deduktiv gültig erwiesen.

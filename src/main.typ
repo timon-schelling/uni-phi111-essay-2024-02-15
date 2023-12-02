@@ -44,9 +44,10 @@ Um die Qualität politischer Argumente zu bewerten, ist es entscheidend, das Kon
 Ein Argument gilt genau dann als deduktiv gültig, wenn die Konklusion aus den Prämissen folgt.
 Die Wahrheit der Prämissen muss die Wahrheit der Konklusion garantieren.
 Wenn es sich bei einem Argument also um ein deduktiv gültiges Argument handelt, ist keine Welt denkbar, in der die Prämissen wahr sind, aber die Konklusion falsch.
-Es ist dabei egal ob die Prämissen tatsächlich wahr sind, es geht ausschließlich um den Zusammenhang zwischen den Prämissen und der Konklusion.
+Es ist dabei, für die deduktive Gültigkeit, egal ob die Prämissen tatsächlich wahr sind, es geht ausschließlich um den Zusammenhang zwischen den Prämissen und der Konklusion.
 
-Das folgende Argument könnte Benutzt werden, um für Steuersenkungen für Reiche zu argumentieren, wie es Beispielweise die US Regierung unter Bush getan hat @bartels2005[vgl.&15], oder teile der FDP in Deutschland.
+Das folgende Argument könnte Benutzt werden, um für Steuersenkungen für Reiche zu argumentieren, wie es Beispielweise die US Regierung unter Bush getan hat. @bartels2005[vgl.&15] // TODO: add reference to fdp
+
 #argument(
   (
     [Wenn von Steuersenkungen für Reiche die Gesamtwirtschaft profitiert, dann sind Steuersenkungen für Reiche eine gute Maßnahme.],
@@ -55,25 +56,33 @@ Das folgende Argument könnte Benutzt werden, um für Steuersenkungen für Reich
   [Steuersenkungen für Reiche sind eine gute Maßnahme.]
 )
 
+Die erste Prämisse des Arguments ist eine Konditionalaussage, sie besteht aus zwei Teilen, dem Antezedens und dem Konsequens.
+Das Antezedens ist der Erste Halbsatz der Premisse, er beginnt hier mit "Wenn".
+Das Konsequens ist der zweite Halbsatz, er beginnt hier mit "dann".
+Das Antezedens ist die Bedingung, die erfüllt sein muss, damit das Konsequens wahr ist.
+Das Konsequens ist die Schlussfolgerung, die aus dem Antezedens folgt.
+Die zweite Prämisse ist eine Aussage, die die Wahrheit des Konsequens der ersten Prämisse behauptet.
+Wenn die Konditionalaussage der ersten Prämisse wahr ist und die zweite Prämisse wahr ist, dann ist auch die Wahrheit der Konsequens der ersten Prämisse garantiert.
+Die Konklusion hat den gleichen Inhalt wie das Konsequens der ersten Prämisse, die Wahrheit garantiert demnach auch die Wahrheit der Konklusion.
+Das Argument hat sich als deduktiv gültig erwiesen.
+
+Ohne viel fachsprachliches Vokabular erklärt, es ist keine Welt denkbar, in der Beide Prämissen des Arguments wahr sind, die Konklusion aber falsch, also ist das Argument ein deduktiv Gültiges.
+
+Zu beachten ist hier wieder, dass bei einem deduktiv gültigen Argument die Wahrheit der Prämissen nicht garantiert ist.
+Gültigkeit kann also nicht die einzige Eigenschaft sein, die ein Argument haben muss, um überzeugend zu sein, dafür ist die Wahrheit der Prämissen ebenso entscheidend, in der Logik wird diese Eigenschaft von Argumenten Stichhaltigkeit genannt.
+Wenn bei einem deduktiv gültigen Argument die Prämissen wahr sind, so handelt es sich um ein Stichhaltiges Argument.
+
+Bei dem vorliegenden Argument besteht wissenschaftlich begründeter Zweifel an der Wahrheit der zweiten Prämisse. @hope2022[vgl.&555]
+Es ist also mindestens fraglich, ob es sich bei dem Argument um ein Stichhaltiges Argument handelt, was die Überzeugungskraft des Arguments deutlich schmälert.
+
+
+// Es ist offensichtlich, dass die Konklusion aus den Prämissen folgt, die Wahrheit der Prämissen garantiert die Wahrheit der Konklusion.
+// Das Argument hat sich erneut als deduktiv gültig erwiesen.
+
 // wenn die Struktur des Arguments so beschaffen ist, dass, falls die Prämissen wahr sind, die Konklusion notwendigerweise wahr sein muss. Mit anderen Worten, die Wahrheit der Prämissen garantiert die Wahrheit der Schlussfolgerung.
 
-Das bedeutet nicht, dass die Prämissen selbst tatsächlich wahr sein müssen; es geht vielmehr um die Beziehung zwischen den Prämissen und der Schlussfolgerung. Wenn die Prämissen wahr sind und die Schlussfolgerung falsch ist, ist das Argument nicht deduktiv gültig.
+// Das bedeutet nicht, dass die Prämissen selbst tatsächlich wahr sein müssen; es geht vielmehr um die Beziehung zwischen den Prämissen und der Schlussfolgerung. Wenn die Prämissen wahr sind und die Schlussfolgerung falsch ist, ist das Argument nicht deduktiv gültig.
 
-- Einführung des Begriffs der Deduktiven Gültigkeit
-  - Ein Argument ist deduktiv gültig, wenn die Konklusion aus den Prämissen folgt
-
-- Zweites Beispiel eines politischen Arguments (deduktiv gültiges Argument)
-  - Rekonstruktion des Arguments
-    - Identifikation von Prämissen und Konklusion
-    - Übersetzung in Standardform
-  - Bewertung des Arguments
-    - Erklärung der deduktiven Gültigkeit
-
-- Einführung der Stichhaltigkeit
-  - Ein Argument ist stichhaltig, wenn es deduktiv gültig ist und die Prämissen wahr sind
-  - Referenz auf das zweite Beispiel
-    - Erklärung warum das Argument aus dem zweiten Beispiel nicht Stichhaltig ist
-    - Umformulierung des Arguments zu einem Stichhaltigen Argument, durch Änderung der Konklusion
 
 = Induktive gültige Argumente
 

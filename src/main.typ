@@ -87,6 +87,14 @@ Es ist also mindestens fraglich, ob es sich bei dem Argument um ein Stichhaltige
 
 = Induktive gültige Argumente
 
+Weniger stark als die deduktive Gültigkeit ist die induktive Gültigkeit.
+
+Ein Argument gilt als induktiv gültig, wenn die Wahrheit der Prämissen die Wahrheit der Konklusion wahrscheinlich macht als die ihre Negation.
+
+= Diskussion zur Nützlichkeit von Logik für Medienkompetenz und politische Bildung
+
+
+
 = Fazit
 
 = Ausblick

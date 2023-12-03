@@ -12,6 +12,20 @@ bartels2005:
     value: "http://www.jstor.org/stable/3688108"
     date: "2023-12-01"
 
+bosworth2020:
+  type: Article
+  title: "An interpretation of political argument"
+  author: "Bosworth, William"
+  journal: "European Journal of Political Theory"
+  volume: 19
+  number: 3
+  pages: "293-313"
+  year: 2020
+  doi: "10.1177/1474885116659842"
+  url:
+    value: "https://doi.org/10.1177/1474885116659842"
+    date: "2023-12-03"
+
 hope2022:
   type: Article
   title: "The economic consequences of major tax cuts for the rich"

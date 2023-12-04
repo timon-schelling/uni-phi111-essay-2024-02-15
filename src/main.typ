@@ -37,6 +37,7 @@ Argumente können literarisch wertvoll, originell oder auch rhetorisch geschickt
 In dieser Arbeit sollen allerdings allein Eigenschaften von Argumenten betrachtet werden, mit denen sich die philosophische Disziplin der Logik beschäftigt, namentlich die Gültigkeit und die Stichhaltigkeit.
 Im Folgenden wird am Beispiel politischer Argumente eine Einführung in die Logik gegeben.
 Fokus soll dabei auf der Logik als Werkzeug liegen, mit dem sich politische Argumente bewerten lassen.
+Im #link(<discussion>, [_letzten Kapitel der Arbeit_]) wird zusätzlich diskutiert, inwiefern die Logik für politische Bildung im allgemeinen und Medienkompetenz im speziellen nützlich ist.
 
 = Deduktive gültige Argumente
 
@@ -91,7 +92,7 @@ Weniger stark als die deduktive Gültigkeit ist die induktive Gültigkeit.
 
 Ein Argument gilt als induktiv gültig, wenn die Wahrheit der Prämissen die Wahrheit der Konklusion wahrscheinlich macht als die ihre Negation.
 
-= Diskussion zur Nützlichkeit von Logik für Medienkompetenz und politische Bildung
+= Diskussion zur Nützlichkeit von Logik für Medienkompetenz und politische Bildung <discussion>
 
 
 

@@ -92,9 +92,17 @@ Weniger stark als die deduktive Gültigkeit ist die induktive Gültigkeit.
 
 Ein Argument gilt als induktiv gültig, wenn die Wahrheit der Prämissen die Wahrheit der Konklusion wahrscheinlich macht als die ihre Negation.
 
-= Diskussion zur Nützlichkeit von Logik für Medienkompetenz und politische Bildung <discussion>
+= Nützlichkeit von Logik für politische Bildung <discussion>
 
+@bartels2005[vgl.&1]
 
+@bosworth2020[vgl.&1]
+
+@hope2022[vgl.&1]
+
+@lupia2007[vgl.&1]
+
+@marx2019[vgl.&1]
 
 = Fazit
 

@@ -2,7 +2,7 @@ bartels2005:
   type: Article
   title: "Homer Gets a Tax Cut: Inequality and Public Policy in the American Mind"
   author: "Bartels, Larry M."
-  year: 2005
+  date: 2005
   publisher: "Perspectives on Politics"
   doi: "10.1017/s1537592705050036"
   url:
@@ -21,7 +21,7 @@ lupia2007:
     - "Levine, Adam Seth"
     - "Menning, Jesse O."
     - "Sin, Gisela"
-  year: 2007
+  date: 2007
   publisher: "Cambridge University Press"
   doi: "10.1017/S1537592707072210"
   url:
@@ -36,15 +36,15 @@ bosworth2020:
   type: Article
   title: "An interpretation of political argument"
   author: "Bosworth, William"
+  date: 2020
   publisher: "European Journal of Political Theory"
-  volume: 19
-  number: 3
-  page-range: 293-313
-  year: 2020
   doi: "10.1177/1474885116659842"
   url:
     value: "https://doi.org/10.1177/1474885116659842"
     date: "2023-12-03"
+  page-range: 293-313
+  volume: 19
+  number: 3
 
 hope2022:
   type: Article
@@ -52,7 +52,7 @@ hope2022:
   author:
     - "Hope, David"
     - "Limberg, Julian"
-  year: 2022
+  date: 2022
   publisher: "Socio-Economic Review"
   doi: "10.1093/ser/mwab061"
   url:
@@ -68,7 +68,7 @@ marx2019:
   type: Chapter
   title: "Medienkompetenz"
   author: "Marx, Stefan A."
-  year: 2019
+  date: 2019
   publisher: "Academia Verlag"
   doi: "10.5771/9783896657541-148"
   url:

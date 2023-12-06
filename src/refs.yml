@@ -2,24 +2,44 @@ bartels2005:
   type: Article
   title: "Homer Gets a Tax Cut: Inequality and Public Policy in the American Mind"
   author: "Bartels, Larry M."
-  journal: "Perspectives on Politics"
+  year: 2005
+  publisher: "Perspectives on Politics"
+  doi: "10.1017/s1537592705050036"
+  url:
+    value: "https://doi.org/10.1017/s1537592705050036"
+    date: "2023-12-06"
+  page-range: 15-31
   volume: 3
   number: 1
-  pages: "15-31"
-  year: 2005
   issn: "15375927, 15410986"
+
+lupia2007:
+  type: Article
+  title: "Were Bush Tax Cut Supporters 'Simply Ignorant?' A Second Look at Conservatives and Liberals in 'Homer Gets a Tax Cut'"
+  author:
+    - "Lupia, Arthur"
+    - "Levine, Adam Seth"
+    - "Menning, Jesse O."
+    - "Sin, Gisela"
+  year: 2007
+  publisher: "Cambridge University Press"
+  doi: "10.1017/S1537592707072210"
   url:
-    value: "http://www.jstor.org/stable/3688108"
-    date: "2023-12-01"
+    value: "https://doi.org/10.1017/S1537592707072210"
+    date: "2023-12-06"
+  page-range: 773-784
+  journal: "Perspectives on Politics"
+  volume: 5
+  number: 4
 
 bosworth2020:
   type: Article
   title: "An interpretation of political argument"
   author: "Bosworth, William"
-  journal: "European Journal of Political Theory"
+  publisher: "European Journal of Political Theory"
   volume: 19
   number: 3
-  pages: "293-313"
+  page-range: 293-313
   year: 2020
   doi: "10.1177/1474885116659842"
   url:
@@ -32,14 +52,26 @@ hope2022:
   author:
     - "Hope, David"
     - "Limberg, Julian"
-  journal: "Socio-Economic Review"
-  volume: 20
-  number: 2
-  pages: "539-559"
   year: 2022
-  month: "01"
-  issn: "1475-1461"
+  publisher: "Socio-Economic Review"
   doi: "10.1093/ser/mwab061"
   url:
     value: "https://doi.org/10.1093/ser/mwab061"
     date: "2023-12-01"
+  page-range: 539-559
+  volume: 20
+  number: 2
+  month: "01"
+  issn: "1475-1461"
+
+marx2019:
+  type: Chapter
+  title: "Medienkompetenz"
+  author: "Marx, Stefan A."
+  year: 2019
+  publisher: "Academia Verlag"
+  doi: "10.5771/9783896657541-148"
+  url:
+    value: "https://doi.org/10.5771/9783896657541-148"
+    date: "2023-12-06"
+  page-range: 148-162

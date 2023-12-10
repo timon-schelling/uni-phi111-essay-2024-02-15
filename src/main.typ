@@ -75,7 +75,7 @@ Gültigkeit kann also nicht die einzige Eigenschaft sein, die ein Argument haben
 Wenn bei einem deduktiv gültigen Argument die Prämissen wahr sind, so handelt es sich um ein Stichhaltiges Argument.
 
 Bei dem vorliegenden Argument besteht wissenschaftlich begründeter Zweifel an der Wahrheit der zweiten Prämisse. @hope2022[vgl.&555]
-Es ist also mindestens fraglich, ob es sich bei dem Argument um ein Stichhaltiges Argument handelt, was die Überzeugungskraft des Arguments deutlich schmälert.
+Es ist also mindestens fraglich, ob es sich bei dem Argument um ein stichhaltiges Argument handelt, was die Überzeugungskraft des Arguments deutlich schmälert.
 
 
 // Es ist offensichtlich, dass die Konklusion aus den Prämissen folgt, die Wahrheit der Prämissen garantiert die Wahrheit der Konklusion.
@@ -103,6 +103,8 @@ Ein Argument gilt als induktiv gültig, wenn die Wahrheit der Prämissen die Wah
 @lupia2007[vgl.&1]
 
 @marx2019[vgl.&1]
+
+Siehe @messmer2021[vgl.&1]
 
 = Fazit
 

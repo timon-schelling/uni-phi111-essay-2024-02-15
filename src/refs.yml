@@ -75,3 +75,16 @@ marx2019:
     value: "https://doi.org/10.5771/9783896657541-148"
     date: "2023-12-06"
   page-range: 148-162
+
+messmer2021:
+  type: Report
+  title: "Quelle: Internet? Digitale Nachrichten- und Informationskompetenzen der deutschen Bevölkerung im Test"
+  author:
+    - "Meßmer, Anna-Katharina"
+    - "Sängerlaub, Alexander"
+    - "Schulz, Leonie"
+  institution: "Stiftung Neue Verantwortung (SNV)"
+  date: 2021-03-22
+  url:
+    value: "https://www.stiftung-nv.de/sites/default/files/studie_quelleinternet.pdf"
+    date: "2023-12-05"

@@ -13,7 +13,7 @@ bartels2005:
   number: 1
   issn: "15375927, 15410986"
 
-brunstaed1933: # TOFO: check if this is the correct infos
+brunstaed1933: # TODO: check if this is the correct infos
   type: Book
   title: "Logik"
   author: "Brunstäd, Friedrich"
@@ -101,7 +101,7 @@ messmer2021:
     value: "https://www.stiftung-nv.de/sites/default/files/studie_quelleinternet.pdf"
     date: "2023-12-05"
 
-hegel2023part3: # TOFO: check if this is the correct infos and reformate
+hegel2023part3: # TODO: check if this is the correct infos and reformate
   type: Book
   title: "Vorlesungen über die Geschichte der Philosophie III"
   author: "Hegel, Georg Wilhelm Friedrich"

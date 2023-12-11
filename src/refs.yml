@@ -13,6 +13,18 @@ bartels2005:
   number: 1
   issn: "15375927, 15410986"
 
+brunstaed1933: # TOFO: check if this is the correct infos
+  type: Book
+  title: "Logik"
+  author: "Brunstäd, Friedrich"
+  date: 1933
+  publisher: "Oldenbourg Wissenschaftsverlag"
+  doi: "10.1515/9783486768510"
+  url:
+    value: "https://doi.org/10.1515/9783486768510"
+    date: "2023-12-11"
+  isbn: "9783486768510"
+
 lupia2007:
   type: Article
   title: "Were Bush Tax Cut Supporters 'Simply Ignorant?' A Second Look at Conservatives and Liberals in 'Homer Gets a Tax Cut'"
@@ -88,3 +100,20 @@ messmer2021:
   url:
     value: "https://www.stiftung-nv.de/sites/default/files/studie_quelleinternet.pdf"
     date: "2023-12-05"
+
+hegel2023part3: # TOFO: check if this is the correct infos and reformate
+  type: Book
+  title: "Vorlesungen über die Geschichte der Philosophie III"
+  author: "Hegel, Georg Wilhelm Friedrich"
+  date: 2023
+  publisher: "Felix Meiner Verlag"
+  url:
+    value: "https://d-nb.info/1192777727"
+    date: "2023-12-11"
+  page-range: "792-1346"
+  isbn: "978-3-7873-2968-7"
+  ean: "9783787329687"
+  language: "Deutsch"
+  format: "X Seiten, 1525 g"
+  doi: "10.28937/978-3-7873-3738-5"
+  additional_url: "https://d-nb.info/1192777727/04" # Inhaltsverzeichnis

@@ -13,17 +13,40 @@ bartels2005:
   number: 1
   issn: "15375927, 15410986"
 
-brunstaed1933: # TODO: check if this is the correct infos
-  type: Book
-  title: "Logik"
-  author: "Brunstäd, Friedrich"
-  date: 1933
-  publisher: "Oldenbourg Wissenschaftsverlag"
-  doi: "10.1515/9783486768510"
+hope2022:
+  type: Article
+  title: "The economic consequences of major tax cuts for the rich"
+  author:
+    - "Hope, David"
+    - "Limberg, Julian"
+  date: 2022
+  publisher: "Socio-Economic Review"
+  doi: "10.1093/ser/mwab061"
   url:
-    value: "https://doi.org/10.1515/9783486768510"
-    date: "2023-12-11"
-  isbn: "9783486768510"
+    value: "https://doi.org/10.1093/ser/mwab061"
+    date: "2023-12-01"
+  page-range: 539-559
+  volume: 20
+  number: 2
+  month: "01"
+  issn: "1475-1461"
+
+mason2018:
+  type: Article
+  title: "Media Literacy, Democracy, and the Challenge of Fake News"
+  author:
+    - "Mason, Lance E."
+    - "Krutka, Daniel G."
+    - "Stoddard, Jeremy"
+  date: 2018
+  publisher: "Journal of Media Literacy Education"
+  doi: "10.23860/JMLE-2018-10-2-1"
+  url:
+    value: "https://doi.org/10.23860/JMLE-2018-10-2-1"
+    date: "2023-12-06"
+  page-range: 1-10
+  volume: 10
+  number: 2
 
 lupia2007:
   type: Article
@@ -58,24 +81,6 @@ bosworth2020:
   volume: 19
   number: 3
 
-hope2022:
-  type: Article
-  title: "The economic consequences of major tax cuts for the rich"
-  author:
-    - "Hope, David"
-    - "Limberg, Julian"
-  date: 2022
-  publisher: "Socio-Economic Review"
-  doi: "10.1093/ser/mwab061"
-  url:
-    value: "https://doi.org/10.1093/ser/mwab061"
-    date: "2023-12-01"
-  page-range: 539-559
-  volume: 20
-  number: 2
-  month: "01"
-  issn: "1475-1461"
-
 marx2019:
   type: Chapter
   title: "Medienkompetenz"
@@ -88,7 +93,7 @@ marx2019:
     date: "2023-12-06"
   page-range: 148-162
 
-messmer2021:
+messmer2021: # SUS NO DOI
   type: Report
   title: "Quelle: Internet? Digitale Nachrichten- und Informationskompetenzen der deutschen Bevölkerung im Test"
   author:
@@ -117,3 +122,15 @@ hegel2023part3: # TODO: check if this is the correct infos and reformate
   format: "X Seiten, 1525 g"
   doi: "10.28937/978-3-7873-3738-5"
   additional_url: "https://d-nb.info/1192777727/04" # Inhaltsverzeichnis
+
+brunstaed1933: # TODO: check if this is the correct infos
+  type: Book
+  title: "Logik"
+  author: "Brunstäd, Friedrich"
+  date: 1933
+  publisher: "Oldenbourg Wissenschaftsverlag"
+  doi: "10.1515/9783486768510"
+  url:
+    value: "https://doi.org/10.1515/9783486768510"
+    date: "2023-12-11"
+  isbn: "9783486768510"

@@ -94,6 +94,9 @@ Ein Argument gilt als induktiv gültig, wenn die Wahrheit der Prämissen die Wah
 
 = Nützlichkeit von Logik für politische Bildung <discussion>
 
+// einführung von fake news
+Spätestens in den letzten Jahren ist die Bedeutung von Medienkompetenz auch für die breite Bevölkerung deutlich geworden. @mason2018[vgl.&6] Im Englischen als "Fake News" bekannt gewordene, Falschinformationen zeigten sich den Demokratien der Welt als einflussmächtiges Instrument um Wahlen im speziellen und die öffentliche Meinung im allgemeinen zu beeinflussen. @mason2018[vgl.&4-5, 7]
+
 @bartels2005[vgl.&1]
 
 @bosworth2020[vgl.&1]

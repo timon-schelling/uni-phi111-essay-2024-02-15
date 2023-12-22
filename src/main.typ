@@ -47,7 +47,7 @@ Die Wahrheit der Prämissen muss die Wahrheit der Konklusion garantieren.
 Wenn es sich bei einem Argument also um ein deduktiv gültiges Argument handelt, ist keine Welt denkbar, in der die Prämissen wahr sind, aber die Konklusion falsch.
 Es ist dabei, für die deduktive Gültigkeit, egal ob die Prämissen tatsächlich wahr sind, es geht ausschließlich um den Zusammenhang zwischen den Prämissen und der Konklusion.
 
-Das folgende Argument könnte Benutzt werden, um für Steuersenkungen für Reiche zu argumentieren, wie es Beispielweise die US Regierung unter Bush getan hat. @bartels2005[vgl.&15] // TODO: add reference to fdp
+Das folgende Argument könnte Benutzt werden, um für Steuersenkungen für Reiche zu argumentieren, wie es Beispielweise die US Regierung unter Bush getan hat. @bartels2005[vgl.&15] @lupia2007[vgl.&1-2] // TODO: add reference to fdp
 
 #argument(
   (
@@ -77,14 +77,12 @@ Wenn bei einem deduktiv gültigen Argument die Prämissen wahr sind, so handelt 
 Bei dem vorliegenden Argument besteht wissenschaftlich begründeter Zweifel an der Wahrheit der zweiten Prämisse. @hope2022[vgl.&555]
 Es ist also mindestens fraglich, ob es sich bei dem Argument um ein stichhaltiges Argument handelt, was die Überzeugungskraft des Arguments deutlich schmälert.
 
-
 // Es ist offensichtlich, dass die Konklusion aus den Prämissen folgt, die Wahrheit der Prämissen garantiert die Wahrheit der Konklusion.
 // Das Argument hat sich erneut als deduktiv gültig erwiesen.
 
 // wenn die Struktur des Arguments so beschaffen ist, dass, falls die Prämissen wahr sind, die Konklusion notwendigerweise wahr sein muss. Mit anderen Worten, die Wahrheit der Prämissen garantiert die Wahrheit der Schlussfolgerung.
 
 // Das bedeutet nicht, dass die Prämissen selbst tatsächlich wahr sein müssen; es geht vielmehr um die Beziehung zwischen den Prämissen und der Schlussfolgerung. Wenn die Prämissen wahr sind und die Schlussfolgerung falsch ist, ist das Argument nicht deduktiv gültig.
-
 
 = Induktive gültige Argumente
 
@@ -94,20 +92,9 @@ Ein Argument gilt als induktiv gültig, wenn die Wahrheit der Prämissen die Wah
 
 = Nützlichkeit von Logik für politische Bildung <discussion>
 
-// einführung von fake news
-Spätestens in den letzten Jahren ist die Bedeutung von Medienkompetenz auch für die breite Bevölkerung deutlich geworden. @mason2018[vgl.&6] Im Englischen als "Fake News" bekannt gewordene, Falschinformationen zeigten sich den Demokratien der Welt als einflussmächtiges Instrument um Wahlen im speziellen und die öffentliche Meinung im allgemeinen zu beeinflussen. @mason2018[vgl.&4-5, 7]
-
-@bartels2005[vgl.&1]
-
-@bosworth2020[vgl.&1]
-
-@hope2022[vgl.&1]
-
-@lupia2007[vgl.&1]
-
-@marx2019[vgl.&1]
-
-Siehe @messmer2021[vgl.&1]
+Spätestens in den letzten Jahren ist die Bedeutung von Medienkompetenz auch für die breite Bevölkerung deutlich geworden. @mason2018[vgl.&6]
+Im Englischen als "Fake News" bekannt gewordene, Falschinformationen zeigten sich den Demokratien der Welt als einflussmächtiges Instrument um Wahlen im speziellen und die öffentliche Meinung im allgemeinen zu beeinflussen. @greifeneder2020[vgl.&1-3] @eleftheriadi-zacharaki2022[vgl.&145-146]
+Die Fähigkeit, Falschinformationen zu erkennen und zu entlarven ist eine relevanter Teil der Medienkompetenz, die in der Schule vermittelt werden sollte. @eikenbusch2018[vgl.&6-9]
 
 = Fazit
 

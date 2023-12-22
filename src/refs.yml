@@ -4,49 +4,15 @@ bartels2005:
   author: "Bartels, Larry M."
   date: 2005
   publisher: "Perspectives on Politics"
-  doi: "10.1017/s1537592705050036"
+  serial-number:
+    doi: "10.1017/s1537592705050036"
+    issn: "15375927, 15410986"
   url:
     value: "https://doi.org/10.1017/s1537592705050036"
     date: "2023-12-06"
   page-range: 15-31
   volume: 3
   number: 1
-  issn: "15375927, 15410986"
-
-hope2022:
-  type: Article
-  title: "The economic consequences of major tax cuts for the rich"
-  author:
-    - "Hope, David"
-    - "Limberg, Julian"
-  date: 2022
-  publisher: "Socio-Economic Review"
-  doi: "10.1093/ser/mwab061"
-  url:
-    value: "https://doi.org/10.1093/ser/mwab061"
-    date: "2023-12-01"
-  page-range: 539-559
-  volume: 20
-  number: 2
-  month: "01"
-  issn: "1475-1461"
-
-mason2018:
-  type: Article
-  title: "Media Literacy, Democracy, and the Challenge of Fake News"
-  author:
-    - "Mason, Lance E."
-    - "Krutka, Daniel G."
-    - "Stoddard, Jeremy"
-  date: 2018
-  publisher: "Journal of Media Literacy Education"
-  doi: "10.23860/JMLE-2018-10-2-1"
-  url:
-    value: "https://doi.org/10.23860/JMLE-2018-10-2-1"
-    date: "2023-12-06"
-  page-range: 1-10
-  volume: 10
-  number: 2
 
 lupia2007:
   type: Article
@@ -58,7 +24,8 @@ lupia2007:
     - "Sin, Gisela"
   date: 2007
   publisher: "Cambridge University Press"
-  doi: "10.1017/S1537592707072210"
+  serial-number:
+    doi: "10.1017/S1537592707072210"
   url:
     value: "https://doi.org/10.1017/S1537592707072210"
     date: "2023-12-06"
@@ -67,13 +34,136 @@ lupia2007:
   volume: 5
   number: 4
 
+hope2022:
+  type: Article
+  title: "The economic consequences of major tax cuts for the rich"
+  author:
+    - "Hope, David"
+    - "Limberg, Julian"
+  date: 2022
+  publisher: "Socio-Economic Review"
+  serial-number:
+    doi: "10.1093/ser/mwab061"
+    issn: "1475-1461"
+  url:
+    value: "https://doi.org/10.1093/ser/mwab061"
+    date: "2023-12-01"
+  page-range: 539-559
+  volume: 20
+  number: 2
+
+mason2018:
+  type: Article
+  title: "Media Literacy, Democracy, and the Challenge of Fake News"
+  author:
+    - "Mason, Lance E."
+    - "Krutka, Daniel G."
+    - "Stoddard, Jeremy"
+  date: 2018
+  publisher: "Journal of Media Literacy Education"
+  serial-number:
+    doi: "10.23860/JMLE-2018-10-2-1"
+  url:
+    value: "https://doi.org/10.23860/JMLE-2018-10-2-1"
+    date: "2023-12-06"
+  page-range: 1-10
+  volume: 10
+  number: 2
+
+greifeneder2020:
+  type: Book
+  title: "The Psychology of Fake News: Accepting, Sharing, and Correcting Misinformation"
+  author:
+    - "Greifeneder, Rainer"
+    - "Jaffe, Mariela E."
+    - "Newman, Eryn J."
+    - "Schwarz, Norbert"
+  date: 2020
+  publisher: "Routledge"
+  serial-number:
+    doi: "10.4324/9780429295379"
+    isbn: "978-0-429-29537-9"
+  url:
+    value: "https://doi.org/10.4324/9780429295379"
+    date: "2023-12-06"
+  edition: 1
+
+eleftheriadi-zacharaki2022:
+  type: Book
+  title: "Vom Umgang mit Fake News, Lüge und Verschwörung: Interdisziplinäre Perspektiven"
+  author:
+    - "Eleftheriadi-Zacharaki, Sofia"
+    - "Hebing, Sönke"
+    - "Manstetten, Gerald"
+    - "Paganini, Simone"
+  date: 2022
+  publisher: "Nomos Verlagsgesellschaft"
+  serial-number:
+    doi: "10.5771/9783748925392"
+    isbn: "978-3-7489-2539-2"
+  url:
+    value: "https://doi.org/10.5771/9783748925392"
+    date: "2023-12-06"
+  edition: 1
+  volume: 17
+  language: "de"
+  series: "Kommunikations- und Medienethik"
+  city: "Baden-Baden"
+
+eikenbusch2018:
+  type: Article
+  title: " Wahrheit allein hilft nicht: Was Schulen gegen Fake News, Desinformation und Propaganda tun können"
+  author: "Eikenbusch, Gerhard"
+  date: 2018
+  publisher: "Pädagogik"
+  serial-number:
+    issn: "0933-422X"
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/c1m53n/TN_cdi_dipf_primary_1156466"
+    date: "2023-12-06"
+  page-range: 6-9
+  volume: 70
+  number: "7/8"
+
+marx2019:
+  type: Book
+  title: "Medienkompetenz: Vom selbstbestimmten Umgang mit den Medien"
+  author: "Marx, Stefan A."
+  date: 2019
+  publisher: "Academia Verlag"
+  serial-number:
+    doi: "10.5771/9783896657541-148"
+    isbn: "978-3-8966-5754-1"
+  url:
+    value: "https://doi.org/10.5771/9783896657541-148"
+    date: "2023-12-12"
+  page-range: 148-162
+
+beckermann2011:
+  type: Book
+  title: "Einführung in die Logik"
+  author: "Beckermann, Ansgar"
+  date: 2011
+  publisher: "De Gruyter"
+  serial-number:
+    doi: "10.1515/9783110254358"
+  url:
+    value: "https://doi.org/10.1515/9783110254358"
+    date: "2023-12-22"
+  city: "Berlin, New York"
+  edition: 3
+
+
+
+
 bosworth2020:
   type: Article
   title: "An interpretation of political argument"
   author: "Bosworth, William"
   date: 2020
   publisher: "European Journal of Political Theory"
-  doi: "10.1177/1474885116659842"
+  serial-number:
+    doi: "10.1177/1474885116659842"
   url:
     value: "https://doi.org/10.1177/1474885116659842"
     date: "2023-12-03"
@@ -81,17 +171,9 @@ bosworth2020:
   volume: 19
   number: 3
 
-marx2019:
-  type: Chapter
-  title: "Medienkompetenz"
-  author: "Marx, Stefan A."
-  date: 2019
-  publisher: "Academia Verlag"
-  doi: "10.5771/9783896657541-148"
-  url:
-    value: "https://doi.org/10.5771/9783896657541-148"
-    date: "2023-12-06"
-  page-range: 148-162
+
+
+
 
 messmer2021: # SUS NO DOI
   type: Report
@@ -116,11 +198,13 @@ hegel2023part3: # TODO: check if this is the correct infos and reformate
     value: "https://d-nb.info/1192777727"
     date: "2023-12-11"
   page-range: "792-1346"
-  isbn: "978-3-7873-2968-7"
-  ean: "9783787329687"
+  serial-number:
+    doi: "10.28937/978-3-7873-3738-5"
+    isbn: "978-3-7873-2968-7"
+    ean: "9783787329687"
   language: "Deutsch"
   format: "X Seiten, 1525 g"
-  doi: "10.28937/978-3-7873-3738-5"
+
   additional_url: "https://d-nb.info/1192777727/04" # Inhaltsverzeichnis
 
 brunstaed1933: # TODO: check if this is the correct infos
@@ -129,7 +213,8 @@ brunstaed1933: # TODO: check if this is the correct infos
   author: "Brunstäd, Friedrich"
   date: 1933
   publisher: "Oldenbourg Wissenschaftsverlag"
-  doi: "10.1515/9783486768510"
+  serial-number:
+    doi: "10.1515/9783486768510"
   url:
     value: "https://doi.org/10.1515/9783486768510"
     date: "2023-12-11"

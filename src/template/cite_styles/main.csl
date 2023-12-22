@@ -135,7 +135,9 @@
         </else-if>
       </choose>
     </group>
-    <text variable="DOI" prefix="doi:" suffix=", "/>
+    <text variable="DOI" prefix="doi: " suffix=". "/>
+    <text variable="ISBN" prefix="isbn: " suffix=". "/>
+    <text variable="ISSN" prefix="issn: " suffix=". "/>
     <text variable="URL"/>
     <group prefix=" (" suffix=")">
       <text term="accessed" suffix=": "/>

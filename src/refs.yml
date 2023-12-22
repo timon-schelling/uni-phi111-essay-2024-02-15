@@ -12,7 +12,7 @@ bartels2005:
     date: "2023-12-06"
   page-range: 15-31
   volume: 3
-  number: 1
+  issue: 1
 
 lupia2007:
   type: Article
@@ -32,7 +32,7 @@ lupia2007:
   page-range: 773-784
   journal: "Perspectives on Politics"
   volume: 5
-  number: 4
+  issue: 4
 
 hope2022:
   type: Article
@@ -50,7 +50,7 @@ hope2022:
     date: "2023-12-01"
   page-range: 539-559
   volume: 20
-  number: 2
+  issue: 2
 
 mason2018:
   type: Article
@@ -68,7 +68,7 @@ mason2018:
     date: "2023-12-06"
   page-range: 1-10
   volume: 10
-  number: 2
+  issue: 2
 
 greifeneder2020:
   type: Book
@@ -123,7 +123,7 @@ eikenbusch2018:
     date: "2023-12-06"
   page-range: 6-9
   volume: 70
-  number: "7/8"
+  issue: "7/8"
 
 marx2019:
   type: Book
@@ -169,7 +169,7 @@ bosworth2020:
     date: "2023-12-03"
   page-range: 293-313
   volume: 19
-  number: 3
+  issue: 3
 
 
 

@@ -7,9 +7,6 @@ bartels2005:
   serial-number:
     doi: "10.1017/s1537592705050036"
     issn: "15375927, 15410986"
-  url:
-    value: "https://doi.org/10.1017/s1537592705050036"
-    date: "2023-12-06"
   page-range: 15-31
   volume: 3
   issue: 1
@@ -26,9 +23,6 @@ lupia2007:
   publisher: "Cambridge University Press"
   serial-number:
     doi: "10.1017/S1537592707072210"
-  url:
-    value: "https://doi.org/10.1017/S1537592707072210"
-    date: "2023-12-06"
   page-range: 773-784
   journal: "Perspectives on Politics"
   volume: 5
@@ -45,9 +39,6 @@ hope2022:
   serial-number:
     doi: "10.1093/ser/mwab061"
     issn: "1475-1461"
-  url:
-    value: "https://doi.org/10.1093/ser/mwab061"
-    date: "2023-12-01"
   page-range: 539-559
   volume: 20
   issue: 2
@@ -63,9 +54,6 @@ mason2018:
   publisher: "Journal of Media Literacy Education"
   serial-number:
     doi: "10.23860/JMLE-2018-10-2-1"
-  url:
-    value: "https://doi.org/10.23860/JMLE-2018-10-2-1"
-    date: "2023-12-06"
   page-range: 1-10
   volume: 10
   issue: 2
@@ -83,9 +71,6 @@ greifeneder2020:
   serial-number:
     doi: "10.4324/9780429295379"
     isbn: "9780429295379"
-  url:
-    value: "https://doi.org/10.4324/9780429295379"
-    date: "2023-12-06"
   edition: 1
 
 eleftheriadi-zacharaki2022:
@@ -101,9 +86,6 @@ eleftheriadi-zacharaki2022:
   serial-number:
     doi: "10.5771/9783748925392"
     isbn: "9783748925392"
-  url:
-    value: "https://doi.org/10.5771/9783748925392"
-    date: "2023-12-06"
   edition: 1
   volume: 17
   language: "de"
@@ -135,8 +117,6 @@ marx2019:
   serial-number:
     doi: "10.5771/9783896657541-148"
     isbn: "9783896657541"
-  url:
-    value: "https://doi.org/10.5771/9783896657541-148"
     date: "2023-12-12"
   page-range: 148-162
 
@@ -149,9 +129,6 @@ beckermann2011:
   serial-number:
     doi: "10.1515/9783110254358"
     isbn: "9783110254358"
-  url:
-    value: "https://doi.org/10.1515/9783110254358"
-    date: "2023-12-22"
   edition: 3
 
 krimphove2012:
@@ -178,9 +155,6 @@ bosworth2020:
   publisher: "European Journal of Political Theory"
   serial-number:
     doi: "10.1177/1474885116659842"
-  url:
-    value: "https://doi.org/10.1177/1474885116659842"
-    date: "2023-12-03"
   page-range: 293-313
   volume: 19
   issue: 3
@@ -229,7 +203,4 @@ brunstaed1933: # TODO: check if this is the correct infos
   publisher: "Oldenbourg Wissenschaftsverlag"
   serial-number:
     doi: "10.1515/9783486768510"
-  url:
-    value: "https://doi.org/10.1515/9783486768510"
-    date: "2023-12-11"
   isbn: "9783486768510"

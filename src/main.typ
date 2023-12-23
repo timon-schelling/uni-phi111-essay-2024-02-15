@@ -41,11 +41,11 @@ Im #link(<discussion>, [_letzten Kapitel der Arbeit_]) wird zusätzlich diskutie
 
 = Deduktive gültige Argumente
 
-Um die Qualität politischer Argumente zu bewerten, ist es entscheidend, das Konzept der deduktiven Gültigkeit in der Logik zu verstehen.
-Ein Argument gilt genau dann als deduktiv gültig, wenn die Konklusion aus den Prämissen folgt.
-Die Wahrheit der Prämissen muss die Wahrheit der Konklusion garantieren.
+Um die Qualität politischer Argumente zu bewerten, ist es hilfreich, das Konzept der deduktiven Gültigkeit in der Logik zu verstehen.
+Ein Argument gilt genau dann als deduktiv gültig, wenn die Konklusion aus den Prämissen folgt. @beckermann2011[vgl.&21]
+Die Wahrheit der Prämissen muss die Wahrheit der Konklusion garantieren. @beckermann2011[vgl.&20]
 Wenn es sich bei einem Argument also um ein deduktiv gültiges Argument handelt, ist keine Welt denkbar, in der die Prämissen wahr sind, aber die Konklusion falsch.
-Es ist dabei, für die deduktive Gültigkeit, egal ob die Prämissen tatsächlich wahr sind, es geht ausschließlich um den Zusammenhang zwischen den Prämissen und der Konklusion.
+Es ist dabei, für die deduktive Gültigkeit, egal ob die Prämissen tatsächlich wahr sind, es geht ausschließlich um den Zusammenhang zwischen den Prämissen und der Konklusion. @beckermann2011[vgl.&21-22]
 
 Das folgende Argument könnte Benutzt werden, um für Steuersenkungen für Reiche zu argumentieren, wie es Beispielweise die US Regierung unter Bush getan hat. @bartels2005[vgl.&15] @lupia2007[vgl.&1-2] // TODO: add reference to fdp
 
@@ -57,7 +57,7 @@ Das folgende Argument könnte Benutzt werden, um für Steuersenkungen für Reich
   [Steuersenkungen für Reiche sind eine gute Maßnahme.]
 )
 
-Die erste Prämisse des Arguments ist ein Konditional, sie besteht aus zwei Teilen, dem Antezedens und dem Konsequens.
+Die erste Prämisse des Arguments ist ein Konditional, sie besteht aus zwei Teilen, dem Antezedens und dem Konsequens. @beckermann2011[vgl.&150-152] @krimphove2012[vgl.&55-58]
 // TODO: welche artikel für antezedens und konsequens?
 Das Antezedens ist der Erste Halbsatz der Premisse, er beginnt hier mit "Wenn".
 Die Konsequens ist der zweite Halbsatz, er beginnt hier mit "dann".
@@ -70,9 +70,9 @@ Das Argument hat sich als deduktiv gültig erwiesen.
 
 Ohne viel fachsprachliches Vokabular erklärt, es ist keine Welt denkbar, in der Beide Prämissen des Arguments wahr sind, die Konklusion aber falsch, also ist das Argument ein deduktiv Gültiges.
 
-Zu beachten ist hier wieder, dass bei einem deduktiv gültigen Argument die Wahrheit der Prämissen nicht garantiert ist.
-Gültigkeit kann also nicht die einzige Eigenschaft sein, die ein Argument haben muss, um überzeugend zu sein, dafür ist die Wahrheit der Prämissen ebenso entscheidend, in der Logik wird diese Eigenschaft von Argumenten Stichhaltigkeit genannt.
-Wenn bei einem deduktiv gültigen Argument die Prämissen wahr sind, so handelt es sich um ein Stichhaltiges Argument.
+Zu beachten ist hier wieder, dass bei einem deduktiv gültigen Argument die Wahrheit der Prämissen nicht garantiert ist. @beckermann2011[vgl.&21-22]
+Gültigkeit kann also nicht die einzige Eigenschaft sein, die ein Argument haben muss, um überzeugend zu sein, dafür ist die Wahrheit der Prämissen ebenso entscheidend, in der Logik wird diese Eigenschaft von Argumenten Stichhaltigkeit genannt. @krimphove2012[vgl.&8]
+Wenn bei einem deduktiv gültigen Argument die Prämissen wahr sind, so handelt es sich um ein Stichhaltiges Argument. @beckermann2011[vgl.&22]
 
 Bei dem vorliegenden Argument besteht wissenschaftlich begründeter Zweifel an der Wahrheit der zweiten Prämisse. @hope2022[vgl.&555]
 Es ist also mindestens fraglich, ob es sich bei dem Argument um ein stichhaltiges Argument handelt, was die Überzeugungskraft des Arguments deutlich schmälert.

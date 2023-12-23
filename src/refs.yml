@@ -82,7 +82,7 @@ greifeneder2020:
   publisher: "Routledge"
   serial-number:
     doi: "10.4324/9780429295379"
-    isbn: "978-0-429-29537-9"
+    isbn: "9780429295379"
   url:
     value: "https://doi.org/10.4324/9780429295379"
     date: "2023-12-06"
@@ -100,7 +100,7 @@ eleftheriadi-zacharaki2022:
   publisher: "Nomos Verlagsgesellschaft"
   serial-number:
     doi: "10.5771/9783748925392"
-    isbn: "978-3-7489-2539-2"
+    isbn: "9783748925392"
   url:
     value: "https://doi.org/10.5771/9783748925392"
     date: "2023-12-06"
@@ -133,7 +133,7 @@ marx2019:
   publisher: "Academia Verlag"
   serial-number:
     doi: "10.5771/9783896657541-148"
-    isbn: "978-3-8966-5754-1"
+    isbn: "9783896657541"
   url:
     value: "https://doi.org/10.5771/9783896657541-148"
     date: "2023-12-12"
@@ -147,11 +147,24 @@ beckermann2011:
   publisher: "De Gruyter"
   serial-number:
     doi: "10.1515/9783110254358"
+    isbn: "9783110254358"
   url:
     value: "https://doi.org/10.1515/9783110254358"
     date: "2023-12-22"
-  city: "Berlin, New York"
   edition: 3
+
+krimphove2012:
+  type: Book
+  title: "Logik: Einführung in Das Denken"
+  author: "Krimphove, Dieter"
+  date: 2012
+  publisher: "Haufe-Lexwar"
+  serial-number:
+    isbn: "9783648025239"
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/jd1i1v/JBWlbs1652130640"
+    date: "2023-12-22"
+  edition: 1
 
 
 

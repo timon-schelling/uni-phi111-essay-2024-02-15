@@ -117,6 +117,7 @@ eikenbusch2018:
   date: 2018
   publisher: "Pädagogik"
   serial-number:
+    doi: "10.3262/PAED1808006" # NOT WORKING SUS
     issn: "0933-422X"
   url:
     value: "https://plus.orbis-oldenburg.de/permalink/f/c1m53n/TN_cdi_dipf_primary_1156466"

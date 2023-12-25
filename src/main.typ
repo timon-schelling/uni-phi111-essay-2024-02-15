@@ -27,8 +27,6 @@
 
 = Einleitung
 
-// Warum wird dem einen Argument mehr Glauben geschenkt als dem anderen? Wie lassen gute und schlechte Argumente unterscheiden? Fragen, die nicht nur Journalisten und Politiker beschäftigen sollten, sondern eigentlich jeden, denn wir alle werden täglich mit Argumenten konfrontiert.
-
 Menschen, als Teil der Gesellschaft, werden täglich mit Argumenten konfrontiert.
 Sei es als Teil des politischen Diskurses, in Nachrichten, der Werbung oder im privaten Gespräch mit Freunden und Familie.
 Von welchen Argumenten sollten wir uns überzeugen lassen und welche sollten wir ablehnen?

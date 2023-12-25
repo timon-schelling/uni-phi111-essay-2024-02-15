@@ -177,65 +177,56 @@ kaiser2017:
   page-range: 58-60
 
 
+# bosworth2020:
+#   type: Article
+#   title: "An interpretation of political argument"
+#   author: "Bosworth, William"
+#   date: 2020
+#   publisher: "European Journal of Political Theory"
+#   serial-number:
+#     doi: "10.1177/1474885116659842"
+#   page-range: 293-313
+#   volume: 19
+#   issue: 3
 
+# messmer2021: # SUS NO DOI
+#   type: Report
+#   title: "Quelle: Internet? Digitale Nachrichten- und Informationskompetenzen der deutschen Bevölkerung im Test"
+#   author:
+#     - "Meßmer, Anna-Katharina"
+#     - "Sängerlaub, Alexander"
+#     - "Schulz, Leonie"
+#   institution: "Stiftung Neue Verantwortung (SNV)"
+#   date: 2021-03-22
+#   url:
+#     value: "https://www.stiftung-nv.de/sites/default/files/studie_quelleinternet.pdf"
+#     date: "2023-12-05"
 
+# hegel2023part3: # TODO: check if this is the correct infos and reformate
+#   type: Book
+#   title: "Vorlesungen über die Geschichte der Philosophie III"
+#   author: "Hegel, Georg Wilhelm Friedrich"
+#   date: 2023
+#   publisher: "Felix Meiner Verlag"
+#   url:
+#     value: "https://d-nb.info/1192777727"
+#     date: "2023-12-11"
+#   page-range: "792-1346"
+#   serial-number:
+#     doi: "10.28937/978-3-7873-3738-5"
+#     isbn: "978-3-7873-2968-7"
+#     ean: "9783787329687"
+#   language: "Deutsch"
+#   format: "X Seiten, 1525 g"
 
+#   additional_url: "https://d-nb.info/1192777727/04" # Inhaltsverzeichnis
 
-
-bosworth2020:
-  type: Article
-  title: "An interpretation of political argument"
-  author: "Bosworth, William"
-  date: 2020
-  publisher: "European Journal of Political Theory"
-  serial-number:
-    doi: "10.1177/1474885116659842"
-  page-range: 293-313
-  volume: 19
-  issue: 3
-
-
-
-
-
-messmer2021: # SUS NO DOI
-  type: Report
-  title: "Quelle: Internet? Digitale Nachrichten- und Informationskompetenzen der deutschen Bevölkerung im Test"
-  author:
-    - "Meßmer, Anna-Katharina"
-    - "Sängerlaub, Alexander"
-    - "Schulz, Leonie"
-  institution: "Stiftung Neue Verantwortung (SNV)"
-  date: 2021-03-22
-  url:
-    value: "https://www.stiftung-nv.de/sites/default/files/studie_quelleinternet.pdf"
-    date: "2023-12-05"
-
-hegel2023part3: # TODO: check if this is the correct infos and reformate
-  type: Book
-  title: "Vorlesungen über die Geschichte der Philosophie III"
-  author: "Hegel, Georg Wilhelm Friedrich"
-  date: 2023
-  publisher: "Felix Meiner Verlag"
-  url:
-    value: "https://d-nb.info/1192777727"
-    date: "2023-12-11"
-  page-range: "792-1346"
-  serial-number:
-    doi: "10.28937/978-3-7873-3738-5"
-    isbn: "978-3-7873-2968-7"
-    ean: "9783787329687"
-  language: "Deutsch"
-  format: "X Seiten, 1525 g"
-
-  additional_url: "https://d-nb.info/1192777727/04" # Inhaltsverzeichnis
-
-brunstaed1933: # TODO: check if this is the correct infos
-  type: Book
-  title: "Logik"
-  author: "Brunstäd, Friedrich"
-  date: 1933
-  publisher: "Oldenbourg Wissenschaftsverlag"
-  serial-number:
-    doi: "10.1515/9783486768510"
-  isbn: "9783486768510"
+# brunstaed1933: # TODO: check if this is the correct infos
+#   type: Book
+#   title: "Logik"
+#   author: "Brunstäd, Friedrich"
+#   date: 1933
+#   publisher: "Oldenbourg Wissenschaftsverlag"
+#   serial-number:
+#     doi: "10.1515/9783486768510"
+#   isbn: "9783486768510"

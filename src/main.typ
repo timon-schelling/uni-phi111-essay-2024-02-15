@@ -9,7 +9,6 @@
 )
 
 #let argument(premises, conclusion) = align(left, [
-  // #set text(weight: "semibold", size: 0.9em)
   #set text(style: "italic")
   #table(inset: (x: 0.8em, y: 0em), stroke: none)[
     #table(
@@ -56,7 +55,6 @@ Das folgende Argument könnte Benutzt werden, um für Steuersenkungen für Reich
 )
 
 Die erste Prämisse des Arguments ist ein Konditional, sie besteht aus zwei Teilen, dem Antezedens und dem Konsequens. @beckermann2011[vgl.&150-152] @krimphove2012[vgl.&55-58]
-// TODO: welche artikel für antezedens und konsequens?
 Das Antezedens ist der Erste Halbsatz der Premisse, er beginnt hier mit "Wenn".
 Die Konsequens ist der zweite Halbsatz, er beginnt hier mit "dann".
 Das Antezedens ist die Bedingung, die erfüllt sein muss, damit die Konsequens wahr ist.

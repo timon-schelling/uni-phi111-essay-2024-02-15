@@ -10,6 +10,9 @@ bartels2005:
   page-range: 15-31
   volume: 3
   issue: 1
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/16bfg8u/TN_cdi_proquest_ebookcentralchapters_4694159_32_161"
+    date: "2023-12-21"
 
 lupia2007:
   type: Article
@@ -27,6 +30,9 @@ lupia2007:
   journal: "Perspectives on Politics"
   volume: 5
   issue: 4
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/16bfg8u/TN_cdi_unpaywall_primary_10_1017_s1537592707072210"
+    date: "2023-12-21"
 
 hope2022:
   type: Article
@@ -42,6 +48,9 @@ hope2022:
   page-range: 539-559
   volume: 20
   issue: 2
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/16bfg8u/TN_cdi_openaire_primary_doi_dedup_b7081f41e4113406229512d9f6cd9502"
+    date: "2023-12-21"
 
 mason2018:
   type: Article
@@ -57,6 +66,9 @@ mason2018:
   page-range: 1-10
   volume: 10
   issue: 2
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/16bfg8u/TN_cdi_unpaywall_primary_10_23860_jmle_2018_10_2_1"
+    date: "2023-12-21"
 
 greifeneder2020:
   type: Book
@@ -72,6 +84,9 @@ greifeneder2020:
     doi: "10.4324/9780429295379"
     isbn: "9780429295379"
   edition: 1
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/jd1i1v/49GBVUOB_ALMA51333956970003501"
+    date: "2023-12-21"
 
 eleftheriadi-zacharaki2022:
   type: Book
@@ -91,6 +106,9 @@ eleftheriadi-zacharaki2022:
   language: "de"
   series: "Kommunikations- und Medienethik"
   city: "Baden-Baden"
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/126s6ph/JBWlbs179016852X"
+    date: "2023-12-21"
 
 eikenbusch2018:
   type: Article
@@ -101,12 +119,12 @@ eikenbusch2018:
   serial-number:
     doi: "10.3262/PAED1808006" # NOT WORKING SUS
     issn: "0933-422X"
-  url:
-    value: "https://plus.orbis-oldenburg.de/permalink/f/c1m53n/TN_cdi_dipf_primary_1156466"
-    date: "2023-12-06"
   page-range: 6-9
   volume: 70
   issue: "7/8"
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/c1m53n/TN_cdi_dipf_primary_1156466"
+    date: "2023-12-06"
 
 marx2019:
   type: Book
@@ -119,6 +137,9 @@ marx2019:
     isbn: "9783896657541"
     date: "2023-12-12"
   page-range: 148-162
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/126s6ph/JBWlbs1067427112"
+    date: "2023-12-21"
 
 beckermann2011:
   type: Book
@@ -130,6 +151,9 @@ beckermann2011:
     doi: "10.1515/9783110254358"
     isbn: "9783110254358"
   edition: 3
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/126s6ph/JBElbs1651041288"
+    date: "2023-12-21"
 
 krimphove2012:
   type: Book
@@ -139,10 +163,10 @@ krimphove2012:
   publisher: "Haufe-Lexwar"
   serial-number:
     isbn: "9783648025239"
+  edition: 1
   url:
     value: "https://plus.orbis-oldenburg.de/permalink/f/jd1i1v/JBWlbs1652130640"
     date: "2023-12-22"
-  edition: 1
 
 zettl2019:
   type: Article
@@ -153,13 +177,13 @@ zettl2019:
   serial-number:
     doi: "10.1007/s12399-020-00789-7"
     issn: "1866-2196"
-  url:
-    value: "https://plus.orbis-oldenburg.de/permalink/f/16bfg8u/TN_cdi_openaire_primary_doi_39063c3a7f8ed77aa440249b8cf5adb1"
-    date: "2023-12-06"
   page-range: 429-451
   journal: "Zeitschrift für Aussen- und sicherheitspolitik"
   volume: 12
   number: 4
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/16bfg8u/TN_cdi_openaire_primary_doi_39063c3a7f8ed77aa440249b8cf5adb1"
+    date: "2023-12-06"
 
 kaiser2017:
   type: Article
@@ -171,10 +195,10 @@ kaiser2017:
   publisher: "Deutsche Gesellschaft für Auswaertige Politik"
   serial-number:
     issn: "1430-175X"
+  page-range: 58-60
   url:
     value: "https://plus.orbis-oldenburg.de/permalink/f/16bfg8u/TN_cdi_proquest_miscellaneous_2036405528"
     date: "2023-12-21"
-  page-range: 58-60
 
 
 # bosworth2020:

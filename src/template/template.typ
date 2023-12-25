@@ -3,6 +3,7 @@
   authors: (),
   date: datetime.today().display(),
   bib: "../refs.yml",
+  bib-urls: true,
   lang: "de",
   font: "Calibri",
   font-size: 1.2em,
@@ -79,6 +80,11 @@
       set heading(numbering: "1.1")
       it
     }
-    bibliography(bib, title: title, style: "cite_styles/main.csl")
+    let style = if bib-urls {
+      "cite_styles/main.csl"
+    } else {
+      "cite_styles/main-no-urls.csl"
+    }
+    bibliography(bib, title: title, style: style)
   }
 }

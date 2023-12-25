@@ -5,7 +5,8 @@
   authors: (
     "Timon Schelling",
   ),
-  font: "Times New Roman"
+  font: "Times New Roman",
+  bib-urls: true,
 )
 
 #let argument(premises, conclusion) = align(left, [

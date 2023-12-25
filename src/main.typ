@@ -90,11 +90,21 @@ Weniger stark als die deduktive Gültigkeit ist die induktive Gültigkeit.
 
 Ein Argument gilt als induktiv gültig, wenn die Wahrheit der Prämissen die Wahrheit der Konklusion wahrscheinlich macht als die ihre Negation.
 
-= Nützlichkeit von Logik für politische Bildung <discussion>
+= Logik in politischer Bildung und Medienkompetenz <discussion>
 
 Spätestens in den letzten Jahren ist die Bedeutung von Medienkompetenz auch für die breite Bevölkerung deutlich geworden. @mason2018[vgl.&6]
 Im Englischen als "Fake News" bekannt gewordene, Falschinformationen zeigten sich den Demokratien der Welt als einflussmächtiges Instrument um Wahlen im speziellen und die öffentliche Meinung im allgemeinen zu beeinflussen. @greifeneder2020[vgl.&1-3] @eleftheriadi-zacharaki2022[vgl.&145-146]
-Die Fähigkeit, Falschinformationen zu erkennen und zu entlarven ist eine relevanter Teil der Medienkompetenz, die in der Schule vermittelt werden sollte. @eikenbusch2018[vgl.&6-9]
+Genauere Analysen der Wahlen in Deutschland 2017 und den USA 2016 haben gezeigt, dass die Verbreitung von Falschinformationen, insbesondere über soziale Medien, zu genau diesem Zweck lange nicht mehr nur theoretisch existiert und das vorallem schaffen von Problembewusstsein in der Bevölkerung eine sinnvolle Massnahme ist, um Einflussnahme von außen einzugrenzen. @kaiser2017[vgl.&446-447]
+Die Fähigkeit, Falschinformationen zu erkennen und zu entlarven ist eine relevanter Teil der Medienkompetenz, die in der Schule vermittelt werden sollte. @eikenbusch2018[vgl.&6-9] @kaiser2017[vgl.&59]
+Es braucht jedoch nicht unbedingt Faschinformationen, um Menschen von Positionen zu überzeugen, die ihren eigenen Interessen oder werten widersprechen, z.B. auch rhetorisch geschickte Argumente können dies leisten.
+Sich gegen solche Argumente zu wappnen ist ebenfalls wichtig, um sich nicht von Positionen überzeugen zu lassen, die den eigenen Interessen oder Werten entgegestehen.
+Besonders hier, kann die Logik als Werkzeug dienen, um Argumente tiefer zu analysieren.
+
+In den abschnitten zur deduktiven und induktiven Gültigkeit wurden bereits einige Beispiele für Argumente gegeben, die in der politischen Debatte vorkommen und wie sich diese bewerten lassen.
+Ein argument ist deduktiv gültig, dann stellt es sich auch noch durch weitere recherche als stichhaltik heraus, ein sehr gutes argument, das überzeugen darf.
+Es ist induktiv gültig, so sollte es weniger überzeugend sein als ein stichhaltiges, aber immer noch Überzeugungskraft zugesprochen bekomme.
+Wohingegen Argumente, die einen logischen fehlschluss enthalten oder nicht gültig sind, schnell als fragwürdig entlarvt werden können.
+Solche Argumente
 
 = Fazit
 

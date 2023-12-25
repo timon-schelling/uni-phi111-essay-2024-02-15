@@ -144,6 +144,41 @@ krimphove2012:
     date: "2023-12-22"
   edition: 1
 
+zettl2019:
+  type: Article
+  title: "Lesson learned? Demokratische Resilienz gegenüber digitaler Wahlbeeinflussung in den USA und Deutschland"
+  author: "Zettl, Kerstin"
+  date: 2019
+  publisher: "Springer Fachmedien Wiesbaden"
+  serial-number:
+    doi: "10.1007/s12399-020-00789-7"
+    issn: "1866-2196"
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/16bfg8u/TN_cdi_openaire_primary_doi_39063c3a7f8ed77aa440249b8cf5adb1"
+    date: "2023-12-06"
+  page-range: 429-451
+  journal: "Zeitschrift für Aussen- und sicherheitspolitik"
+  volume: 12
+  number: 4
+
+kaiser2017:
+  type: Article
+  title: "Fakten Checken Reicht Nicht: Lösungsansätze Gegen Fake News Aus Dem Open Situation Room"
+  author:
+    - "Kaiser, Annkatrin"
+    - "Leifert, Claire Luzia"
+  date: 2017
+  publisher: "Deutsche Gesellschaft für Auswaertige Politik"
+  serial-number:
+    issn: "1430-175X"
+  url:
+    value: "https://plus.orbis-oldenburg.de/permalink/f/16bfg8u/TN_cdi_proquest_miscellaneous_2036405528"
+    date: "2023-12-21"
+  page-range: 58-60
+
+
+
+
 
 
 

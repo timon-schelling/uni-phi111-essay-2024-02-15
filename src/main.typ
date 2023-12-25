@@ -77,18 +77,35 @@ Wenn bei einem deduktiv gültigen Argument die Prämissen wahr sind, so handelt 
 Bei dem vorliegenden Argument besteht wissenschaftlich begründeter Zweifel an der Wahrheit der zweiten Prämisse. @hope2022[vgl.&555]
 Es ist also mindestens fraglich, ob es sich bei dem Argument um ein stichhaltiges Argument handelt, was die Überzeugungskraft des Arguments deutlich schmälert.
 
-// Es ist offensichtlich, dass die Konklusion aus den Prämissen folgt, die Wahrheit der Prämissen garantiert die Wahrheit der Konklusion.
-// Das Argument hat sich erneut als deduktiv gültig erwiesen.
-
-// wenn die Struktur des Arguments so beschaffen ist, dass, falls die Prämissen wahr sind, die Konklusion notwendigerweise wahr sein muss. Mit anderen Worten, die Wahrheit der Prämissen garantiert die Wahrheit der Schlussfolgerung.
-
-// Das bedeutet nicht, dass die Prämissen selbst tatsächlich wahr sein müssen; es geht vielmehr um die Beziehung zwischen den Prämissen und der Schlussfolgerung. Wenn die Prämissen wahr sind und die Schlussfolgerung falsch ist, ist das Argument nicht deduktiv gültig.
-
 = Induktive gültige Argumente
 
 Weniger stark als die deduktive Gültigkeit ist die induktive Gültigkeit.
 
-Ein Argument gilt als induktiv gültig, wenn die Wahrheit der Prämissen die Wahrheit der Konklusion wahrscheinlich macht als die ihre Negation.
+Ein Argument gilt als induktiv gültig, wenn die Wahrheit der Prämissen die Wahrheit der Konklusion wahrscheinlicher macht als die ihre Negation. @beckermann2011[vgl.&30-31]
+Es ist also eine Welt denkbar, in der die Prämissen wahr sind, die Konklusion aber falsch.
+Die Konklusion ist also nicht notwendigerweise wahr, wenn die Prämissen wahr sind.
+Es ist auch möglich die induktive Gültigkeit ohne die Verwendung von Wahrscheinlichkeiten zu definieren.
+In einer Solchen definition sind Argumente genau dann induktiv gültig, wenn "es bei diesen Argumenten rational ist, die Konklusion für wahr zu halten, wenn alle Prämissen wahr sind, obwohl die Konklusion nicht logisch aus den Prämissen folgt". @beckermann2011[31]
+
+Das folgende Argument könnte benutzt werden, um für die Einführung eines bedingungslosen Grundeinkommens zu argumentieren.
+
+#argument(
+  (
+    [Wenn die Einführung eines bedingungslosen Grundeinkommens die Armut verringert, dann ist die Einführung eines bedingungslosen Grundeinkommens eine gute Maßnahme.],
+    [Die Einführung eines bedingungslosen Grundeinkommens verringert meistens die Armut.]
+  ),
+  [Die Einführung eines bedingungslosen Grundeinkommens ist eine gute Maßnahme.]
+)
+
+Es handelt sich hier um eine nahezu identische Argumentstruktur, wie bei dem Beispiel Argumente aus dem abschnitt zur deduktiven Gültigkeit.
+Mit dem Unterschied, dass die zweite Premisse den Antezedenz der ersten Premisse nicht als wahr behauptet, sondern nur partiell bejaht, hier zuerkennen an dem Wort "meistens".
+Die Konklusion ist also nicht notwendigerweise wahr, wenn die Prämissen wahr sind, es ist allerdings rational anzunehmen, dass die Konklusion wahr ist, wenn die Prämissen wahr sind.
+Gleichermahßen ist die Konklusion, bei Wahrheit der Prämissen, wahrscheinlicher als ihre Negation.
+Das Argument ist also induktiv gültig.
+
+Ein induktiv gültiges Argument ist also weniger stark als ein deduktiv gültiges Argument, jedoch immer noch starker als ein ungültiges. @beckermann2011[vgl.&32]
+Auch bei einem induktiv gültigen Argument ist die Wahrheit der Prämissen nicht garantiert, es ist allso auch hier nicht die einzige Eigenschaft, die ein Argument haben muss, um überzeugend zu sein. @beckermann2011[vgl.&32]
+Die Wahrheit der Prämissen ist auch hier entscheidend.
 
 = Logik in politischer Bildung und Medienkompetenz <discussion>
 
@@ -96,16 +113,18 @@ Spätestens in den letzten Jahren ist die Bedeutung von Medienkompetenz auch fü
 Im Englischen als "Fake News" bekannt gewordene, Falschinformationen zeigten sich den Demokratien der Welt als einflussmächtiges Instrument um Wahlen im speziellen und die öffentliche Meinung im allgemeinen zu beeinflussen. @greifeneder2020[vgl.&1-3] @eleftheriadi-zacharaki2022[vgl.&145-146]
 Genauere Analysen der Wahlen in Deutschland 2017 und den USA 2016 haben gezeigt, dass die Verbreitung von Falschinformationen, insbesondere über soziale Medien, zu genau diesem Zweck lange nicht mehr nur theoretisch existiert und das vorallem schaffen von Problembewusstsein in der Bevölkerung eine sinnvolle Massnahme ist, um Einflussnahme von außen einzugrenzen. @kaiser2017[vgl.&446-447]
 Die Fähigkeit, Falschinformationen zu erkennen und zu entlarven ist eine relevanter Teil der Medienkompetenz, die in der Schule vermittelt werden sollte. @eikenbusch2018[vgl.&6-9] @kaiser2017[vgl.&59]
-Es braucht jedoch nicht unbedingt Faschinformationen, um Menschen von Positionen zu überzeugen, die ihren eigenen Interessen oder werten widersprechen, z.B. auch rhetorisch geschickte Argumente können dies leisten.
+Es braucht jedoch nicht unbedingt Faltschinformationen, um Menschen von Positionen zu überzeugen, die ihren eigenen Interessen oder werten widersprechen, z.B. auch rhetorisch geschickte Argumente können dies leisten.
 Sich gegen solche Argumente zu wappnen ist ebenfalls wichtig, um sich nicht von Positionen überzeugen zu lassen, die den eigenen Interessen oder Werten entgegestehen.
 Besonders hier, kann die Logik als Werkzeug dienen, um Argumente tiefer zu analysieren.
-
 In den abschnitten zur deduktiven und induktiven Gültigkeit wurden bereits einige Beispiele für Argumente gegeben, die in der politischen Debatte vorkommen und wie sich diese bewerten lassen.
 Ein argument ist deduktiv gültig, dann stellt es sich auch noch durch weitere recherche als stichhaltik heraus, ein sehr gutes argument, das überzeugen darf.
 Es ist induktiv gültig, so sollte es weniger überzeugend sein als ein stichhaltiges, aber immer noch Überzeugungskraft zugesprochen bekomme.
-Wohingegen Argumente, die einen logischen fehlschluss enthalten oder nicht gültig sind, schnell als fragwürdig entlarvt werden können.
-Solche Argumente
+Wohingegen Argumente, die einen logischen fehlschluss enthalten oder auf andere weise nicht gültig und stichhaltig sind, schnell als fragwürdig entlarvt werden können.
+Die Logik ist also mindestens ein nützliches Werkzeug, um sich im politischen Diskurs zurecht zu finden.
+Aus diesem Grund hat die Logik auch, außerhalb der Philosophie, für politischen Bildung eine Bedeutung.
 
 = Fazit
 
 = Ausblick
+
+Ob und zu welchem Grad die Logik im Kontext der politischen Bildung vermittelt werden sollte, in welcher Form und in welchem Bildungsneavour, ist eine Fragen, die den Umfang dieser Arbeit weit übersteigt. Es ist allerdings im laufe dieser Arbeit klar geworden, dass sich Arbeit in diese Richtung anbietet.

@@ -27,7 +27,7 @@ jobs:
       - name: Compile
         uses: addnab/docker-run-action@v3
         with:
-          image: ghcr.io/typst/typst:0.10.0
+          image: ghcr.io/typst/typst:latest
           options: -v ${{ github.workspace }}:/data
           run: |
             cd /data

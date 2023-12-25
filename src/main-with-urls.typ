@@ -6,6 +6,7 @@
     "Timon Schelling",
   ),
   font: "Times New Roman",
+  bib-urls: true,
 )
 
 #include "content.typ"

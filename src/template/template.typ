@@ -3,7 +3,7 @@
   authors: (),
   date: datetime.today().display(),
   bib: "../refs.yml",
-  bib-urls: true,
+  bib-urls: false,
   lang: "de",
   font: "Calibri",
   font-size: 1.2em,

@@ -33,6 +33,8 @@ jobs:
             cd /data
             typst compile src/main.typ main.pdf
             cp main.pdf static/index.pdf
+            typst compile --input url=1 src/main.typ index-with-urls.pdf
+            cp main.pdf static/index-with-urls.pdf
 
       - name: Upload
         uses: actions/upload-pages-artifact@v1

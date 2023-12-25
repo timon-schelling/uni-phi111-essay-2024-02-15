@@ -44,7 +44,7 @@ Die Wahrheit der Prämissen muss die Wahrheit der Konklusion garantieren. @becke
 Wenn es sich bei einem Argument also um ein deduktiv gültiges Argument handelt, ist keine Welt denkbar, in der die Prämissen wahr sind, aber die Konklusion falsch.
 Es ist dabei, für die deduktive Gültigkeit, egal ob die Prämissen tatsächlich wahr sind, es geht ausschließlich um den Zusammenhang zwischen den Prämissen und der Konklusion. @beckermann2011[vgl.&21-22]
 
-Das folgende Argument könnte Benutzt werden, um für Steuersenkungen für Reiche zu argumentieren, wie es Beispielweise die US Regierung unter Bush getan hat. @bartels2005[vgl.&15] @lupia2007[vgl.&1-2] // TODO: add reference to fdp
+Das folgende Argument könnte Benutzt werden, um für Steuersenkungen für Reiche zu argumentieren, wie es Beispielweise die US Regierung unter Bush getan hat. @bartels2005[vgl.&15] @lupia2007[vgl.&1-2]
 
 #argument(
   (
@@ -55,7 +55,7 @@ Das folgende Argument könnte Benutzt werden, um für Steuersenkungen für Reich
 )
 
 Die erste Prämisse des Arguments ist ein Konditional, sie besteht aus zwei Teilen, dem Antezedens und dem Konsequens. @beckermann2011[vgl.&150-152] @krimphove2012[vgl.&55-58]
-Das Antezedens ist der Erste Halbsatz der Premisse, er beginnt hier mit "Wenn".
+Das Antezedens ist der Erste Halbsatz der Prämisse, er beginnt hier mit "Wenn".
 Die Konsequens ist der zweite Halbsatz, er beginnt hier mit "dann".
 Das Antezedens ist die Bedingung, die erfüllt sein muss, damit die Konsequens wahr ist.
 Die Konsequens ist die Schlussfolgerung, die aus dem Antezedens folgt.
@@ -94,26 +94,26 @@ Das folgende Argument könnte benutzt werden, um für die Einführung eines bedi
 )
 
 Es handelt sich hier um eine nahezu identische Argumentstruktur, wie bei dem Beispiel Argumente aus dem abschnitt zur deduktiven Gültigkeit.
-Mit dem Unterschied, dass die zweite Premisse den Antezedenz der ersten Premisse nicht als wahr behauptet, sondern nur partiell bejaht, hier zuerkennen an dem Wort "meistens".
+Mit dem Unterschied, dass die zweite Prämisse den Antezedenz der ersten Prämisse nicht als wahr behauptet, sondern nur partiell bejaht, hier zuerkennen an dem Wort "meistens".
 Die Konklusion ist also nicht notwendigerweise wahr, wenn die Prämissen wahr sind, es ist allerdings rational anzunehmen, dass die Konklusion wahr ist, wenn die Prämissen wahr sind.
-Gleichermahßen ist die Konklusion, bei Wahrheit der Prämissen, wahrscheinlicher als ihre Negation.
+Gleichermaßen ist die Konklusion, bei Wahrheit der Prämissen, wahrscheinlicher als ihre Negation.
 Das Argument ist also induktiv gültig.
 
 Ein induktiv gültiges Argument ist also weniger stark als ein deduktiv gültiges Argument, jedoch immer noch starker als ein ungültiges. @beckermann2011[vgl.&32]
-Auch bei einem induktiv gültigen Argument ist die Wahrheit der Prämissen nicht garantiert, es ist allso auch hier nicht die einzige Eigenschaft, die ein Argument haben muss, um überzeugend zu sein. @beckermann2011[vgl.&32]
+Auch bei einem induktiv gültigen Argument ist die Wahrheit der Prämissen nicht garantiert, es ist also auch hier nicht die einzige Eigenschaft, die ein Argument haben muss, um überzeugend zu sein. @beckermann2011[vgl.&32]
 Die Wahrheit der Prämissen ist auch hier entscheidend.
 
 = Logik in politischer Bildung und Medienkompetenz <discussion>
 
 Spätestens in den letzten Jahren ist die Bedeutung von Medienkompetenz auch für die breite Bevölkerung deutlich geworden. @mason2018[vgl.&6]
-Im Englischen als "Fake News" bekannt gewordene, Falschinformationen zeigten sich den Demokratien der Welt als einflussmächtiges Instrument um Wahlen im speziellen und die öffentliche Meinung im allgemeinen zu beeinflussen. @greifeneder2020[vgl.&1-3] @eleftheriadi-zacharaki2022[vgl.&145-146]
-Genauere Analysen der Wahlen in Deutschland 2017 und den USA 2016 haben gezeigt, dass die Verbreitung von Falschinformationen, insbesondere über soziale Medien, zu genau diesem Zweck lange nicht mehr nur theoretisch existiert und das vorallem schaffen von Problembewusstsein in der Bevölkerung eine sinnvolle Massnahme ist, um Einflussnahme von außen einzugrenzen. @kaiser2017[vgl.&446-447]
+Im Englischen als "Fake News" bekannt gewordene, Falschinformationen zeigten sich den Demokratien der Welt als Einfluss mächtiges Instrument um Wahlen im speziellen und die öffentliche Meinung im allgemeinen zu beeinflussen. @greifeneder2020[vgl.&1-3] @eleftheriadi-zacharaki2022[vgl.&145-146]
+Genauere Analysen der Wahlen in Deutschland 2017 und den USA 2016 haben gezeigt, dass die Verbreitung von Falschinformationen, insbesondere über soziale Medien, zu genau diesem Zweck lange nicht mehr nur theoretisch existiert und das vor allem schaffen von Problembewusstsein in der Bevölkerung eine sinnvolle Massnahme ist, um Einflussnahme von außen einzugrenzen. @kaiser2017[vgl.&446-447]
 Die Fähigkeit, Falschinformationen zu erkennen und zu entlarven ist eine relevanter Teil der Medienkompetenz, die in der Schule vermittelt werden sollte. @eikenbusch2018[vgl.&6-9] @kaiser2017[vgl.&59]
-Es braucht jedoch nicht unbedingt Faltschinformationen, um Menschen von Positionen zu überzeugen, die ihren eigenen Interessen oder werten widersprechen, z.B. auch rhetorisch geschickte Argumente können dies leisten.
-Sich gegen solche Argumente zu wappnen ist ebenfalls wichtig, um sich nicht von Positionen überzeugen zu lassen, die den eigenen Interessen oder Werten entgegestehen.
+Es braucht jedoch nicht unbedingt Falschinformationen, um Menschen von Positionen zu überzeugen, die ihren eigenen Interessen oder werten widersprechen, z.B. auch rhetorisch geschickte Argumente können dies leisten.
+Sich gegen solche Argumente zu wappnen ist ebenfalls wichtig, um sich nicht von Positionen überzeugen zu lassen, die den eigenen Interessen oder Werten entgegenstehen.
 Besonders hier, kann die Logik als Werkzeug dienen, um Argumente tiefer zu analysieren.
 In den abschnitten zur deduktiven und induktiven Gültigkeit wurden bereits einige Beispiele für Argumente gegeben, die in der politischen Debatte vorkommen und wie sich diese bewerten lassen.
-Ein argument ist deduktiv gültig, dann stellt es sich auch noch durch weitere recherche als stichhaltik heraus, ein sehr gutes argument, das überzeugen darf.
+Ein argument ist deduktiv gültig, dann stellt es sich auch noch durch weitere recherche als stichhaltig heraus, ein sehr gutes argument, das überzeugen darf.
 Es ist induktiv gültig, so sollte es weniger überzeugend sein als ein stichhaltiges, aber immer noch Überzeugungskraft zugesprochen bekomme.
 Wohingegen Argumente, die einen logischen fehlschluss enthalten oder auf andere weise nicht gültig und stichhaltig sind, schnell als fragwürdig entlarvt werden können.
 Die Logik ist also mindestens ein nützliches Werkzeug, um sich im politischen Diskurs zurecht zu finden.
@@ -123,4 +123,4 @@ Aus diesem Grund hat die Logik auch, außerhalb der Philosophie, für politische
 
 = Ausblick
 
-Ob und zu welchem Grad die Logik im Kontext der politischen Bildung vermittelt werden sollte, in welcher Form und in welchem Bildungsneavour, ist eine Fragen, die den Umfang dieser Arbeit weit übersteigt. Es ist allerdings im laufe dieser Arbeit klar geworden, dass sich Arbeit in diese Richtung anbietet.
+Ob und zu welchem Grad die Logik im Kontext der politischen Bildung vermittelt werden sollte, in welcher Form und in welchem Bildungsniveau, ist eine Fragen, die den Umfang dieser Arbeit weit übersteigt. Es ist allerdings im laufe dieser Arbeit klar geworden, dass sich Arbeit in diese Richtung anbietet.

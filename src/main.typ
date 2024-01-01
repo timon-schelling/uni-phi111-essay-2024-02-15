@@ -4,6 +4,13 @@
   sys.inputs.at("urls", default: none) != none
 }
 
+#let dark-mode = {
+  sys.inputs.at("dark", default: none) != none
+}
+
+#set page(fill: rgb("2a2a2a")) if dark-mode
+#set text(fill: rgb("f7f7f7")) if dark-mode
+
 #show: project.with(
   title: "Einführung in die Logik am Beispiel politischer Argumente",
   authors: (
@@ -12,8 +19,6 @@
   font: "Times New Roman",
   bib-urls: bib-urls,
 )
-
-#import "template/template.typ": *
 
 #let argument(premises, conclusion) = align(left, [
   #set text(style: "italic")

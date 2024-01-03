@@ -4,12 +4,12 @@
   sys.inputs.at("urls", default: none) != none
 }
 
-#let dark-mode = {
-  sys.inputs.at("dark", default: none) != none
+#let theme = {
+  sys.inputs.at("theme", default: none)
 }
 
-#set page(fill: rgb("2a2a2a")) if dark-mode
-#set text(fill: rgb("f7f7f7")) if dark-mode
+#set page(fill: rgb("1a1a1a")) if theme == "dark"
+#set text(fill: rgb("c7c7c7")) if theme == "dark"
 
 #show: project.with(
   title: "Einführung in die Logik am Beispiel politischer Argumente",
@@ -45,7 +45,7 @@ Argumente können literarisch wertvoll, originell oder auch rhetorisch geschickt
 In dieser Arbeit sollen allerdings allein Eigenschaften von Argumenten betrachtet werden, mit denen sich die philosophische Disziplin der Logik beschäftigt, namentlich die Gültigkeit und die Stichhaltigkeit.
 Im Folgenden wird am Beispiel politischer Argumente eine Einführung in die Logik gegeben.
 Fokus soll dabei auf der Logik als Werkzeug liegen, mit dem sich politische Argumente bewerten lassen.
-Im #link(<discussion>, [_letzten Kapitel der Arbeit_]) wird zusätzlich diskutiert, inwiefern die Logik für politische Bildung im Allgemeinen und Medienkompetenz im Speziellen nützlich ist.
+Im #link(<discussion>, [_letzten Kapitel der Arbeit_]) wird anschließend diskutiert, inwiefern die Logik für politische Bildung im Allgemeinen und Medienkompetenz im Speziellen nützlich ist.
 
 = Deduktive gültige Argumente
 
@@ -124,7 +124,7 @@ Es braucht jedoch nicht unbedingt Falschinformationen, um Menschen von Positione
 Sich gegen solche Argumente zu wappnen ist ebenfalls wichtig, um sich nicht von Positionen überzeugen zu lassen, die den eigenen Interessen oder Werten entgegenstehen.
 Besonders hier kann die Logik als Werkzeug dienen, um Argumente tiefer zu analysieren.
 In den Abschnitten zur deduktiven und induktiven Gültigkeit wurden bereits einige Beispiele für Argumente gegeben, die in der politischen Debatte vorkommen und wie sich diese bewerten lassen.
-Ein Argument ist deduktiv gültig, im Anschluss stellt es sich durch weitere Recherche als stichhaltig heraus, wird so ein sehr gutes Argument, das überzeugen darf.
+Ein Argument ist deduktiv gültig, im Anschluss stellt es sich durch weitere Recherche als stichhaltig heraus und ist somit ein sehr gutes Argument, das überzeugen darf.
 Ist ein Argument induktiv gültig, so sollte es weniger überzeugend sein, als ein stichhaltiges, aber immer noch Überzeugungskraft zugesprochen bekommen.
 Argumente hingegen, die einen logischen Fehlschluss enthalten oder auf andere Weise nicht gültig und stichhaltig sind, können schnell als fragwürdig entlarvt werden.
 Die Logik ist also mindestens ein nützliches Werkzeug, um sich im politischen Diskurs zurechtzufinden.

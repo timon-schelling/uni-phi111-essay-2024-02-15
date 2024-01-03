@@ -36,9 +36,9 @@ jobs:
             typst compile src/main.typ --input urls=1 index-with-urls.pdf
             cp index-with-urls.pdf static/index-with-urls.pdf
 
-            typst compile src/main.typ --input dark=1 main-dark.pdf
+            typst compile src/main.typ --input theme=dark main-dark.pdf
             cp main-dark.pdf static/index-dark.pdf
-            typst compile src/main.typ --input dark=1 --input urls=1 index-dark-with-urls.pdf
+            typst compile src/main.typ --input theme=dark --input urls=1 index-dark-with-urls.pdf
             cp index-dark-with-urls.pdf static/index-dark-with-urls.pdf
 
       - name: Upload

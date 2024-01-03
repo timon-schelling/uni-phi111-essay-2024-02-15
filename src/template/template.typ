@@ -2,6 +2,7 @@
   title: "",
   authors: (),
   date: datetime.today().display(),
+  title-page-infos: [],
   bib: "../refs.yml",
   bib-urls: false,
   lang: "de",
@@ -48,6 +49,9 @@
         ..authors.map(author => align(start, strong(author))),
       ),
     )
+
+    align(bottom)[#title-page-infos]
+
     pagebreak()
   }
 

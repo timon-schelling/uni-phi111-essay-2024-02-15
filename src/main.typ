@@ -16,6 +16,21 @@
   authors: (
     "Timon Schelling",
   ),
+  date: "2023-12-01",
+  title-page-infos: [
+    #table(
+      columns: (8em, auto),
+      inset: (x: 0em, y: 0.6em),
+      stroke: none,
+      [Universität:], [Carl von Ossietzky Universität Oldenburg],
+      [Fakultät:], [Fakultät IV - Human- und Gesellschaftswissenschaften],
+      [Studiengang:], [Philosophie/Werte und Normen Zwei-Fächer-Bachelor],
+      [Semester:], [Wintersemester 2023/2024],
+      [Veranstaltung:], [Tutorium: 4.03.1101f Einführung in die Theoretische Philosophie],
+      [Dozent:], [Svea Reinken],
+      [Mail:], [#link("mailto:me@timon.zip"), #link("mailto:timon.schelling@uol.de")]
+    )
+  ],
   font: "Times New Roman",
   bib-urls: bib-urls,
 )

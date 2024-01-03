@@ -126,12 +126,22 @@ Besonders hier kann die Logik als Werkzeug dienen, um Argumente tiefer zu analys
 In den Abschnitten zur deduktiven und induktiven Gültigkeit wurden bereits einige Beispiele für Argumente gegeben, die in der politischen Debatte vorkommen und wie sich diese bewerten lassen.
 Ein Argument ist deduktiv gültig, im Anschluss stellt es sich durch weitere Recherche als stichhaltig heraus und ist somit ein sehr gutes Argument, das überzeugen darf.
 Ist ein Argument induktiv gültig, so sollte es weniger überzeugend sein, als ein stichhaltiges, aber immer noch Überzeugungskraft zugesprochen bekommen.
-Argumente hingegen, die einen logischen Fehlschluss enthalten oder auf andere Weise nicht gültig und stichhaltig sind, können schnell als fragwürdig entlarvt werden.
+Argumente hingegen, die einen logischen Fehlschluss enthalten oder auf andere Weise nicht gültig und nicht stichhaltig sind, können schnell als fragwürdig entlarvt werden.
 Die Logik ist also mindestens ein nützliches Werkzeug, um sich im politischen Diskurs zurechtzufinden.
 Aus diesem Grund hat die Logik auch außerhalb der Philosophie für politischen Bildung eine Bedeutung.
 
+#pagebreak()
+
 = Fazit
+
+Diese Arbeit hat eine grundlegende Einführung in den philosophischen Teilbereich der Logik gegeben. Fokus lag dabei auf der Erläuterung der Begriffe der deduktiven und induktiven Gültigkeit, sowie der Stichhaltigkeit von Argumenten.
+Anhand von politischen Beispiel-Argumenten wurde gezeigt, wie sich Argumente mit Hilfe der Logik bewerten lassen.
+Es wurde gezeigt, dass Stichhaltige Argumente aus dem Blickwinkel der Logik überzeugender sind, als induktiv gültige Argumente mit wahren Prämissen, die wiederum überzeugender sind, als ungültige Argumente mit z.B. einem logischen Fehlschluss.
+Zum Schluss wurde diskutiert, inwiefern die Logik mit den vorher eingeführten Begriffen für politische Bildung und Medienkompetenz nützlich ist.
+Es hat sich gezeigt, dass die Logik ein mindestens nützliches Werkzeug ist, um sich im politischen Diskurs besser zurechtzufinden.
+Deshalb ist die Logik nicht nur für die philosophische Forschung, sondern auch außerhalb relevant.
 
 = Ausblick
 
-Ob und zu welchem Grad die Logik im Kontext der politischen Bildung vermittelt werden sollte, in welcher Form und in welchem Bildungsniveau, ist eine Frage, die den Umfang dieser Arbeit weit übersteigt. Es ist allerdings im Laufe dieser Arbeit klar geworden, dass sich Arbeit in diese Richtung anbietet.
+Ob und zu welchem Grad die Logik im Kontext der politischen Bildung vermittelt werden sollte, in welcher Form und in welchem Bildungsniveau, ist eine Frage, die den Umfang dieser Arbeit weit übersteigt.
+Es ist allerdings im Laufe dieser Arbeit klar geworden, dass sich Arbeit in diese Richtung sinnvoll sein könnte.

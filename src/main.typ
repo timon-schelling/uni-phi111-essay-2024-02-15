@@ -134,9 +134,9 @@ Aus diesem Grund hat die Logik auch außerhalb der Philosophie für politischen 
 
 = Fazit
 
-Diese Arbeit hat eine grundlegende Einführung in den philosophischen Teilbereich der Logik gegeben. Fokus lag dabei auf der Erläuterung der Begriffe der deduktiven und induktiven Gültigkeit, sowie der Stichhaltigkeit von Argumenten.
+Diese Arbeit hat eine grundlegende Einführung in den philosophischen Teilbereich der Logik gegeben. Fokus lag dabei auf der Erläuterung der Begriffe der deduktiven und induktiven Gültigkeit sowie der Stichhaltigkeit von Argumenten.
 Anhand von politischen Beispiel-Argumenten wurde gezeigt, wie sich Argumente mit Hilfe der Logik bewerten lassen.
-Es wurde gezeigt, dass Stichhaltige Argumente aus dem Blickwinkel der Logik überzeugender sind, als induktiv gültige Argumente mit wahren Prämissen, die wiederum überzeugender sind, als ungültige Argumente mit z.B. einem logischen Fehlschluss.
+Es wurde gezeigt, dass stichhaltige Argumente aus dem Blickwinkel der Logik überzeugender sind, als induktiv gültige Argumente mit wahren Prämissen, die wiederum überzeugender sind, als ungültige Argumente mit z.B. einem logischen Fehlschluss.
 Zum Schluss wurde diskutiert, inwiefern die Logik mit den vorher eingeführten Begriffen für politische Bildung und Medienkompetenz nützlich ist.
 Es hat sich gezeigt, dass die Logik ein mindestens nützliches Werkzeug ist, um sich im politischen Diskurs besser zurechtzufinden.
 Deshalb ist die Logik nicht nur für die philosophische Forschung, sondern auch außerhalb relevant.
@@ -144,4 +144,4 @@ Deshalb ist die Logik nicht nur für die philosophische Forschung, sondern auch 
 = Ausblick
 
 Ob und zu welchem Grad die Logik im Kontext der politischen Bildung vermittelt werden sollte, in welcher Form und in welchem Bildungsniveau, ist eine Frage, die den Umfang dieser Arbeit weit übersteigt.
-Es ist allerdings im Laufe dieser Arbeit klar geworden, dass sich Arbeit in diese Richtung sinnvoll sein könnte.
+Es ist allerdings im Laufe dieser Arbeit klar geworden, dass Arbeit in dieser Richtung sinnvoll sein könnte.

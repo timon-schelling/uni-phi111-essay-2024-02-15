@@ -45,7 +45,7 @@ Argumente können literarisch wertvoll, originell oder auch rhetorisch geschickt
 In dieser Arbeit sollen allerdings allein Eigenschaften von Argumenten betrachtet werden, mit denen sich die philosophische Disziplin der Logik beschäftigt, namentlich die Gültigkeit und die Stichhaltigkeit.
 Im Folgenden wird am Beispiel politischer Argumente eine Einführung in die Logik gegeben.
 Fokus soll dabei auf der Logik als Werkzeug liegen, mit dem sich politische Argumente bewerten lassen.
-Im #link(<discussion>, [_letzten Kapitel der Arbeit_]) wird anschließend diskutiert, inwiefern die Logik für politische Bildung im Allgemeinen und Medienkompetenz im Speziellen nützlich ist.
+Im #link(<discussion>, [_letzten Kapitel_]) der Arbeit wird anschließend diskutiert, inwiefern die Logik für politische Bildung im Allgemeinen und Medienkompetenz im Speziellen nützlich ist.
 
 = Deduktive gültige Argumente
 

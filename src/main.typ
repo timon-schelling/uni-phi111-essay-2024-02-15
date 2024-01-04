@@ -159,4 +159,4 @@ Deshalb ist die Logik nicht nur für die philosophische Forschung, sondern auch 
 = Ausblick
 
 Ob und zu welchem Grad die Logik im Kontext der politischen Bildung vermittelt werden sollte, in welcher Form und in welchem Bildungsniveau, ist eine Frage, die den Umfang dieser Arbeit weit übersteigt.
-Es ist allerdings im Laufe dieser Arbeit klar geworden, dass Arbeit in dieser Richtung sinnvoll sein könnte.
+Es ist allerdings im Laufe dieser Arbeit klar geworden, dass weitere Wissenschaftliche Betrachtung in dieser Hinsicht sinnvoll sein könnte.

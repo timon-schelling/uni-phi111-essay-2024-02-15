@@ -159,7 +159,7 @@ Deshalb ist die Logik nicht nur für die philosophische Forschung, sondern auch 
 
 Wenn also die Logik ein solch nützliches Werkzeug ist, wie in dieser Arbeit gezeigt wurde, stellt sich die Frage, ob es sinnvoll wäre, sie mehr Menschen zu vermitteln.
 In welchem Umfang, in welcher Form und auf welchem Bildungsniveau könnte dies beispielsweise im Kontext der politischen Bildung Anwendung finden?
-Sollten Kinder bereits mit der Logik in der Schule in Berührung kommen?
+Sollten Kinder bereits in der Schule mit der Logik in Berührung kommen?
 Welche didaktischen Mittel wären sinnvoll, um die Logik unterschiedlichen Personengruppen nahezubringen?
 Diese Fragen liegen allerdings außerhalb des Rahmens dieser Arbeit.
 Es ist allerdings im Laufe klar geworden, dass weitere wissenschaftliche Auseinandersetzungen in dieser Hinsicht sinnvoll sein könnten.

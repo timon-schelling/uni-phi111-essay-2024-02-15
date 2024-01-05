@@ -161,4 +161,4 @@ Wenn also die Logik ein solch nützliches Werkzeug ist, wie in dieser Arbeit gez
 In welchem Umfang, in welcher Form und auf welchem Bildungsniveau könnte dies beispielsweise im Kontext der politischen Bildung Anwendung finden?
 Sollten Kinder bereits in der Schule mit der Logik in Berührung kommen?
 Welche didaktischen Mittel wären sinnvoll, um die Logik unterschiedlichen Personengruppen nahezubringen?
-Diese Fragen liegen außerhalb des Rahmens dieser Arbeit, es ist allerdings im Laufe klar geworden, dass weitere wissenschaftliche Auseinandersetzungen in dieser Hinsicht sinnvoll sein könnten.
+Diese Fragen liegen außerhalb des Rahmens dieser Arbeit, es ist allerdings klar geworden, dass weitere wissenschaftliche Auseinandersetzungen in dieser Hinsicht sinnvoll sein könnten.

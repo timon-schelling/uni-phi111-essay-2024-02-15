@@ -24,22 +24,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Setup Nu
+        uses: hustcer/setup-nu@v3.8
+
       - name: Compile
         uses: addnab/docker-run-action@v3
         with:
           image: ghcr.io/timon-schelling/typst:main
           options: -v ${{ github.workspace }}:/data
           run: |
-            cd /data
-            typst compile src/main.typ main.pdf
-            cp main.pdf static/index.pdf
-            typst compile src/main.typ --input urls=1 index-with-urls.pdf
-            cp index-with-urls.pdf static/index-with-urls.pdf
-
-            typst compile src/main.typ --input theme=dark main-dark.pdf
-            cp main-dark.pdf static/index-dark.pdf
-            typst compile src/main.typ --input theme=dark --input urls=1 index-dark-with-urls.pdf
-            cp index-dark-with-urls.pdf static/index-dark-with-urls.pdf
+            ./compile.nu
+            cp -r target/* static
 
       - name: Upload
         uses: actions/upload-pages-artifact@v1

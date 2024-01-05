@@ -33,7 +33,7 @@ jobs:
           image: ghcr.io/timon-schelling/typst:main
           options: -v ${{ github.workspace }}:/data
           run: |
-            ls
+            ls -la
             ./compile.nu
             cp -r target/* static
 

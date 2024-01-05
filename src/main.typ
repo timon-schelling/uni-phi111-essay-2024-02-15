@@ -102,7 +102,6 @@ Es ist also mindestens fraglich, ob es sich bei diesem Argument um ein stichhalt
 = Induktive gültige Argumente
 
 Weniger stark, als die deduktive Gültigkeit, ist die induktive Gültigkeit.
-
 Ein Argument gilt als induktiv gültig, wenn die Wahrheit der Prämissen die Wahrheit der Konklusion wahrscheinlicher macht, als die ihrer Negation. @beckermann2011[vgl.&30-31]
 Es ist also eine Welt denkbar, in der die Prämissen wahr sind, die Konklusion aber falsch.
 Die Konklusion ist also nicht notwendigerweise wahr, wenn die Prämissen wahr sind.
@@ -123,9 +122,9 @@ Es handelt sich hier um eine nahezu identische Argumentstruktur, wie beim Beispi
 Die Konklusion ist also nicht notwendigerweise wahr, wenn die Prämissen wahr sind.
 Es ist allerdings rational anzunehmen, dass die Konklusion wahr ist, wenn die Prämissen wahr sind.
 Gleichermaßen ist die Konklusion, bei Wahrheit der Prämissen, wahrscheinlicher als ihre Negation.
-Das Argument ist also induktiv gültig.
+Das Argument ist demnach induktiv gültig.
 
-Ein induktiv gültiges Argument ist also weniger stark, als ein deduktiv gültiges Argument, jedoch immer noch stärker als ein ungültiges. @beckermann2011[vgl.&32]
+Ein induktiv gültiges Argument ist folglich weniger stark, als ein deduktiv gültiges Argument, jedoch immer noch stärker als ein ungültiges. @beckermann2011[vgl.&32]
 Auch bei einem induktiv gültigen Argument ist die Wahrheit der Prämissen nicht garantiert, es ist also auch hier nicht die einzige Eigenschaft, die ein Argument haben muss, um überzeugend zu sein. @beckermann2011[vgl.&32]
 Die Wahrheit der Prämissen ist auch hier entscheidend.
 
@@ -152,11 +151,15 @@ Aus diesem Grund hat die Logik auch außerhalb der Philosophie für politischen 
 Diese Arbeit hat eine grundlegende Einführung in den philosophischen Teilbereich der Logik gegeben. Fokus lag dabei auf der Erläuterung der Begriffe der deduktiven und induktiven Gültigkeit sowie der Stichhaltigkeit von Argumenten.
 Anhand von politischen Beispiel-Argumenten wurde gezeigt, wie sich Argumente mit Hilfe der Logik bewerten lassen.
 Es wurde gezeigt, dass stichhaltige Argumente aus dem Blickwinkel der Logik überzeugender sind, als induktiv gültige Argumente mit wahren Prämissen, die wiederum überzeugender sind, als ungültige Argumente mit z.B. einem logischen Fehlschluss.
-Zum Schluss wurde diskutiert, inwiefern die Logik mit den vorher eingeführten Begriffen für politische Bildung und Medienkompetenz nützlich ist.
+Zum Schluss wurde diskutiert, inwiefern die Logik, mit den vorher eingeführten Begriffen, für politische Bildung, Medienkompetenz und als Werkzeug, um sich im politischen Diskurs zurechtzufinden, nützlich ist.
 Es hat sich gezeigt, dass die Logik ein mindestens nützliches Werkzeug ist, um sich im politischen Diskurs besser zurechtzufinden.
 Deshalb ist die Logik nicht nur für die philosophische Forschung, sondern auch darüber hinaus relevant.
 
 = Ausblick
 
-Ob und zu welchem Grad die Logik im Kontext der politischen Bildung vermittelt werden sollte, in welcher Form und in welchem Bildungsniveau, ist eine Frage, die den Umfang dieser Arbeit weit übersteigt.
-Es ist allerdings im Laufe dieser Arbeit klar geworden, dass weitere wissenschaftliche Auseinandersetzungen in dieser Hinsicht sinnvoll sein könnten.
+Wenn also die Logik ein solch nützliches Werkzeug ist, wie es in dieser Arbeit gezeigt wurde, stellt sich die Frage, ob es sinnvoll wäre, sie mehr Menschen zu vermitteln.
+In welchem Umfang, in welcher Form und auf welchem Bildungsniveau könnte dies beispielsweise im Kontext der politischen Bildung Anwendung finden?
+Sollten Kinder bereits mit der Logik in der Schule in Berührung kommen?
+Welche didaktischen Mittel wären sinnvoll, um die Logik unterschiedlichen Personengruppen zu vermitteln?
+Diese Fragen liegen allerdings außerhalb des Rahmens dieser Arbeit.
+Es ist allerdings im Laufe klar geworden, dass weitere wissenschaftliche Auseinandersetzungen in dieser Hinsicht sinnvoll sein könnten.

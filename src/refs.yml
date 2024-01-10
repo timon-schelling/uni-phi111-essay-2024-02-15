@@ -97,22 +97,22 @@ eleftheriadi-zacharaki2022:
     - "Manstetten, Gerald"
     - "Paganini, Simone"
   date: 2022
-  publisher: "Nomos Verlagsgesellschaft"
   serial-number:
     doi: "10.5771/9783748925392"
     isbn: "9783748925392"
-  edition: 1
-  volume: 17
-  language: "de"
-  series: "Kommunikations- und Medienethik"
-  city: "Baden-Baden"
+  parent:
+    type: Periodical
+    title: "Kommunikations- und Medienethik"
+    publisher: "Nomos Verlagsgesellschaft"
+    edition: 1
+    volume: 17
   url:
     value: "https://plus.orbis-oldenburg.de/permalink/f/126s6ph/JBWlbs179016852X"
     date: "2023-12-21"
 
 eikenbusch2018:
   type: Article
-  title: " Wahrheit allein hilft nicht: Was Schulen gegen Fake News, Desinformation und Propaganda tun können"
+  title: "Wahrheit allein hilft nicht: Was Schulen gegen Fake News, Desinformation und Propaganda tun können"
   author: "Eikenbusch, Gerhard"
   date: 2018
   publisher: "Pädagogik"

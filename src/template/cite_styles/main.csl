@@ -149,21 +149,7 @@
     </group>
   </macro>
   <macro name="title">
-    <choose>
-      <if variable="title" match="none">
-        <choose>
-          <if type="personal_communication" match="none">
-            <text variable="genre" text-case="capitalize-first"/>
-          </if>
-        </choose>
-      </if>
-      <else-if type="bill book graphic legal_case legislation motion_picture song" match="any">
-        <text variable="title" font-style="italic"/>
-      </else-if>
-      <else>
-        <text variable="title"/>
-      </else>
-    </choose>
+    <text variable="title" font-style="italic"/>
   </macro>
   <macro name="edition">
     <choose>

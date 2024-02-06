@@ -25,12 +25,11 @@
 }
 
 #let show_custom_cite(citation) = {
-  if citation.supplement == none {
-    return citation
-  }
 
   let to_string(content) = {
-    if content.has("text") {
+    if content == none {
+      ""
+    } else if content.has("text") {
       content.text
     } else if content.has("children") {
       content.children.map(to_string).join("")
@@ -40,8 +39,6 @@
       " "
     }
   }
-
-
 
   let str = to_string(citation.supplement)
 
@@ -72,10 +69,10 @@
       query(selector(ref).before(loc, inclusive: false), loc)
     }
     let is_ebd = true
-    if elems.len() <= 1 {
+    if elems.len() < 1 {
       is_ebd = false
     } else {
-      let elem = elems.at(-2)
+      let elem = elems.last()
       let cite = elem.citation
       if cite == none or cite.key == none or cite.key != citation.key {
         is_ebd = false
@@ -92,6 +89,9 @@
 
 #let show_custom_ref(ref) = {
   if ref.citation == none {
+    return ref
+  }
+  if ref.element != none {
     return ref
   }
   show_custom_cite(ref.citation)

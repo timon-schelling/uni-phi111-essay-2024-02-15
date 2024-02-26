@@ -12,7 +12,7 @@
 #set text(fill: rgb("c7c7c7")) if theme == "dark"
 
 #show: project.with(
-  title: "Einführung in die Logik am Beispiel politischer Argumente",
+  title: "Rekonstruktion des Kapitels zu Hermeneutik aus Hans Posers Einführung in die Wissenschaftstheorie - Ergebnisprotokoll zur Sitzung am 08.01.2024",
   authors: (
     "Timon Schelling",
   ),
@@ -52,6 +52,24 @@
 ])
 
 = Einleitung
+
+In dieser Arbeit wird das Kapitel zur Hermeneutik aus Hans Posers Einführung in die Wissenschaftstheorie rekonstruiert. @poser2001[siehe. & 217-242]
+
+Hans Poser ist ein deutscher Philosoph und Wissenschaftstheoretiker, der sich in seinen Werken mit der Wissenschaftstheorie und der Philosophie der Geisteswissenschaften auseinandersetzt.
+Sein Buch Einführung in die Wissenschaftstheorie bietet eine umfassende Darstellung der wichtigsten Themen und Debatten in der Wissenschaftstheorie.
+Das Hermeneutik-Kapitel beginnt Poser mit einer historischen Einordnung und Definition des Begriffs der Hermeneutik als Methode der Erkenntnisgewinnung, die das Verstehen und Interpretieren von Zeichen beschreibt.
+Anschließend behandelt er die Arbeit von verschiedenen Philosophen, zur hermeneutischen Methode und ihrer Weiterentwicklung.
+Besonders Tiefgehen wird dann die Weiterentwicklung durch Hans-Georg Gadamer behandelt die nach Poser den Hermeneutik-Diskurs in der Philosophie bis heute beherrscht.
+Zum Ende seiner Ausführungen adressiert Poser die herausfordernde Kritik an Gadamers Hermeneutik, erkundet die darauf folgenden Weiterentwicklungen durch Denker wie Jürgen Habermas und schließt mit einer fundierten Verteidigung von Gadamers philosophischen Standpunkten.
+
+// Poser behandelt im weiteren die Weiterentwicklung der Hermeneutik durch Philosophen, die die Hermeneutik jeweils erweiterten und vertieften.
+// Die Hermeneutik, die Lehre der Interpretation und des Verstehens, erfährt in der wissenschaftlichen Diskussion eine tiefgreifende Analyse. Dieses Kapitel entfaltet die Dimensionen der Hermeneutik, beginnend mit ihrer historischen Entwicklung und erkenntnistheoretischen Problematiken (S. 218-219), über die methodologischen Ansätze von Schleiermacher und Dilthey (S. 222-224), bis hin zur modernen Kritik und Weiterentwicklung durch Gadamer, Habermas, und andere (S. 230-237). Es wird deutlich, dass Hermeneutik weit über die Textinterpretation hinausgeht und eine grundlegende Rolle in unserem Verständnis von Wissenschaft und Geschichte spielt. Die Bedeutung des hermeneutischen Zirkels, die Rolle von Tradition und Vorverständnis sowie die Herausforderungen und Kritiken, die mit dem Streben nach Verstehen verbunden sind, werden detailliert diskutiert. Diese Auseinandersetzung verdeutlicht die Komplexität der Hermeneutik und ihre Relevanz für die Geisteswissenschaften, indem sie die vielschichtigen Wege aufzeigt, auf denen Menschen Bedeutungen erschließen und Wissen generieren.
+
+= Rekonstruktion
+
+== Historische Einordnung und Definition
+
+
 
 = Fazit
 

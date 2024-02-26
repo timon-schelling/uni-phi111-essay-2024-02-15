@@ -69,7 +69,7 @@
       query(selector(ref).before(loc, inclusive: false), loc)
     }
     let is_ebd = true
-    if elems.len() < 1 {
+    if elems.len() <= 1 {
       is_ebd = false
     } else {
       let elem = elems.last()

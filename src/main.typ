@@ -67,9 +67,23 @@ Zum Ende seiner Ausführungen adressiert Poser die herausfordernde Kritik an Gad
 
 = Rekonstruktion
 
-== Historische Einordnung und Definition
+Die Debatte um das HO-Schema verdeutlicht eine zentrale philosophische Spannung: die zwischen dem ganzheitlichen Verstehen der Hermeneutik und der detailorientierten Analyse der analytischen Philosophie. @poser2001[vgl.&217-218]
+Während die Hermeneutik das Verstehen innerhalb eines Kontextes als essenziell betrachtet und auf die wechselseitige Abhängigkeit des Ganzen und seiner Teile hinweist, fokussiert die analytische Philosophie sich auf die Zerlegung und Überprüfung einzelner Elemente, weil das ganze gar nicht zu verstehen sei. @poser2001[vgl.&217-218]
+Verstehen bedeutet für Hermeneutiker, aus äußeren Zeichen ein dahinterliegendes (Geistiges) Konzept zu erfassen/erkennen. @poser2001[vgl.&220-221]
+Beispielweise das gelesene Wort "Staat", ist beim lesen nicht das Papier, die Tinte oder die Form der Buchstaben, sondern steht als eben solch ein Zeichen für das Konzept des Staates, welches der Leser versteht, aufgrund des in seinem Verstand vorhandenen Kontextes. @poser2001[vgl.&221]
+Poser betont, dass die Hermeneutik nicht auf Texte beschränkt ist, sondern auf alle Zeichen, die interpretiert werden können (Er erweitert damit das traditionelle Verständnis der Hermeneutik, welches häufig auf die Interpretation von Texten begrenzt wird, auf ein breiteres Spektrum von Zeichensystemen). @poser2001[vgl.&221]
+Die Hermeneutik besagt jedes Verstehen fängt mit kleinen Einheiten an, diese werden nach und nach zu einem Gesamtbild ergänzt, bis das Ganze erkennbar wird. Aus der Perspektive dieses Ganzen kann sich die Bedeutung der einzelnen Teile neu ordnen oder sogar verändern. Diese Dynamik zwischen dem Verstehen von Teilen und dem Verstehen des Ganzen in Wiederholung wird als Hermeneutischer Zirkel bezeichnet. @poser2001[vgl.&221-222]
+
+Nach Poser ergeben sich aus der Hermeneutik zwei voneinander abhängige Fragen, @poser2001[vgl.&221-222] deren Diskussion im weiteren Verlauf Thema sein soll. "1. Wie kann ich verstehen?" @poser2001[&222] "2. Warum kann ich verstehen?" @poser2001[&222]
+
+Die Entwicklung der Hermeneutik, ursprünglich aus der antiken Praxis entstanden, @poser2001[vgl.&217, 223] durchschritt im 16. Jahrhundert, durch das protestantische Bestreben Bibelverständnis jenseits orthodoxer Auslegungen rein aus dem Text selbst zu gewinnen, eine Richtungsänderung. @poser2001[vgl.&223]
+Die grundlegende damalige protestantische Vorstellung, dass eine Verstehensbewegung nach wenigen Durchgängen zur Ruhe kommt, stützt sich auf bestimmte Voraussetzungen, die zunächst als selbstverständlich angesehen wurden. Es wurde angenommen, dass die Bibel nicht nur verständlich, sondern auch in sich konsistent sei. @poser2001[vgl.&223-224]
+Dem heutigen Leser fehlt jedoch der Kontext des Verfassers, schon die verwendete Sprache ist nur noch übersetzt verständlich, und selbst eine Perfekte Übersetzung würde trotzdem nicht die des inneren was der Verfasser meinte wiedergeben. @poser2001[vgl.&224]
 
 
+
+
+// Thomas Kuhn's Paradigma-Konzept zeigt, dass wissenschaftliches Verständnis von vorherrschenden Theorien abhängt, welche wiederum nicht endgültig sind, sondern durch Paradigmenwechsel herausgefordert werden. Jede Erklärung basiert somit auf festsetzung, der selten hinterfragt wird.
 
 = Fazit
 

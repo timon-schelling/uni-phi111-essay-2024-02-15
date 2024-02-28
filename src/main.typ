@@ -75,10 +75,15 @@ Poser betont, dass die Hermeneutik nicht auf Texte beschränkt ist, sondern auf 
 Die Hermeneutik besagt jedes Verstehen fängt mit kleinen Einheiten an, diese werden nach und nach zu einem Gesamtbild ergänzt, bis das Ganze erkennbar wird. Aus der Perspektive dieses Ganzen kann sich die Bedeutung der einzelnen Teile neu ordnen oder sogar verändern. Diese Dynamik zwischen dem Verstehen von Teilen und dem Verstehen des Ganzen in Wiederholung wird als Hermeneutischer Zirkel bezeichnet. @poser2001[vgl.&221-222]
 
 Nach Poser ergeben sich aus der Hermeneutik zwei voneinander abhängige Fragen, @poser2001[vgl.&221-222] deren Diskussion im weiteren Verlauf Thema sein soll. "1. Wie kann ich verstehen?" @poser2001[&222] "2. Warum kann ich verstehen?" @poser2001[&222]
+Um diese Fragen zu beantworten, beschreibt Poser zunächst die Entwicklung der Hermeneutik, aus der Antike bis zur Christlichen Reformation, in der die Hermeneutik von Protestanten als Methode der Bibelauslegung heran gezogen wurde. @poser2001[vgl.&223]
+Es zeigt sich dabei ein generelles Problem, das jede form von Kommunikation betrifft, wie kann der empfänger einer Nachricht sicher sein, dass
 
-Die Entwicklung der Hermeneutik, ursprünglich aus der antiken Praxis entstanden, @poser2001[vgl.&217, 223] durchschritt im 16. Jahrhundert, durch das protestantische Bestreben Bibelverständnis jenseits orthodoxer Auslegungen rein aus dem Text selbst zu gewinnen, eine Richtungsänderung. @poser2001[vgl.&223]
-Die grundlegende damalige protestantische Vorstellung, dass eine Verstehensbewegung nach wenigen Durchgängen zur Ruhe kommt, stützt sich auf bestimmte Voraussetzungen, die zunächst als selbstverständlich angesehen wurden. Es wurde angenommen, dass die Bibel nicht nur verständlich, sondern auch in sich konsistent sei. @poser2001[vgl.&223-224]
-Dem heutigen Leser fehlt jedoch der Kontext des Verfassers, schon die verwendete Sprache ist nur noch übersetzt verständlich, und selbst eine Perfekte Übersetzung würde trotzdem nicht die des inneren was der Verfasser meinte wiedergeben. @poser2001[vgl.&224]
+
+// Die Entwicklung der Hermeneutik, ursprünglich aus der antiken Praxis entstanden, @poser2001[vgl.&217, 223] durchschritt im 16. Jahrhundert, durch das protestantische Bestreben Bibelverständnis jenseits orthodoxer Auslegungen rein aus dem Text selbst zu gewinnen, eine Richtungsänderung. @poser2001[vgl.&223]
+
+// Die grundlegende damalige protestantische Vorstellung, dass eine Verstehensbewegung nach wenigen Durchgängen zur Ruhe kommt, stützt sich auf bestimmte Voraussetzungen, die zunächst als selbstverständlich angesehen wurden. Es wurde angenommen, dass die Bibel nicht nur verständlich, sondern auch in sich konsistent sei. @poser2001[vgl.&223-224]
+// Dem heutigen Leser fehlt jedoch der Kontext des Verfassers, schon die verwendete Sprache ist nur noch übersetzt verständlich. @poser2001[vgl.&224] "Diese Übersetzungen aber sind Menschenwerk." @poser2001[&224] Schreib Poser und meint damit, fehleranfällig. @poser2001[vgl.&224] Poser benutzt dieses Beispiel, der Bibel, um eine generelle frage aufzuwerfen
+
 
 
 

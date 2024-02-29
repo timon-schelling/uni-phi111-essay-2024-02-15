@@ -76,7 +76,23 @@ Die Hermeneutik besagt jedes Verstehen fängt mit kleinen Einheiten an, diese we
 
 Nach Poser ergeben sich aus der Hermeneutik zwei voneinander abhängige Fragen, @poser2001[vgl.&221-222] deren Diskussion im weiteren Verlauf Thema sein soll. "1. Wie kann ich verstehen?" @poser2001[&222] "2. Warum kann ich verstehen?" @poser2001[&222]
 Um diese Fragen zu beantworten, beschreibt Poser zunächst die Entwicklung der Hermeneutik, aus der Antike bis zur Christlichen Reformation, in der die Hermeneutik von Protestanten als Methode der Bibelauslegung heran gezogen wurde. @poser2001[vgl.&223]
-Es zeigt sich dabei ein generelles Problem, das jede form von Kommunikation betrifft, wie kann der empfänger einer Nachricht sicher sein, dass
+Es zeigt sich dabei ein generelles Problem, das jede Form von Kommunikation betrifft, wie kann der Empfänger einer Nachricht sicher sein, dass er den Inhalt richtig verstanden hat, dass das innere was er dem äußeren Zeichen zuordnet, mit dem des Senders übereinstimmt. @poser2001[vgl.&223-224]
+Im Grunde sind die beiden oben genannten Fragen, eine andere Formulierung dieses Problems. @poser2001[vgl.&224]
+
+Poser führt an dieser Stelle die Überlegungen von Friedrich Schleiermacher ein, der Verstehen als das Einfühlen/Hineinversetzen in ein anderes Individuum definierte. @poser2001[vgl.&225]
+Er betonte zwei wesentliche Methoden: Komparation und divinatorischer Akt. @poser2001[vgl.&225]
+Komparation vergleicht Texte aufgrund von Ähnlichkeiten, was jedoch nur bei bekannten Inhalten greift. @poser2001[vgl.&225]
+Für das Erfassen von Neuem sei der divinatorische Akt nötig, eine kreative Leistung des Verstehenden, die folglich in jedem Menschen vorhandenen sein müsste. @poser2001[vgl.&225-226]
+"Verstehen wird so zu einem Rekonstruktionsprozess der fremden Individualität." @poser2001[&226]
+Poser kritisiert Schleiermachers Ansatz, da er die Frage nach dem Warum des Verstehens nicht beantwortet, sondern sie nur auf eine als selbstverständlich angenommene Voraussetzung verlagert. @poser2001[vgl.&226]
+"[N]ämlich, dass [...] die zeitliche Differenz zwischen [Leser] und einem (antiken) Autor einfach [übersprungen werden] kann." @poser2001[&226]
+
+Für Poser unternahm Hans-Georg Gadamer, "unter Aufnahme einiger Konzeptionen Martin Heideggers", @poser2001[&228] den entscheidenden Schritt, der die heutige Diskussion in der Hermeneutik bis Heute prägt. @poser2001[vgl.&228]
+Die Hermeneutik, wurde von einer Methodenlehre "zur fundamentalen ontologischen Theorie ausgeweitet". @poser2001[&229]
+Kern Gadamers Theorie ist dabei das Gespräch, das Verstehen als ein Dialog der Sache wegen. @poser2001[vgl.&229-230]
+
+
+
 
 
 // Die Entwicklung der Hermeneutik, ursprünglich aus der antiken Praxis entstanden, @poser2001[vgl.&217, 223] durchschritt im 16. Jahrhundert, durch das protestantische Bestreben Bibelverständnis jenseits orthodoxer Auslegungen rein aus dem Text selbst zu gewinnen, eine Richtungsänderung. @poser2001[vgl.&223]

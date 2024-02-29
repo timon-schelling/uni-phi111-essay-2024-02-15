@@ -62,9 +62,6 @@ Anschließend behandelt er die Arbeit von verschiedenen Philosophen, zur hermene
 Besonders Tiefgehen wird dann die Weiterentwicklung durch Hans-Georg Gadamer behandelt die nach Poser den Hermeneutik-Diskurs in der Philosophie bis heute beherrscht. @poser2001[vgl.&228-233]
 Zum Ende seiner Ausführungen adressiert Poser die herausfordernde Kritik an Gadamers Hermeneutik, erkundet die darauf folgenden Weiterentwicklungen durch Denker wie Jürgen Habermas und schließt mit einer fundierten Verteidigung von Gadamers philosophischen Standpunkten. @poser2001[vgl.&233-242]
 
-// Poser behandelt im weiteren die Weiterentwicklung der Hermeneutik durch Philosophen, die die Hermeneutik jeweils erweiterten und vertieften.
-// Die Hermeneutik, die Lehre der Interpretation und des Verstehens, erfährt in der wissenschaftlichen Diskussion eine tiefgreifende Analyse. Dieses Kapitel entfaltet die Dimensionen der Hermeneutik, beginnend mit ihrer historischen Entwicklung und erkenntnistheoretischen Problematiken (S. 218-219), über die methodologischen Ansätze von Schleiermacher und Dilthey (S. 222-224), bis hin zur modernen Kritik und Weiterentwicklung durch Gadamer, Habermas, und andere (S. 230-237). Es wird deutlich, dass Hermeneutik weit über die Textinterpretation hinausgeht und eine grundlegende Rolle in unserem Verständnis von Wissenschaft und Geschichte spielt. Die Bedeutung des hermeneutischen Zirkels, die Rolle von Tradition und Vorverständnis sowie die Herausforderungen und Kritiken, die mit dem Streben nach Verstehen verbunden sind, werden detailliert diskutiert. Diese Auseinandersetzung verdeutlicht die Komplexität der Hermeneutik und ihre Relevanz für die Geisteswissenschaften, indem sie die vielschichtigen Wege aufzeigt, auf denen Menschen Bedeutungen erschließen und Wissen generieren.
-
 = Rekonstruktion
 
 Die Debatte um das HO-Schema verdeutlicht eine zentrale philosophische Spannung: die zwischen dem ganzheitlichen Verstehen der Hermeneutik und der detailorientierten Analyse der analytischen Philosophie. @poser2001[vgl.&217-218]
@@ -90,6 +87,12 @@ Poser kritisiert Schleiermachers Ansatz, da er die Frage nach dem Warum des Vers
 Für Poser unternahm Hans-Georg Gadamer, "unter Aufnahme einiger Konzeptionen Martin Heideggers", @poser2001[&228] den entscheidenden Schritt, der die heutige Diskussion in der Hermeneutik bis Heute prägt. @poser2001[vgl.&228]
 Die Hermeneutik, wurde von einer Methodenlehre "zur fundamentalen ontologischen Theorie ausgeweitet". @poser2001[&229]
 Kern Gadamers Theorie ist dabei das Gespräch, das Verstehen als ein Dialog der Sache wegen. @poser2001[vgl.&229-230]
+Der Hermeneutische Zirkel wird zu einer art Spirale des Verstehen. @poser2001[vgl.&230]
+Beide Gesprächspartner bringen ihre Vorverständnisse ein, die sich im Gespräch gegenseitig erweitern und verändern. @poser2001[vgl.&230-232]
+Das Mehrverstehen wird als ein sich in der Spirale nach oben Bewegen gedacht, das in der sogenannten Horizontverschmelzung vorläufig endet, wenn sich die Gesprächspartner einig sind. @poser2001[vgl.&231]
+Nach Gadamer ist dann jedoch kein Objektives Verständnis erreicht, denn es ist immer noch vom Vorverständnis der Gesprächspartner abhängig. @poser2001[vgl.&232-233]
+
+
 
 
 

@@ -91,7 +91,9 @@ Der Hermeneutische Zirkel wird zu einer art Spirale des Verstehen. @poser2001[vg
 Beide Gesprächspartner bringen ihre Vorverständnisse ein, die sich im Gespräch gegenseitig erweitern und verändern. @poser2001[vgl.&230-232]
 Das Mehrverstehen wird als ein sich in der Spirale nach oben Bewegen gedacht, das in der sogenannten Horizontverschmelzung vorläufig endet, wenn sich die Gesprächspartner einig sind. @poser2001[vgl.&231]
 Nach Gadamer ist dann jedoch kein Objektives Verständnis erreicht, denn es ist immer noch vom Vorverständnis der Gesprächspartner abhängig. @poser2001[vgl.&232-233]
-
+Er zeigt damit auf, dass die Idee einer absoluten Vermittlung von Geschichte und Wahrheit, wie von Hegel gedacht, nur als Rückprojektion möglich ist. @poser2001[vgl.&233]
+In jeder Wissenschaftsdisziplin wird nach Gadamer das Vorverständnis der Forschenden so vereinheitlicht, dass daraus entstehende Übereinstimmungen fälschlicherweise als objektive Wahrheiten gesehen werden; der Anspruch auf Objektivität beruht auf der Vernachlässigung des Kontextes, in dem Beobachtungen und Theorien entstehen. @poser2001[vgl.&233]
+"[...][N]aturgemäß hat auch eine jede Wissenschaftsgeschichte ihre Voraussetzungen, ihr Vorverständnis und ihre paradigmatischen Begrenzungen." @poser2001[&233]
 
 
 

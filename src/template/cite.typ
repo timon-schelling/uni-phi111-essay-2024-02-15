@@ -72,7 +72,7 @@
     if elems.len() <= 1 {
       is_ebd = false
     } else {
-      let elem = elems.last()
+      let elem = elems.at(-2)
       let cite = elem.citation
       if cite == none or cite.key == none or cite.key != citation.key {
         is_ebd = false

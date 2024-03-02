@@ -84,16 +84,32 @@ Für das Erfassen von Neuem sei der divinatorische Akt nötig, eine kreative Lei
 Poser kritisiert Schleiermachers Ansatz, da er die Frage nach dem Warum des Verstehens nicht beantwortet, sondern sie nur auf eine als selbstverständlich angenommene Voraussetzung verlagert. @poser2001[vgl.&226]
 "[N]ämlich, dass [...] die zeitliche Differenz zwischen [Leser] und einem (antiken) Autor einfach [übersprungen werden] kann." @poser2001[&226]
 
-Für Poser unternahm Hans-Georg Gadamer, "unter Aufnahme einiger Konzeptionen Martin Heideggers", @poser2001[&228] den entscheidenden Schritt, der die heutige Diskussion in der Hermeneutik bis Heute prägt. @poser2001[vgl.&228]
+Für Poser unternahm Hans-Georg Gadamer, "unter Aufnahme einiger Konzeptionen Martin Heideggers", @poser2001[&228] den entscheidenden Schritt, der die Diskussion in der Hermeneutik bis Heute prägt. @poser2001[vgl.&228]
 Die Hermeneutik, wurde von einer Methodenlehre "zur fundamentalen ontologischen Theorie ausgeweitet". @poser2001[&229]
 Kern Gadamers Theorie ist dabei das Gespräch, das Verstehen als ein Dialog der Sache wegen. @poser2001[vgl.&229-230]
-Der Hermeneutische Zirkel wird zu einer art Spirale des Verstehen. @poser2001[vgl.&230]
+Der Hermeneutische Zirkel wird zu einer art Spirale des Verstehens. @poser2001[vgl.&230]
 Beide Gesprächspartner bringen ihre Vorverständnisse ein, die sich im Gespräch gegenseitig erweitern und verändern. @poser2001[vgl.&230-232]
 Das Mehrverstehen wird als ein sich in der Spirale nach oben Bewegen gedacht, das in der sogenannten Horizontverschmelzung vorläufig endet, wenn sich die Gesprächspartner einig sind. @poser2001[vgl.&231]
 Nach Gadamer ist dann jedoch kein Objektives Verständnis erreicht, denn es ist immer noch vom Vorverständnis der Gesprächspartner abhängig. @poser2001[vgl.&232-233]
 Er zeigt damit auf, dass die Idee einer absoluten Vermittlung von Geschichte und Wahrheit, wie von Hegel gedacht, nur als Rückprojektion möglich ist. @poser2001[vgl.&233]
 In jeder Wissenschaftsdisziplin wird nach Gadamer das Vorverständnis der Forschenden so vereinheitlicht, dass daraus entstehende Übereinstimmungen fälschlicherweise als objektive Wahrheiten gesehen werden; der Anspruch auf Objektivität beruht auf der Vernachlässigung des Kontextes, in dem Beobachtungen und Theorien entstehen. @poser2001[vgl.&233]
 "[...][N]aturgemäß hat auch eine jede Wissenschaftsgeschichte ihre Voraussetzungen, ihr Vorverständnis und ihre paradigmatischen Begrenzungen." @poser2001[&233]
+
+Kritisiert wird Gadamer von Karl Otto Apel, der zu diesem Zweck den Begriffe der Transzendentalpragmatik erarbeite.
+Mit ihm versucht er, die transzendentale Dimension, also den Bedingungen von Erkenntnis, und der pragmatischen Dimension, dem tatsächlich Umgesetzten und Handeln, zu verbinden.
+Apel argumentiert, dass unsere Erkenntnis und Wahrheitsbegriff grundsätzlich durch Interessen bestimmt ist.
+Er unterscheidet dabei zwischen technischer Praxis, die auf konkrete Problemlösungen ausgerichtet ist, und sozial-moralischer Praxis, die das Zusammenleben in der Gesellschaft und die Interaktion zwischen Individuen und Institutionen betrifft.
+
+Apel wirft Gadamer vor, einen zu relativistischen Ansatz zu verfolgen, indem er die Bedingungen der Möglichkeit von Verständnis und Verständigung vernachlässigt.
+Laut Apel muss Verständnis in den konkreten Bedürfnissen der Gesellschaft verankert sein.
+
+Weiterhin erweitert Apel das Konzept der Hermeneutik um die Pragmatik. Er betont, dass das Verstehen nicht nur als theoretische Übung, sondern als Mittel zur Erreichung konkreter Ziele wie sozialer Frieden oder die Lösung technischer Probleme zu sehen ist. Dies führt zur Vorstellung einer Kommunikations-, Interpretations- und Interaktionsgemeinschaft, die nicht nur sprachliche Zeichen deuten kann, sondern auch pragmatische Handlungsanweisungen versteht und umsetzt.
+
+Ein weiteres zentrales Element in Apels Theorie ist das regulative Prinzip der unbegrenzten Interpretationsgemeinschaft. Dieses Prinzip dient als ideale Kontrollinstanz und basiert auf den Werten des Dialogs, der Anerkennung des Anderen und der Menschenwürde. Es zielt darauf ab, einen allgemeinen Frieden durch Erkenntnis zu verwirklichen und die Erkenntnisse der Individuen miteinander zu verschmelzen.
+
+Schließlich bringt Jürgen Habermas das Konzept des kritisch-emanzipatorischen Interesses in die Diskussion ein. Dieses Interesse zielt auf die Überwindung traditioneller Zusammenhänge und die Befreiung von überkommenen Denkmustern ab, exemplifiziert durch Prozesse wie die Entnazifizierung.
+
+Insgesamt zeigt sich, dass die Konstitution von Wahrheit im Dialog ein komplexes Zusammenspiel von individuellen Vorurteilen, gesellschaftlichen Praktiken und der Qualität der kommunikativen Interaktion erfordert. Die Theorien von Apel, Gadamer und Habermas liefern wichtige Beiträge zu unserem Verständnis dieser Prozesse und unterstreichen die Bedeutung von kritischem Denken, dialogischer Auseinandersetzung und der Orientierung an konkreten gesellschaftlichen Bedürfnissen für die Wahrheitsfindung und das gegenseitige Verständnis.
 
 
 

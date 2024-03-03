@@ -12,7 +12,7 @@
 #set text(fill: rgb("c7c7c7")) if theme == "dark"
 
 #show: project.with(
-  title: "Rekonstruktion des Kapitels zu Hermeneutik aus Hans Posers Einführung in die Wissenschaftstheorie - Ergebnisprotokoll zur Sitzung am 08.01.2024",
+  title: "Rekonstruktion des Kapitels zu Hermeneutik aus Hans Posers Einführung in die Wissenschaftstheorie - Ergebnisprotokoll zur Sitzung am 08-01-2024",
   authors: (
     "Timon Schelling",
   ),

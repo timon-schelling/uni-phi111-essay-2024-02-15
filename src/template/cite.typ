@@ -64,9 +64,9 @@
   locate(loc => {
     let headings = query(selector(heading).before(loc), loc)
     let elems = if headings.len() >= 0 {
-      query(selector(ref).after(headings.last().location()).before(loc, inclusive: false), loc)
+      query(selector(ref).after(headings.last().location()).before(loc), loc)
     } else {
-      query(selector(ref).before(loc, inclusive: false), loc)
+      query(selector(ref).before(loc), loc)
     }
     let is_ebd = true
     if elems.len() <= 1 {

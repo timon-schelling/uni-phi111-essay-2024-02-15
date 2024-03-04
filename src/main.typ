@@ -113,11 +113,6 @@ Dies führe laut Apel zu Relativismus statt Konsens und zu einer ideologischen F
 
 
 
-
-
-
-
-
 Insgesamt zeigt sich, dass die Konstitution von Wahrheit im Dialog ein komplexes Zusammenspiel von individuellen Vorurteilen, gesellschaftlichen Praktiken und der Qualität der kommunikativen Interaktion erfordert. Die Theorien aus diesem Kapitel liefern wichtige Beiträge zu unserem Verständnis dieser Prozesse und unterstreichen die Bedeutung von kritischem Denken, dialogischer Auseinandersetzung und der Orientierung an konkreten gesellschaftlichen Bedürfnissen für die Wahrheitsfindung und das gegenseitige Verständnis.
 
 

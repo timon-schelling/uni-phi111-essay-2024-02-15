@@ -95,37 +95,31 @@ Er zeigt damit auf, dass die Idee einer absoluten Vermittlung von Geschichte und
 In jeder Wissenschaftsdisziplin wird nach Gadamer das Vorverständnis der Forschenden so vereinheitlicht, dass daraus entstehende Übereinstimmungen fälschlicherweise als objektive Wahrheiten gesehen werden; der Anspruch auf Objektivität beruht auf der Vernachlässigung des Kontextes, in dem Beobachtungen und Theorien entstehen. @poser2001[vgl.&233]
 "[...][N]aturgemäß hat auch eine jede Wissenschaftsgeschichte ihre Voraussetzungen, ihr Vorverständnis und ihre paradigmatischen Begrenzungen." @poser2001[&233]
 
-Kritisiert wird Gadamer von Karl Otto Apel, der zu diesem Zweck den Begriffe der Transzendentalpragmatik erarbeite.
-Mit ihm versucht er, die transzendentale Dimension, also den Bedingungen von Erkenntnis, und der pragmatischen Dimension, dem tatsächlich Umgesetzten und Handeln, zu verbinden.
-Apel argumentiert, dass unsere Erkenntnis und Wahrheitsbegriff grundsätzlich durch Interessen bestimmt ist.
-Er unterscheidet dabei zwischen technischer Praxis, die auf konkrete Problemlösungen ausgerichtet ist, und sozial-moralischer Praxis, die das Zusammenleben in der Gesellschaft und die Interaktion zwischen Individuen und Institutionen betrifft.
+Kritisiert wird Gadamer von Karl Otto Apel, der zu diesem Zweck den Begriffe der Transzendentalpragmatik erarbeite. @poser2001[vgl.&234]
+Mit ihm versucht er, die Transzendentalphilosophie, Theorie des Subjekts, und der pragmatischen Dimension, dem tatsächlich Umgesetzten und Handeln, zu verbinden. @poser2001[vgl.&235-237]
+Apel argumentiert, dass Erkennen grundsätzlich durch Interessen bestimmt ist. @poser2001[vgl.&234]
+Er unterscheidet dabei zwischen Erkenntnisinteresse durch: Erstens technische Praxis, das auf konkrete Problemlösungen ausgerichtet ist, die Kenntnis der Naturgesetze erfordert; Zweitens sozial-moralischer Praxis, die das Zusammenleben in der Gesellschaft und die Interaktion zwischen Individuen und Institutionen betrifft. @poser2001[vgl.&234]
 
-Apel wirft Gadamer vor, einen zu relativistischen Ansatz zu verfolgen, indem er die Bedingungen der Möglichkeit von Verständnis und Verständigung vernachlässigt.
-Laut Apel muss Verständnis in den konkreten Bedürfnissen der Gesellschaft verankert sein.
+Dies führt zur Vorstellung einer Kommunikations-, Interpretations- und Interaktionsgemeinschaft, die nicht nur sprachliche Zeichen deuten kann, sondern auch pragmatische Handlungsanweisungen versteht und umsetzt. @poser2001[vgl.&236-237]
 
-Weiterhin erweitert Apel das Konzept der Hermeneutik um die Pragmatik. Er betont, dass das Verstehen nicht nur als theoretische Übung, sondern als Mittel zur Erreichung konkreter Ziele wie sozialer Frieden oder die Lösung technischer Probleme zu sehen ist. Dies führt zur Vorstellung einer Kommunikations-, Interpretations- und Interaktionsgemeinschaft, die nicht nur sprachliche Zeichen deuten kann, sondern auch pragmatische Handlungsanweisungen versteht und umsetzt.
+// Laut Apel muss Verständnis in den konkreten Bedürfnissen der Gesellschaft verankert sein, das Verstehen also nicht nur als theoretische Übung aus selbstzweck, sondern als Mittel zur Erreichung konkreter Ziele wie sozialer Frieden oder die Lösung anderer Probleme.
 
-Ein weiteres zentrales Element in Apels Theorie ist das regulative Prinzip der unbegrenzten Interpretationsgemeinschaft. Dieses Prinzip dient als ideale Kontrollinstanz und basiert auf den Werten des Dialogs, der Anerkennung des Anderen und der Menschenwürde. Es zielt darauf ab, einen allgemeinen Frieden durch Erkenntnis zu verwirklichen und die Erkenntnisse der Individuen miteinander zu verschmelzen.
-
-Schließlich bringt Jürgen Habermas das Konzept des kritisch-emanzipatorischen Interesses in die Diskussion ein. Dieses Interesse zielt auf die Überwindung traditioneller Zusammenhänge und die Befreiung von überkommenen Denkmustern ab, exemplifiziert durch Prozesse wie die Entnazifizierung.
-
-Insgesamt zeigt sich, dass die Konstitution von Wahrheit im Dialog ein komplexes Zusammenspiel von individuellen Vorurteilen, gesellschaftlichen Praktiken und der Qualität der kommunikativen Interaktion erfordert. Die Theorien von Apel, Gadamer und Habermas liefern wichtige Beiträge zu unserem Verständnis dieser Prozesse und unterstreichen die Bedeutung von kritischem Denken, dialogischer Auseinandersetzung und der Orientierung an konkreten gesellschaftlichen Bedürfnissen für die Wahrheitsfindung und das gegenseitige Verständnis.
+Apel kritisiert an Gadamer vor allem, das Fehlen einer Begründung der Hermeneutik und stellt die Frage, wie trotz Tradition und sozialer Praxis intersubjektive Verständigung möglich ist. @poser2001[vgl.&235]
+Er wirft Gadamer vor, diese transzendentalphilosophische Frage nach den Bedingungen der Möglichkeit der Verständigung zu vernachlässigen, indem er eine objektive Methode ablehnt und die Bindung an ein individuelles Vorverständnis betont. @poser2001[vgl.&235]
+Dies führe laut Apel zu Relativismus statt Konsens und zu einer ideologischen Festlegung, die keiner Kritik zugänglich sei. @poser2001[vgl.&235]
 
 
 
 
 
 
-// Die Entwicklung der Hermeneutik, ursprünglich aus der antiken Praxis entstanden, @poser2001[vgl.&217, 223] durchschritt im 16. Jahrhundert, durch das protestantische Bestreben Bibelverständnis jenseits orthodoxer Auslegungen rein aus dem Text selbst zu gewinnen, eine Richtungsänderung. @poser2001[vgl.&223]
-
-// Die grundlegende damalige protestantische Vorstellung, dass eine Verstehensbewegung nach wenigen Durchgängen zur Ruhe kommt, stützt sich auf bestimmte Voraussetzungen, die zunächst als selbstverständlich angesehen wurden. Es wurde angenommen, dass die Bibel nicht nur verständlich, sondern auch in sich konsistent sei. @poser2001[vgl.&223-224]
-// Dem heutigen Leser fehlt jedoch der Kontext des Verfassers, schon die verwendete Sprache ist nur noch übersetzt verständlich. @poser2001[vgl.&224] "Diese Übersetzungen aber sind Menschenwerk." @poser2001[&224] Schreib Poser und meint damit, fehleranfällig. @poser2001[vgl.&224] Poser benutzt dieses Beispiel, der Bibel, um eine generelle frage aufzuwerfen
 
 
 
 
 
-// Thomas Kuhn's Paradigma-Konzept zeigt, dass wissenschaftliches Verständnis von vorherrschenden Theorien abhängt, welche wiederum nicht endgültig sind, sondern durch Paradigmenwechsel herausgefordert werden. Jede Erklärung basiert somit auf festsetzung, der selten hinterfragt wird.
+Insgesamt zeigt sich, dass die Konstitution von Wahrheit im Dialog ein komplexes Zusammenspiel von individuellen Vorurteilen, gesellschaftlichen Praktiken und der Qualität der kommunikativen Interaktion erfordert. Die Theorien aus diesem Kapitel liefern wichtige Beiträge zu unserem Verständnis dieser Prozesse und unterstreichen die Bedeutung von kritischem Denken, dialogischer Auseinandersetzung und der Orientierung an konkreten gesellschaftlichen Bedürfnissen für die Wahrheitsfindung und das gegenseitige Verständnis.
+
 
 = Fazit
 

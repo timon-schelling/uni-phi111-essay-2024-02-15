@@ -108,13 +108,14 @@ Apel kritisiert an Gadamer vor allem, das Fehlen einer Begründung der Hermeneut
 Er wirft Gadamer vor, diese transzendentalphilosophische Frage nach den Bedingungen der Möglichkeit der Verständigung zu vernachlässigen, indem er eine objektive Methode ablehnt und die Bindung an ein individuelles Vorverständnis betont. @poser2001[vgl.&235]
 Dies führe laut Apel zu Relativismus statt Konsens und zu einer ideologischen Festlegung, die keiner Kritik zugänglich sei. @poser2001[vgl.&235]
 
-
+Hans Albert kritisiert die Hermeneutik nach Gadamer und ihre Erweiterungen, als ein Festhalten an einem "Offenbarungsmodell der Erkenntnis", das nicht objektivitätsgesteuert sondern Holistisch sei, also den Vorgriff auf eine nie erreichbare Totalität. @poser2001[vgl.&238]
+Er argumentiert auch gegen das Konzept des Erkenntnisinteresses, wie es von Apel vertreten wird, für ihn untersucht die Wissenschaft auch Dinge bei denen weder technisches noch soziales Interesse besteht. @poser2001[vgl.&239]
+Nach Albert ist die Interpretation von Zeichen nur ein spezieller Fall des Erkenntnisprozesses, da Wahrnehmung schon Interpretation enthält. @poser2001[vgl.&239]
 
 
 
 
 Insgesamt zeigt sich, dass die Konstitution von Wahrheit im Dialog ein komplexes Zusammenspiel von individuellen Vorurteilen, gesellschaftlichen Praktiken und der Qualität der kommunikativen Interaktion erfordert. Die Theorien aus diesem Kapitel liefern wichtige Beiträge zu unserem Verständnis dieser Prozesse und unterstreichen die Bedeutung von kritischem Denken, dialogischer Auseinandersetzung und der Orientierung an konkreten gesellschaftlichen Bedürfnissen für die Wahrheitsfindung und das gegenseitige Verständnis.
-
 
 = Fazit
 

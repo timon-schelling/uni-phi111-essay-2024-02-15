@@ -76,6 +76,8 @@ Um diese Fragen zu beantworten, beschreibt Poser zunächst die Entwicklung der H
 Es zeigt sich dabei ein generelles Problem, das jede Form von Kommunikation betrifft, wie kann der Empfänger einer Nachricht sicher sein, dass er den Inhalt richtig verstanden hat, dass das innere was er dem äußeren Zeichen zuordnet, mit dem des Senders übereinstimmt. @poser2001[vgl.&223-224]
 Im Grunde sind die beiden oben genannten Fragen, eine andere Formulierung dieses Problems. @poser2001[vgl.&224]
 
+== Verstehen als Einfühlen nach Schleiermacher
+
 Poser führt an dieser Stelle die Überlegungen von Friedrich Schleiermacher ein, der Verstehen als das Einfühlen/Hineinversetzen in ein anderes Individuum definierte. @poser2001[vgl.&225]
 Er betonte zwei wesentliche Methoden: Komparation und divinatorischer Akt. @poser2001[vgl.&225]
 Komparation vergleicht Texte aufgrund von Ähnlichkeiten, was jedoch nur bei bekannten Inhalten greift. @poser2001[vgl.&225]
@@ -83,6 +85,8 @@ Für das Erfassen von Neuem sei der divinatorische Akt nötig, eine kreative Lei
 "Verstehen wird so zu einem Rekonstruktionsprozess der fremden Individualität." @poser2001[&226]
 Poser kritisiert Schleiermachers Ansatz, da er die Frage nach dem Warum des Verstehens nicht beantwortet, sondern sie nur auf eine als selbstverständlich angenommene Voraussetzung verlagert. @poser2001[vgl.&226]
 "[N]ämlich, dass [...] die zeitliche Differenz zwischen [Leser] und einem (antiken) Autor einfach [übersprungen werden] kann." @poser2001[&226]
+
+== Spiralbewegung des Verstehens nach Gadamer
 
 Für Poser unternahm Hans-Georg Gadamer, "unter Aufnahme einiger Konzeptionen Martin Heideggers", @poser2001[&228] den entscheidenden Schritt, der die Diskussion in der Hermeneutik bis Heute prägt. @poser2001[vgl.&228]
 Die Hermeneutik, wurde von einer Methodenlehre "zur fundamentalen ontologischen Theorie ausgeweitet". @poser2001[&229]
@@ -95,28 +99,25 @@ Er zeigt damit auf, dass die Idee einer absoluten Vermittlung von Geschichte und
 In jeder Wissenschaftsdisziplin wird nach Gadamer das Vorverständnis der Forschenden so vereinheitlicht, dass daraus entstehende Übereinstimmungen fälschlicherweise als objektive Wahrheiten gesehen werden; der Anspruch auf Objektivität beruht auf der Vernachlässigung des Kontextes, in dem Beobachtungen und Theorien entstehen. @poser2001[vgl.&233]
 "[...][N]aturgemäß hat auch eine jede Wissenschaftsgeschichte ihre Voraussetzungen, ihr Vorverständnis und ihre paradigmatischen Begrenzungen." @poser2001[&233]
 
+== Kritik an Gadamers Hermeneutik nach Apel
+
 Kritisiert wird Gadamer von Karl Otto Apel, der zu diesem Zweck den Begriffe der Transzendentalpragmatik erarbeite. @poser2001[vgl.&234]
 Mit ihm versucht er, die Transzendentalphilosophie, Theorie des Subjekts, und der pragmatischen Dimension, dem tatsächlich Umgesetzten und Handeln, zu verbinden. @poser2001[vgl.&235-237]
 Apel argumentiert, dass Erkennen grundsätzlich durch Interessen bestimmt ist. @poser2001[vgl.&234]
 Er unterscheidet dabei zwischen Erkenntnisinteresse durch: Erstens technische Praxis, das auf konkrete Problemlösungen ausgerichtet ist, die Kenntnis der Naturgesetze erfordert; Zweitens sozial-moralischer Praxis, die das Zusammenleben in der Gesellschaft und die Interaktion zwischen Individuen und Institutionen betrifft. @poser2001[vgl.&234]
-
 Dies führt zur Vorstellung einer Kommunikations-, Interpretations- und Interaktionsgemeinschaft, die nicht nur sprachliche Zeichen deuten kann, sondern auch pragmatische Handlungsanweisungen versteht und umsetzt. @poser2001[vgl.&236-237]
-
-// Laut Apel muss Verständnis in den konkreten Bedürfnissen der Gesellschaft verankert sein, das Verstehen also nicht nur als theoretische Übung aus selbstzweck, sondern als Mittel zur Erreichung konkreter Ziele wie sozialer Frieden oder die Lösung anderer Probleme.
-
-Apel kritisiert an Gadamer vor allem, das Fehlen einer Begründung der Hermeneutik und stellt die Frage, wie trotz Tradition und sozialer Praxis intersubjektive Verständigung möglich ist. @poser2001[vgl.&235]
+Apel stellt die Frage, wie trotz Tradition und sozialer Praxis intersubjektive Verständigung möglich ist. @poser2001[vgl.&235]
 Er wirft Gadamer vor, diese transzendentalphilosophische Frage nach den Bedingungen der Möglichkeit der Verständigung zu vernachlässigen, indem er eine objektive Methode ablehnt und die Bindung an ein individuelles Vorverständnis betont. @poser2001[vgl.&235]
 Dies führe laut Apel zu Relativismus statt Konsens und zu einer ideologischen Festlegung, die keiner Kritik zugänglich sei. @poser2001[vgl.&235]
+
+== Kritik an Gadamers Hermeneutik nach Albert
 
 Hans Albert kritisiert die Hermeneutik nach Gadamer und ihre Erweiterungen, als ein Festhalten an einem "Offenbarungsmodell der Erkenntnis", das nicht objektivitätsgesteuert sondern Holistisch sei, also den Vorgriff auf eine nie erreichbare Totalität. @poser2001[vgl.&238]
 Er argumentiert auch gegen das Konzept des Erkenntnisinteresses, wie es von Apel vertreten wird, für ihn untersucht die Wissenschaft auch Dinge bei denen weder technisches noch soziales Interesse besteht. @poser2001[vgl.&239]
 Nach Albert ist die Interpretation von Zeichen nur ein spezieller Fall des Erkenntnisprozesses, da Wahrnehmung schon Interpretation enthält. @poser2001[vgl.&239]
 
-
-
-
-Insgesamt zeigt sich, dass die Konstitution von Wahrheit im Dialog ein komplexes Zusammenspiel von individuellen Vorurteilen, gesellschaftlichen Praktiken und der Qualität der kommunikativen Interaktion erfordert. Die Theorien aus diesem Kapitel liefern wichtige Beiträge zu unserem Verständnis dieser Prozesse und unterstreichen die Bedeutung von kritischem Denken, dialogischer Auseinandersetzung und der Orientierung an konkreten gesellschaftlichen Bedürfnissen für die Wahrheitsfindung und das gegenseitige Verständnis.
-
 = Fazit
 
-= Ausblick
+Hermeneutik zeigt, dass Wissenschaft nicht nur aus harten Fakten bestehen kann, sondern auch Interpretation enthält, die mitunter tief in der Geschichte und Tradition verwurzelt ist. @poser2001[vgl.&241]
+Von Apel und Habermas wird betont, wie wichtig es dennoch ist, über ideale Ziele der Wissenschaft nachzudenken, auch wenn diese Ziele eher als Leitsterne denn als feste Regeln dienen, denn sie können nicht in sinnvolle regulative Regeln ausformuliert werden. @poser2001[vgl.&242]
+Letzendlich muss Wissenschaft sowohl die analytische als auch die hermeneutische Methode nutzen, nicht als gegesatz, sondern als Ergänzung. @poser2001[vgl.&242]

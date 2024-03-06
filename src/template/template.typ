@@ -7,7 +7,7 @@
   bib-urls: false,
   lang: "de",
   font: "Calibri",
-  font-size: 1.2em,
+  font-size: 1.1em,
   leading: 0.85em,
   heading-padding: 0.4em,
   numbering-skip-outline: true,

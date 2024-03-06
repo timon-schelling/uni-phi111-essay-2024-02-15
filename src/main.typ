@@ -18,6 +18,7 @@
   ),
   date: "2024-01-29",
   title-page-infos: [
+    #set text(size: 0.97em)
     #table(
       columns: (8em, auto),
       inset: (x: 0em, y: 0.6em),

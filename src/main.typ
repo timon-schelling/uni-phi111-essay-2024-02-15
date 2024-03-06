@@ -60,7 +60,7 @@ Sein Buch Einführung in die Wissenschaftstheorie bietet eine umfassende Darstel
 Das Hermeneutik-Kapitel beginnt Poser mit einer historischen Einordnung und Definition des Begriffs der Hermeneutik als Methode der Erkenntnisgewinnung, die das Verstehen und Interpretieren von Zeichen beschreibt. @poser2001[vgl.&217-222]
 Anschließend behandelt er die Arbeit von verschiedenen Philosophen, zur hermeneutischen Methode und ihrer Weiterentwicklung. @poser2001[vgl.&223-228]
 Besonders Tiefgehen wird dann die Weiterentwicklung durch Hans-Georg Gadamer behandelt die nach Poser den Hermeneutik-Diskurs in der Philosophie bis heute beherrscht. @poser2001[vgl.&228-233]
-Zum Ende seiner Ausführungen adressiert Poser die herausfordernde Kritik an Gadamers Hermeneutik, erkundet die darauf folgenden Weiterentwicklungen durch Denker wie Jürgen Habermas und schließt mit einer fundierten Verteidigung von Gadamers philosophischen Standpunkten. @poser2001[vgl.&233-242]
+Zum Ende seiner Ausführungen adressiert Poser die herausfordernde Kritik an Gadamers Hermeneutik, erkundet die darauf folgenden Weiterentwicklungen, erläutert die Verteidigung Gadamers und schließt mit aus dem Kapitel folgenden Schlussfolgerungen. @poser2001[vgl.&233-242]
 
 = Rekonstruktion
 
@@ -68,7 +68,7 @@ Die Debatte um das HO-Schema verdeutlicht eine zentrale philosophische Spannung:
 Während die Hermeneutik das Verstehen innerhalb eines Kontextes als essenziell betrachtet und auf die wechselseitige Abhängigkeit des Ganzen und seiner Teile hinweist, fokussiert die analytische Philosophie sich auf die Zerlegung und Überprüfung einzelner Elemente, weil das ganze gar nicht zu verstehen sei. @poser2001[vgl.&217-218]
 Verstehen bedeutet für Hermeneutiker, aus äußeren Zeichen ein dahinterliegendes (Geistiges) Konzept zu erfassen/erkennen. @poser2001[vgl.&220-221]
 Beispielweise das gelesene Wort "Staat", ist beim lesen nicht das Papier, die Tinte oder die Form der Buchstaben, sondern steht als eben solch ein Zeichen für das Konzept des Staates, welches der Leser versteht, aufgrund des in seinem Verstand vorhandenen Kontextes. @poser2001[vgl.&221]
-Poser betont, dass die Hermeneutik nicht auf Texte beschränkt ist, sondern auf alle Zeichen, die interpretiert werden können (Er erweitert damit das traditionelle Verständnis der Hermeneutik, welches häufig auf die Interpretation von Texten begrenzt wird, auf ein breiteres Spektrum von Zeichensystemen). @poser2001[vgl.&221]
+Poser betont, dass die Hermeneutik nicht auf Texte beschränkt ist, sondern auf alle Zeichen, die interpretiert werden können angewandt werden kann (Er erweitert damit das traditionelle Verständnis der Hermeneutik, welches häufig auf die Interpretation von Texten begrenzt wird, auf ein breiteres Spektrum von Zeichensystemen). @poser2001[vgl.&221]
 Die Hermeneutik besagt jedes Verstehen fängt mit kleinen Einheiten an, diese werden nach und nach zu einem Gesamtbild ergänzt, bis das Ganze erkennbar wird. Aus der Perspektive dieses Ganzen kann sich die Bedeutung der einzelnen Teile neu ordnen oder sogar verändern. Diese Dynamik zwischen dem Verstehen von Teilen und dem Verstehen des Ganzen in Wiederholung wird als Hermeneutischer Zirkel bezeichnet. @poser2001[vgl.&221-222]
 
 Nach Poser ergeben sich aus der Hermeneutik zwei voneinander abhängige Fragen, @poser2001[vgl.&221-222] deren Diskussion im weiteren Verlauf Thema sein soll. "1. Wie kann ich verstehen?" @poser2001[&222] "2. Warum kann ich verstehen?" @poser2001[&222]

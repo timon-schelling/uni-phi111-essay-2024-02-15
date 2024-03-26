@@ -7,3 +7,14 @@ poser2001:
   publisher: "Reclam"
   serial-number:
     isbn: "9783150181256"
+
+hintikka2011:
+  type: Article
+  title: "What is the axiomatic method?"
+  author: "Hintikka, Jaakko"
+  date: 2011
+  publisher: "Synthese"
+  serial-number:
+    doi: "10.1007/s11229-009-9668-8"
+  page-range: 69-85
+  volume: 183

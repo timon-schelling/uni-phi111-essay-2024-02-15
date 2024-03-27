@@ -67,16 +67,19 @@ Im 19. Jahrhundert erfuhr sie eine entscheidende Neukonzeptualisierung, maßgebl
 Die Metatheorie eines Axiomensystems, also die Untersuchung der Eigenschaften und der Struktur des Systems selbst, wurde zu einem zentralen Bestandteil der axiomatischen Methode. @hintikka2011[vgl.&70-71]
 Diese Entwicklung reflektiert das Verständnis, dass die Ableitung von Theoremen aus Axiomen nicht lediglich neue Tiefeninformationen erzeugt, sondern vielmehr Oberflächeninformationen liefert, die für das Verständnis der Struktur und der inneren Logik des Systems unerlässlich sind. @hintikka2011[vgl.&69, 78]
 Die Auseinandersetzung mit der Axiomatisierung der Logik und der Mengenlehre verdeutlichte die Grenzen und Herausforderungen, die mit der axiomatischen Methode einhergehen. @hintikka2011[vgl.&75]
-Insbesondere die Versuche, die Logik axiomatisch zu fassen, stießen auf das Problem, dass ein logisches System zur Untersuchung seiner selbst verwendet wird, was eine Reihe von Paradoxien und Unklarheiten mit sich brachte.@hintikka2011[vgl.&75-76]
+Insbesondere die Versuche, die Logik axiomatisch zu fassen, stießen auf das Problem, dass ein logisches System zur Untersuchung seiner selbst verwendet wird, was eine Reihe von Paradoxien und Unklarheiten mit sich brachte. @hintikka2011[vgl.&75-76]
 Ähnlich verhält es sich mit der Axiomatisierung der Mengenlehre, deren Modelle nicht adäquat die Strukturen von Mengen widerspiegeln, wie ursprünglich beabsichtigt. @hintikka2011[vgl.&79]
-
-Ein wesentlicher Aspekt der axiomatischen Methode aus historischer Perspektive ist ihre epistemologische Rolle. @hintikka2011[vgl.&81-82] Entgegen der Annahme, dass Axiome aufgrund ihrer Einfachheit und Evidenz eine höhere epistemologische Glaubwürdigkeit genießen, zeigt die historische Entwicklung, dass die Glaubwürdigkeit eines axiomatischen Systems auf der empirischen Verifizierung seiner Axiome beruht, ähnlich wie bei jeder anderen wissenschaftlichen Theorie. @hintikka2011[vgl.&82-83]
-
 Die historische Betrachtung der axiomatischen Methode offenbart nicht nur ihre zentrale Bedeutung für die Entwicklung der Mathematik und Logik, sondern auch die tiefgreifenden philosophischen und methodologischen Fragen, die mit ihr verbunden sind. @hintikka2011[vgl.&84-85] Diese reichen von der Natur mathematischer Wahrheit und der Rolle von Axiomen in der Theoriebildung bis hin zu den Grenzen logischer und mathematischer Systeme. @hintikka2011[vgl.&84-85]
 
 //TODO: use this
-Be this as it may, the power of a theory to serve as its own metatheory, offers an interesting way of comparing different axiom systems with each other.
+// Be this as it may, the power of a theory to serve as its own metatheory, offers an interesting way of comparing different axiom systems with each other.
 
+// Ein wesentlicher Aspekt der axiomatischen Methode aus historischer Perspektive ist ihre epistemologische Rolle. @hintikka2011[vgl.&81-82]
+// Entgegen der Annahme, dass Axiome aufgrund ihrer Einfachheit und Evidenz eine höhere epistemologische Glaubwürdigkeit genießen, zeigt die historische Entwicklung, dass die Glaubwürdigkeit eines axiomatischen Systems auf der empirischen Verifizierung seiner Axiome beruht, ähnlich wie bei jeder anderen wissenschaftlichen Theorie. @hintikka2011[vgl.&82-83]
+
+= Folgen des Induktionsproblems
+
+Wenn also Induktion keine stabiele Grundlage für wissenschaftliche Theorien bietet, was soll die allternative sein? Deduktion? Auf Basis von was? Für die Deduktion fehlt es an sicheren wahrheiten auf dessen Grundlage weiter gedacht werden kann. Der Axiomatische Ansatz bietet hier eine Lösung. Es werden Axiome
 = Basis aller Wissenschaft
 
 Grundlegend muss jede Naturwissenschaft voraussetzen, dass die Welt Verstehbar ist, um überhaupt anzufangen sie verstehen zu wollen.

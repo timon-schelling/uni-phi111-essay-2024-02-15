@@ -88,9 +88,24 @@ Es wird eine Menge von Axiomen festgelegt, im grunde Aussagen die als wahr angen
 Die Axiome sind dabei keineswegs willkürlich, sondern müssen überlegt gewählt werden.
 Sie müssen so gewählt werden, dass sie den Gewünschten Geltungsberreich abdecken, dabei aber trotzdem so begrenzt wie möglich sind.
 Keineswegs dürfen sie aussagen enthalten die nicht notwendig sind und über den Geltungsberreich hinausgehen.
+Die Axiome einer Theorie grenzen also auch den Geltungsberreich der Theorie ab. //TODO: maybe unnecessary
 Offensichtilich müssen sie auch konsistent sein.
 Axiome eines Systems dürfen sich nicht widersprechen, weder untereinander noch durch die deduktiven Schlüsse die aus ihnen gezogen werden oder werden können.
+Eine Axiomatische Theorie definiert mit ihren Axiomen voraussetzung unter denen die sie gilt.
+Nehmen wir zum Beispiel die Mathematik, und die Axiome der Natürlichen Zahlen und der Mengenlehre auf denen sie aufbaut.
+Bei Verwendung der Gleichen Axiome, wird immer logisch beweisbar sein, dass $sqrt(4096) = plus.minus 64$ (die Qudratwurzel aus $4096$ eqivalent $plus.minus 64$ ist).
 
+
+
+
+Eine auf Axiomen basierende Theorie Folgt der logischen Form:
+
+$ A_1, A_2, dots.h, A_n -> T_1, T_2, dots.h, T_n $
+
+Wobei $A_1, A_2, dots.h, A_n$ die Axiome und $T_1, T_2, dots.h, T_n$ die Theoreme sind.
+Die Theoreme sind dabei Aussagen die aus den Axiomen folgen.
+Sie folgen deduktiv logisch aus den Axiomen.
+Die Wahrheit der Theoreme und mit ihnen die Wahrheit der Theorie
 
 
 = Basis aller Naturwissenschaft
@@ -103,8 +118,6 @@ Wenn eine wissenschaftliche Theorie aufgestellt wird, so ist immer ein "unter de
 
 In der Wissenschaft lassen sich zwei Arten von Erkentnissen unterscheiden. A priori und a posteriori. A priori Erkentnisse sind solche, die unabhängig von Erfahrung sind, allein auf Vernunft und logischen Schlussfolgerungen beruhen. A posteriori Erkentnisse sind solche, die auf Erfahrung beruhen und empirisch aber nicht rein logisch überprüfbar sind.
 A priori Erkentnisse sind als resultat logischer Überlegung notwendigerweise wahr.
-
-Eine Welt in der die Qudratwurzel aus 4096 nicht 64 ist, ist nicht vorstellbar unter der Foraussetzung, dass am Anfang der Überlegung die Gleichen Axiome verwendet werden, um beispielweise die Natürlichen Zahlen zu definieren.
 
 Es darf nicht vergessen werden, dass diese Axiome in der Mathematik immer implizit vorausgesetzt werden.
 Selbst wenn sich

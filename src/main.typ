@@ -144,9 +144,14 @@ Die historische Betrachtung der axiomatischen Methode offenbart nicht nur ihre z
 = Mangel an Allternativen
 
 Es gibt Zahlreiche scheinbare Allternativen zur axiomatischen Methode, die sich jedoch bei genauerer Betrachtung als unzureichend oder im grunde äquivalent herausstellen.
-Entwäder sie scheintern am Induktionsproblem oder sind auch Axiomatisch in ihrer Natur und es wird nur nicht expliziet von Axiomen gesprochen.
+Entweder sie scheintern am Induktionsproblem, sind im Kern selbst axiomatisch, es wird nur nicht expliziet von Axiomen gesprochen, oder sie wiedersprechen der axiomatischen Methode nicht und formilieren z.B. nur aus wie eine axiomatische Theorie durch eine andere ersetzt werden kann (Paradigmenwechsel, Hermeneutische Spriralbewegung des Verstehens).
+Zum Beispiel wird die Annahme, dass die Welt Verstehbar ist und sich systematisch wissenschaftlich erkären lässt, implizit vorausgesetzt.
+Oder auch einfach ein anderes Wort für Axiome verwendet, z.B. Festsetzung.
+Es scheint der Wissenschaft also an Allternativen zum axiomatischen Ansatz zu mangeln.
 
 = Fazit
+
+
 
 // = Erkährung A priori / A posteriori
 

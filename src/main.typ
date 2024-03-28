@@ -120,11 +120,15 @@ Je nach wissenschaftlicher Disziplin, werden dann spezifische Axiome angenommen,
 
 Axiome unterscheiden sich von Dogmen in ihrer Natur. Dogmen sind unveränderliche, unantastbare Wahrheiten, die nicht hinterfragt werden dürfen. Axiome hingegen sind Annahmen, die als wahr angenommen werden, um von ihnen aus weiter zu denken. Sie sind nicht in zwangweise unveränderlich, sondern können und müssen hinterfragt und auch angepasst werden, wenn sie sich als falsch herausstellen. Axiome sind zwangweise konsistent und logisch und damit nicht willkürlich, eine einschränkung die für Dogmen nicht gemacht wird. Axiome sind nicht in Widerspruch zur wissenschaftlichen Methode, sondern ihre Voraussetzung.
 
-= Erkährung A priori / A posteriori
+= Mangel an Allternativen
 
-In der Wissenschaft lassen sich zwei Arten von Erkentnissen unterscheiden. A priori und a posteriori. A priori Erkentnisse sind solche, die unabhängig von Erfahrung sind, allein auf Vernunft und logischen Schlussfolgerungen beruhen. A posteriori Erkentnisse sind solche, die auf Erfahrung beruhen und empirisch aber nicht rein logisch überprüfbar sind.
-A priori Erkentnisse sind als resultat logischer Überlegung notwendigerweise wahr.
+= Fazit
 
-Es darf nicht vergessen werden, dass diese Axiome in der Mathematik immer implizit vorausgesetzt werden.
-Selbst wenn sich
-Sie müssen nicht bewiesen werden und brauchen
+// = Erkährung A priori / A posteriori
+
+// In der Wissenschaft lassen sich zwei Arten von Erkentnissen unterscheiden. A priori und a posteriori. A priori Erkentnisse sind solche, die unabhängig von Erfahrung sind, allein auf Vernunft und logischen Schlussfolgerungen beruhen. A posteriori Erkentnisse sind solche, die auf Erfahrung beruhen und empirisch aber nicht rein logisch überprüfbar sind.
+// A priori Erkentnisse sind als resultat logischer Überlegung notwendigerweise wahr.
+
+// Es darf nicht vergessen werden, dass diese Axiome in der Mathematik immer implizit vorausgesetzt werden.
+// Selbst wenn sich
+// Sie müssen nicht bewiesen werden und brauchen

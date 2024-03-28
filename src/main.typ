@@ -69,11 +69,7 @@ Hume argumentierte, dass es keine rationale Rechtfertigung dafür gibt anzunehme
 Mit anderen Worten, nur weil die Sonne bisher immer im Osten aufgegangen ist, gibt es keine logische Notwendigkeit, die garantiert, dass sie es morgen wieder tun wird.
 Diese Erkenntnis wirft ernsthafte Zweifel an der Zuverlässigkeit induktiver Schlussfolgerungen auf, da sie letztlich auf einer ungesicherten Annahme über die Regelmäßigkeit der Natur beruhen.
 Verschiedene Philosophen und Wissenschaftstheoretiker haben versucht, das Induktionsproblem zu lösen oder zumindest dessen Auswirkungen abzumildern.
-
-// Ein Ansatz ist der Pragmatismus, der argumentiert, dass induktive Schlüsse zwar niemals gewiss sind, aber praktisch notwendig und gerechtfertigt sind, solange sie zuverlässige Vorhersagen und Erklärungen liefern.
-// Eine andere Perspektive bietet der Fallibilismus, der die Möglichkeit des Irrtums in der Wissenschaft anerkennt, aber betont, dass wissenschaftliches Wissen durch ständige Überprüfung und Revision vorankommt.
-
-Das Induktionsproblem bleibt jedoch ein fundamentales, ungelöstes Problem in der Philosophie der Wissenschaft.
+Das Induktionsproblem bleibt jedoch ein fundamentales ungelöst.
 Es zwingt uns, die Grenzen unseres Wissens, aus Erfahrung zu gewinnen, anzuerkennen und zeigt die Notwendigkeit einer kritischen Haltung gegenüber unseren induktiven Schlussfolgerungen auf.
 
 = Axiome als Grundlage wissenschaftlicher Theorien
@@ -87,7 +83,7 @@ Es wird eine Menge von Axiomen festgelegt, im grunde Aussagen die als wahr angen
 Die Axiome sind dabei keineswegs willkürlich, sondern müssen überlegt gewählt werden.
 Sie müssen so gewählt werden, dass sie den Gewünschten Geltungsberreich abdecken, dabei aber trotzdem so begrenzt wie möglich sind.
 Keineswegs dürfen sie aussagen enthalten die nicht notwendig sind und über den Geltungsberreich hinausgehen.
-Die Axiome einer Theorie grenzen also auch den Geltungsberreich der Theorie ab. //TODO: maybe unnecessary
+Die Axiome einer Theorie grenzen also auch den Geltungsberreich der Theorie ab.
 Offensichtilich müssen sie auch konsistent sein.
 Axiome eines Systems dürfen sich nicht widersprechen, weder untereinander noch durch die deduktiven Schlüsse die aus ihnen gezogen werden oder werden können.
 Eine Axiomatische Theorie definiert mit ihren Axiomen voraussetzung unter denen die sie gilt.
@@ -102,7 +98,7 @@ Die Theoreme sind dabei Aussagen die aus den Axiomen folgen.
 Sie folgen deduktiv logisch aus den Axiomen.
 Die Wahrheit der Theoreme und mit ihnen die Wahrheit der Theorie, hängt also von der Wahrheit der Axiome ab.
 Der Inhalt einer Theorie wird so zu relativem Wissen, relativ zu den jeweiligen Axiomen.
-Im weiteren Sinne kann man bei diesem wissen von relativem a priori sprechen.
+Im weiteren Sinne kann man bei diesem Wissen von relativem a priori sprechen.
 Nicht als "es könnte auch anders sein", sondern im Sinne von "es ist so, unter der voraussetzung, der Axiome".
 Ohne absolute Wahrheiten zu kennen, kann so dennoch Wissen generiert werden.
 Wissen das die Zusammenhänge, Strukturen und Logik des Geltungsberreichs der Theorie beschreibt.
@@ -134,13 +130,6 @@ Insbesondere die Versuche, die Logik axiomatisch zu fassen, stießen auf das Pro
 Ähnlich verhält es sich mit der Axiomatisierung der Mengenlehre, deren Modelle nicht adäquat die Strukturen von Mengen widerspiegeln, wie ursprünglich beabsichtigt. @hintikka2011[vgl.&79]
 Die historische Betrachtung der axiomatischen Methode offenbart nicht nur ihre zentrale Bedeutung für die Entwicklung der Mathematik und Logik, sondern auch die tiefgreifenden philosophischen und methodologischen Fragen, die mit ihr verbunden sind. @hintikka2011[vgl.&84-85] Diese reichen von der Natur mathematischer Wahrheit und der Rolle von Axiomen in der Theoriebildung bis hin zu den Grenzen logischer und mathematischer Systeme. @hintikka2011[vgl.&84-85]
 
-//TODO: use this
-// Be this as it may, the power of a theory to serve as its own metatheory, offers an interesting way of comparing different axiom systems with each other.
-
-// Ein wesentlicher Aspekt der axiomatischen Methode aus historischer Perspektive ist ihre epistemologische Rolle. @hintikka2011[vgl.&81-82]
-// Entgegen der Annahme, dass Axiome aufgrund ihrer Einfachheit und Evidenz eine höhere epistemologische Glaubwürdigkeit genießen, zeigt die historische Entwicklung, dass die Glaubwürdigkeit eines axiomatischen Systems auf der empirischen Verifizierung seiner Axiome beruht, ähnlich wie bei jeder anderen wissenschaftlichen Theorie. @hintikka2011[vgl.&82-83]
-
-
 = Mangel an Allternativen
 
 Es gibt Zahlreiche scheinbare Allternativen zur axiomatischen Methode, die sich jedoch bei genauerer Betrachtung als unzureichend oder im grunde äquivalent herausstellen.
@@ -152,6 +141,9 @@ Es scheint der Wissenschaft also an Allternativen zum axiomatischen Ansatz zu ma
 = Fazit
 
 
+
+//TODO: use this
+// Be this as it may, the power of a theory to serve as its own metatheory, offers an interesting way of comparing different axiom systems with each other.
 
 // = Erkährung A priori / A posteriori
 

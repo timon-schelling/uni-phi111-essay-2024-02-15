@@ -141,6 +141,8 @@ Es scheint der Wissenschaft also an Allternativen zum axiomatischen Ansatz zu ma
 
 = Fazit
 
+// Axiome sind in der Wissenschaft notwendig, um überhaupt wissenschaftliche Theorien aufstellen zu können. Sie bieten eine stabile Grundlage für deduktive Schlussfolgerungen und ermöglichen es, Wissen zu generieren, das
+
 
 
 //TODO: use this

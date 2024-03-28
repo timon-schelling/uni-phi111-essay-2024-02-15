@@ -143,6 +143,9 @@ Die historische Betrachtung der axiomatischen Methode offenbart nicht nur ihre z
 
 = Mangel an Allternativen
 
+Es gibt Zahlreiche scheinbare Allternativen zur axiomatischen Methode, die sich jedoch bei genauerer Betrachtung als unzureichend oder im grunde äquivalent herausstellen.
+Entwäder sie scheintern am Induktionsproblem oder sind auch Axiomatisch in ihrer Natur und es wird nur nicht expliziet von Axiomen gesprochen.
+
 = Fazit
 
 // = Erkährung A priori / A posteriori

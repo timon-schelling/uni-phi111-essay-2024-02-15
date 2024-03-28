@@ -121,8 +121,9 @@ Axiome unterscheiden sich von Dogmen in ihrer Natur. Dogmen sind unveränderlich
 
 Im Folgenden ein auf Jaakko Hintikkas Arbeit @hintikka2011 basierender historischer Überblick über die axiomatische Methode in der Mathematik und Logik.
 
-Die historische Entwicklung der axiomatischen Methode offenbart eine faszinierende Evolution im Kern der mathematischen und logischen Theoriebildung, ursprünglich im antiken Griechenland als ein Weg zur systematischen Grundlegung mathematischer Beweise konzipiert. @hintikka2011[vgl.&72]
-Im 19. Jahrhundert erfuhr sie eine entscheidende Neukonzeptualisierung, maßgeblich angetrieben durch das Bestreben, Mathematik durch die Präzisierung ihrer Grundlagen neu zu definieren, was die Erfassung von Klassen von Strukturen als Modelle eines axiomatischen Systems einschloss. @hintikka2011[vgl.&69-70]
+Die historische Entwicklung der axiomatischen Methode offenbart eine Evolution im Kern der mathematischen und logischen Theoriebildung. @hintikka2011[vgl.&72]
+ursprünglich im antiken Griechenland als ein Weg zur systematischen Grundlegung mathematischer Beweise konzipiert; @hintikka2011[vgl.&72]
+erfuhr sie im 19. Jahrhundert  eine entscheidende Neukonzeptualisierung, maßgeblich angetrieben durch das Bestreben, Mathematik durch die Präzisierung ihrer Grundlagen neu zu definieren. @hintikka2011[vgl.&69-70]
 Die Metatheorie eines Axiomensystems, also die Untersuchung der Eigenschaften und der Struktur des Systems selbst, wurde zu einem zentralen Bestandteil der axiomatischen Methode. @hintikka2011[vgl.&70-71]
 Diese Entwicklung reflektiert das Verständnis, dass die Ableitung von Theoremen aus Axiomen nicht lediglich neue Tiefeninformationen erzeugt, sondern vielmehr Oberflächeninformationen liefert, die für das Verständnis der Struktur und der inneren Logik des Systems unerlässlich sind. @hintikka2011[vgl.&69, 78]
 Die Auseinandersetzung mit der Axiomatisierung der Logik und der Mengenlehre verdeutlichte die Grenzen und Herausforderungen, die mit der axiomatischen Methode einhergehen. @hintikka2011[vgl.&75]

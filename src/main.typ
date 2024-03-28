@@ -79,8 +79,21 @@ Die historische Betrachtung der axiomatischen Methode offenbart nicht nur ihre z
 
 = Folgen des Induktionsproblems
 
-Wenn also Induktion keine stabiele Grundlage für wissenschaftliche Theorien bietet, was soll die allternative sein? Deduktion? Auf Basis von was? Für die Deduktion fehlt es an sicheren wahrheiten auf dessen Grundlage weiter gedacht werden kann. Der Axiomatische Ansatz bietet hier eine Lösung. Es werden Axiome
-= Basis aller Wissenschaft
+Wenn also Induktion keine stabiele Grundlage für wissenschaftliche Theorien bietet, was soll die allternative sein?
+Deduktion?
+Auf Basis von was?
+Für die Deduktion fehlt es an sicheren wahrheiten auf dessen Grundlage weiter gedacht werden kann.
+Der Axiomatische Ansatz bietet hier eine Lösung.
+Es wird eine Menge von Axiomen festgelegt, im grunde Aussagen die als wahr angenommen werden und von denen aus deduktiv weiter gearbeitet werden kann.
+Die Axiome sind dabei keineswegs willkürlich, sondern müssen überlegt gewählt werden.
+Sie müssen so gewählt werden, dass sie den Gewünschten Geltungsberreich abdecken, dabei aber trotzdem so begrenzt wie möglich sind.
+Keineswegs dürfen sie aussagen enthalten die nicht notwendig sind und über den Geltungsberreich hinausgehen.
+Offensichtilich müssen sie auch konsistent sein.
+Axiome eines Systems dürfen sich nicht widersprechen, weder untereinander noch durch die deduktiven Schlüsse die aus ihnen gezogen werden oder werden können.
+
+
+
+= Basis aller Naturwissenschaft
 
 Grundlegend muss jede Naturwissenschaft voraussetzen, dass die Welt Verstehbar ist, um überhaupt anzufangen sie verstehen zu wollen.
 Auch diese Annahme ist ein Axiom.

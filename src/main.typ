@@ -54,19 +54,19 @@
 
 = Einleitung
 
-Ob in der Mathematik die Axiome der Natürlichen Zahlen und der Mengenlehre, in der Physik die der klassischen Mechanik oder in der Biologie die der Evolutionstheorie, Axiome sind in der Wissenschaft allgegenwärtig.
-Axiome sind Annahmen, die nicht bewiesen werden, sondern vorraussetzt werden.
-Warum jedoch setzt die Wissenschaft Axiome voraus, wenn sie doch auf Beweisen und Experimenten beruht und eben die historische Abkehr unteranderem von Religösen Dogmen sein soll? Diese Frage soll in dieser Arbeit behandelt werden. Es soll gezeigt werden, warum Axiome in der Wissenschaft notwendig sind, um überhaupt wissenschaftliche Theorien aufstellen zu können, wie sie sich von Dogmen unterscheiden und warum sie nicht im Widerspruch zu wissenschaftlicher Methodik stehen, sondern diese erst ermöglichen.
+Ob in der Mathematik die Axiome der natürlichen Zahlen und der Mengenlehre, in der Physik die der klassischen Mechanik oder in der Biologie die der Evolutionstheorie, Axiome sind in der Wissenschaft allgegenwärtig.
+Axiome sind Annahmen, die nicht bewiesen werden, sondern vorausgesetzt werden.
+Warum jedoch setzt die Wissenschaft Axiome voraus, wenn sie doch auf Beweisen und Experimenten beruht und eben die historische Abkehr unter anderem von religiösen Dogmen sein soll? Diese Frage soll in dieser Arbeit behandelt werden. Es soll gezeigt werden, warum Axiome in der Wissenschaft notwendig sind, um überhaupt wissenschaftliche Theorien aufstellen zu können, wie sie sich von Dogmen unterscheiden und warum sie nicht im Widerspruch zu wissenschaftlicher Methodik stehen, sondern diese erst ermöglichen.
 
 = Folgen des Induktionsproblems
 
-Induktives Schließen beduetet aus spezifischen Beobachtungen allgemeine Schlussfolgerungen zu ziehen und zu Theorien zu entwickeln. @poser2001[vgl.&115, 117]
+Induktives Schließen bedeutet, aus spezifischen Beobachtungen allgemeine Schlussfolgerungen zu ziehen und zu Theorien zu entwickeln. @poser2001[vgl.&115, 117]
 Im Gegensatz zum deduktiven Schließen, bei dem aus allgemeinen Prämissen spezifische Schlüsse gezogen werden. @poser2001[vgl.&115]
 Ein klassisches Beispiel für induktives Schließen ist die Beobachtung, dass die Sonne jeden Tag im Osten aufgeht.
 Aus einer Vielzahl solcher Beobachtungen könnte man induktiv schließen, dass die Sonne immer im Osten aufgehen wird. @poser2001[vgl.&117]
 Diese Art der Schlussfolgerung ist jedoch prinzipiell unsicher, da sie auf der Annahme beruht, dass zukünftige Beobachtungen mit vergangenen Beobachtungen übereinstimmen werden. @poser2001[vgl.&118]
-Das Induktionsproblem, das erstmals von David Hume im 18. Jahrhundert artikuliert wurde, stellt genau diese Annahme in Frage. @arnold1983[vgl.&31-32]
-Hume argumentierte, dass es keine rationale Rechtfertigung dafür gibt anzunehmen, dass die Zukunft der Vergangenheit ähneln wird. @arnold1983[vgl.&31]
+Das Induktionsproblem, das erstmals von David Hume im 18. Jahrhundert artikuliert wurde, stellt genau diese Annahme infrage. @arnold1983[vgl.&31-32]
+Hume argumentierte, dass es keine rationale Rechtfertigung dafür gibt, anzunehmen, dass die Zukunft der Vergangenheit ähneln wird. @arnold1983[vgl.&31]
 Mit anderen Worten, nur weil die Sonne bisher immer im Osten aufgegangen ist, gibt es keine logische Notwendigkeit, die garantiert, dass sie es morgen wieder tun wird.
 Diese Erkenntnis wirft ernsthafte Zweifel an der Zuverlässigkeit induktiver Schlussfolgerungen auf, da sie letztlich auf einer ungesicherten Annahme über die Regelmäßigkeit der Natur beruhen.
 Verschiedene Philosophen und Wissenschaftstheoretiker haben versucht, das Induktionsproblem zu lösen oder zumindest dessen Auswirkungen abzumildern.
@@ -75,48 +75,50 @@ Es zwingt uns, die Grenzen unseres Wissens, aus Erfahrung zu gewinnen, anzuerken
 
 = Axiome als Grundlage wissenschaftlicher Theorien
 
-Wenn also Induktion keine stabiele Grundlage für wissenschaftliche Theorien bietet, was soll die allternative sein?
+Wenn also Induktion keine stabile Grundlage für wissenschaftliche Theorien bietet, was soll die Alternative sein?
 Deduktion?
-Auf Basis von was?
-Für die Deduktion fehlt es an sicheren wahrheiten auf dessen Grundlage weiter gedacht werden kann.
-Der Axiomatische Ansatz bietet hier eine Lösung.
-Es wird eine Menge von Axiomen festgelegt, im grunde Aussagen die als wahr angenommen werden und von denen aus deduktiv weiter gearbeitet werden kann.
+Auf Basis wovon?
+Für die Deduktion fehlt es an sicheren Wahrheiten, auf deren Grundlage weiter gedacht werden kann.
+Der axiomatische Ansatz bietet hier eine Lösung.
+Es wird eine Menge von Axiomen festgelegt, im Grunde Aussagen, die als wahr angenommen werden und von denen aus deduktiv weiter gearbeitet werden kann.
 Die Axiome sind dabei keineswegs willkürlich, sondern müssen überlegt gewählt werden.
-Sie müssen so gewählt werden, dass sie den Gewünschten Geltungsberreich abdecken, dabei aber trotzdem so begrenzt wie möglich sind. @hintikka2011[vgl.&74]
-Keineswegs dürfen sie aussagen enthalten die nicht notwendig sind und über den Geltungsberreich hinausgehen.
-Die Axiome einer Theorie grenzen also auch den Geltungsberreich der Theorie ab. @hintikka2011[vgl.&74]
-Offensichtilich müssen sie auch konsistent sein.
-Axiome eines Systems dürfen sich nicht widersprechen, weder untereinander noch durch die deduktiven Schlüsse die aus ihnen gezogen werden oder werden können. @hintikka2011[vgl.&74]
-Eine Axiomatische Theorie definiert mit ihren Axiomen voraussetzung unter denen die sie gilt.
-Nehmen wir zum Beispiel die Mathematik und die Axiome der Natürlichen Zahlen und der Mengenlehre auf denen sie aufbaut. @hintikka2011[vgl.&80]
-Bei Verwendung der Gleichen Axiome, wird immer logisch beweisbar sein, dass $sqrt(4096) = plus.minus 64$ (die Qudratwurzel aus $4096$ eqivalent $plus.minus 64$ ist).
-Eine auf Axiomen basierende Theorie Folgt der Form:
+Sie müssen so gewählt werden, dass sie den gewünschten Geltungsbereich abdecken, dabei aber trotzdem so begrenzt wie möglich sind. @hintikka2011[vgl.&74]
+Keineswegs dürfen sie Aussagen enthalten, die nicht notwendig sind und über den Geltungsbereich hinausgehen.
+Die Axiome einer Theorie grenzen also auch den Geltungsbereich der Theorie ab. @hintikka2011[vgl.&74]
+Offensichtlich müssen sie auch konsistent sein.
+Axiome eines Systems dürfen sich nicht widersprechen, weder untereinander noch durch die deduktiven Schlüsse, die aus ihnen gezogen werden oder werden können. @hintikka2011[vgl.&74]
+Eine axiomatische Theorie definiert mit ihren Axiomen Voraussetzungen, unter denen sie gilt.
+Nehmen wir zum Beispiel die Mathematik und die Axiome der natürlichen Zahlen und der Mengenlehre, auf denen sie aufbaut. @hintikka2011[vgl.&80]
+Bei Verwendung der Gleichen Axiome wird immer logisch beweisbar sein, dass $sqrt(4096) = plus.minus 64$ (die Quadratwurzel aus $4096$ eqivalent $plus.minus 64$ ist).
+Eine auf Axiomen basierende Theorie folgt der Form:
 
 $ A_1, A_2, dots.h, A_n -> T_1, T_2, dots.h, T_n $
 
 Wobei $A_1, A_2, dots.h, A_n$ die Axiome und $T_1, T_2, dots.h, T_n$ die Theoreme sind.
-Die Theoreme sind dabei Aussagen die aus den Axiomen folgen.
+Die Theoreme sind dabei Aussagen, die aus den Axiomen folgen.
 Sie folgen deduktiv logisch aus den Axiomen.
-Die Wahrheit der Theoreme und mit ihnen die Wahrheit der Theorie, hängt also von der Wahrheit der Axiome ab.
+Die Wahrheit der Theoreme und mit ihnen die Wahrheit der Theorie hängt also von der Wahrheit der Axiome ab.
 Der Inhalt einer Theorie wird so zu relativem Wissen, relativ zu den jeweiligen Axiomen.
 Im weiteren Sinne kann man bei diesem Wissen von relativem a priori sprechen. @poser2001[vgl.&36-37]
 Nicht als "es könnte auch anders sein", sondern im Sinne von "es ist so, unter der Voraussetzung, der Axiome".
 Ohne absolute Wahrheiten zu kennen, kann so dennoch Wissen generiert werden.
-Wissen das die Zusammenhänge, Strukturen und Logik des Geltungsberreichs der Theorie beschreibt.
+Wissen, das die Zusammenhänge, Strukturen und Logik des Geltungsbereichs der Theorie beschreibt.
 Axiomatisierung macht so wissenschaftliche Arbeit außerhalb von experimenteller Falsifikation möglich.
 
 = Basis aller Naturwissenschaft
 
-In vielen Wissenschaften sind auch Axiome vorausgesetzt die nicht expleziet ausformuliert werden.
-Sie sind dann in der jeweiligen wissenschaftsgemeinschaft Kontext der für selbstverständlich gehalten wird.
-Grundlegend muss z.B. jede Naturwissenschaft voraussetzen, dass die Welt (und der spezifische Geltungsberreich) Verstehbar ist, um überhaupt anzufangen sie verstehen zu wollen.
+In vielen Wissenschaften sind auch Axiome vorausgesetzt, die nicht explizit ausformuliert werden.
+Sie sind dann in der jeweiligen Wissenschaftsgemeinschaft Kontext der für selbstverständlich gehalten wird.
+Grundlegend muss z.B. jede Naturwissenschaft voraussetzen, dass die Welt (und der spezifische Geltungsbereich) verstehbar ist, um überhaupt anzufangen, sie verstehen zu wollen.
 Auch diese Annahme ist ein Axiom.
-Wenn so eine Theorie aufgestellt wird, so ist immer ein "unter der voraussetzung, dass die Welt sich systematisch wissenschaftliche erkären lässt" axiomatisch impliziert.
-Je nach wissenschaftlicher Disziplin, werden dann spezifische Axiome angenommen, in der Physik meinetwegen aussagen über Zeit und Raum.
+Wenn so eine Theorie aufgestellt wird, so ist immer ein "unter der Voraussetzung, dass die Welt sich systematisch wissenschaftlich erklären lässt" axiomatisch impliziert.
+Je nach wissenschaftlicher Disziplin werden dann spezifische Axiome angenommen, in der Physik meinetwegen Aussagen über Zeit und Raum.
 
 = Unterschied zu Dogmen
 
-Axiome unterscheiden sich von Dogmen in ihrer Natur. Dogmen sind unveränderliche, unantastbare Wahrheiten, die nicht hinterfragt werden dürfen. Axiome hingegen sind Annahmen, die als wahr angenommen werden, um von ihnen aus weiter zu denken. Sie sind nicht in zwangweise unveränderlich, sondern können und müssen hinterfragt und auch angepasst werden, wenn sie sich als falsch herausstellen oder stärkere gefunden werden. Axiome sind zwangweise konsistent und logisch und damit nicht willkürlich, eine einschränkung die für Dogmen nicht gemacht wird. Axiome sind nicht in Widerspruch zur wissenschaftlichen Methode, sondern ihre Voraussetzung.
+Axiome unterscheiden sich von Dogmen in ihrer Natur. Dogmen sind unveränderliche, unantastbare Wahrheiten, die nicht hinterfragt werden dürfen. Axiome hingegen sind Annahmen, die als wahr angenommen werden, um von ihnen aus weiterzudenken. Sie sind nicht zwangsweise unveränderlich, sondern können und müssen hinterfragt und auch angepasst werden, wenn sie sich als falsch herausstellen oder stärkere gefunden werden. Axiome sind zwangsweise konsistent und logisch und damit nicht willkürlich, eine Einschränkung, die für Dogmen nicht gemacht wird. Axiome sind nicht in Widerspruch zur wissenschaftlichen Methode, sondern ihre Voraussetzung.
+
+//TODO: rechtschreibung ab hier überprüfen
 
 = Der historische Kontext
 

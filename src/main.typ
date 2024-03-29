@@ -82,13 +82,13 @@ Für die Deduktion fehlt es an sicheren wahrheiten auf dessen Grundlage weiter g
 Der Axiomatische Ansatz bietet hier eine Lösung.
 Es wird eine Menge von Axiomen festgelegt, im grunde Aussagen die als wahr angenommen werden und von denen aus deduktiv weiter gearbeitet werden kann.
 Die Axiome sind dabei keineswegs willkürlich, sondern müssen überlegt gewählt werden.
-Sie müssen so gewählt werden, dass sie den Gewünschten Geltungsberreich abdecken, dabei aber trotzdem so begrenzt wie möglich sind.
+Sie müssen so gewählt werden, dass sie den Gewünschten Geltungsberreich abdecken, dabei aber trotzdem so begrenzt wie möglich sind. @hintikka2011[vgl.&74]
 Keineswegs dürfen sie aussagen enthalten die nicht notwendig sind und über den Geltungsberreich hinausgehen.
-Die Axiome einer Theorie grenzen also auch den Geltungsberreich der Theorie ab.
+Die Axiome einer Theorie grenzen also auch den Geltungsberreich der Theorie ab. @hintikka2011[vgl.&74]
 Offensichtilich müssen sie auch konsistent sein.
-Axiome eines Systems dürfen sich nicht widersprechen, weder untereinander noch durch die deduktiven Schlüsse die aus ihnen gezogen werden oder werden können.
+Axiome eines Systems dürfen sich nicht widersprechen, weder untereinander noch durch die deduktiven Schlüsse die aus ihnen gezogen werden oder werden können. @hintikka2011[vgl.&74]
 Eine Axiomatische Theorie definiert mit ihren Axiomen voraussetzung unter denen die sie gilt.
-Nehmen wir zum Beispiel die Mathematik und die Axiome der Natürlichen Zahlen und der Mengenlehre auf denen sie aufbaut.
+Nehmen wir zum Beispiel die Mathematik und die Axiome der Natürlichen Zahlen und der Mengenlehre auf denen sie aufbaut. @hintikka2011[vgl.&80]
 Bei Verwendung der Gleichen Axiome, wird immer logisch beweisbar sein, dass $sqrt(4096) = plus.minus 64$ (die Qudratwurzel aus $4096$ eqivalent $plus.minus 64$ ist).
 Eine auf Axiomen basierende Theorie Folgt der Form:
 
@@ -99,7 +99,7 @@ Die Theoreme sind dabei Aussagen die aus den Axiomen folgen.
 Sie folgen deduktiv logisch aus den Axiomen.
 Die Wahrheit der Theoreme und mit ihnen die Wahrheit der Theorie, hängt also von der Wahrheit der Axiome ab.
 Der Inhalt einer Theorie wird so zu relativem Wissen, relativ zu den jeweiligen Axiomen.
-Im weiteren Sinne kann man bei diesem Wissen von relativem a priori sprechen.
+Im weiteren Sinne kann man bei diesem Wissen von relativem a priori sprechen. @poser2001[vgl.&36-37]
 Nicht als "es könnte auch anders sein", sondern im Sinne von "es ist so, unter der voraussetzung, der Axiome".
 Ohne absolute Wahrheiten zu kennen, kann so dennoch Wissen generiert werden.
 Wissen das die Zusammenhänge, Strukturen und Logik des Geltungsberreichs der Theorie beschreibt.

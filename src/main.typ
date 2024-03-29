@@ -100,7 +100,7 @@ Sie folgen deduktiv logisch aus den Axiomen.
 Die Wahrheit der Theoreme und mit ihnen die Wahrheit der Theorie, hängt also von der Wahrheit der Axiome ab.
 Der Inhalt einer Theorie wird so zu relativem Wissen, relativ zu den jeweiligen Axiomen.
 Im weiteren Sinne kann man bei diesem Wissen von relativem a priori sprechen. @poser2001[vgl.&36-37]
-Nicht als "es könnte auch anders sein", sondern im Sinne von "es ist so, unter der voraussetzung, der Axiome".
+Nicht als "es könnte auch anders sein", sondern im Sinne von "es ist so, unter der Voraussetzung, der Axiome".
 Ohne absolute Wahrheiten zu kennen, kann so dennoch Wissen generiert werden.
 Wissen das die Zusammenhänge, Strukturen und Logik des Geltungsberreichs der Theorie beschreibt.
 Axiomatisierung macht so wissenschaftliche Arbeit außerhalb von experimenteller Falsifikation möglich.

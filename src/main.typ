@@ -60,17 +60,18 @@ Warum jedoch setzt die Wissenschaft Axiome voraus, wenn sie doch auf Beweisen un
 
 = Folgen des Induktionsproblems
 
-Induktives Schließen beduetet aus spezifischen Beobachtungen allgemeine Schlussfolgerungen zu ziehen und zu Theorien zu entwickeln.
-Im Gegensatz zum deduktiven Schließen, bei dem aus allgemeinen Prämissen spezifische Schlüsse gezogen werden.
+Induktives Schließen beduetet aus spezifischen Beobachtungen allgemeine Schlussfolgerungen zu ziehen und zu Theorien zu entwickeln. @poser2001[vgl.&115, 117]
+Im Gegensatz zum deduktiven Schließen, bei dem aus allgemeinen Prämissen spezifische Schlüsse gezogen werden. @poser2001[vgl.&115]
 Ein klassisches Beispiel für induktives Schließen ist die Beobachtung, dass die Sonne jeden Tag im Osten aufgeht.
-Aus einer Vielzahl solcher Beobachtungen könnte man induktiv schließen, dass die Sonne immer im Osten aufgehen wird. Diese Art der Schlussfolgerung ist jedoch prinzipiell unsicher, da sie auf der Annahme beruht, dass zukünftige Beobachtungen mit vergangenen Beobachtungen übereinstimmen werden.
-Das Induktionsproblem, das erstmals von David Hume im 18. Jahrhundert artikuliert wurde, stellt genau diese Annahme in Frage.
-Hume argumentierte, dass es keine rationale Rechtfertigung dafür gibt anzunehmen, dass die Zukunft der Vergangenheit ähneln wird.
+Aus einer Vielzahl solcher Beobachtungen könnte man induktiv schließen, dass die Sonne immer im Osten aufgehen wird. @poser2001[vgl.&117]
+Diese Art der Schlussfolgerung ist jedoch prinzipiell unsicher, da sie auf der Annahme beruht, dass zukünftige Beobachtungen mit vergangenen Beobachtungen übereinstimmen werden. @poser2001[vgl.&118]
+Das Induktionsproblem, das erstmals von David Hume im 18. Jahrhundert artikuliert wurde, stellt genau diese Annahme in Frage. @arnold1983[vgl.&31-32]
+Hume argumentierte, dass es keine rationale Rechtfertigung dafür gibt anzunehmen, dass die Zukunft der Vergangenheit ähneln wird. @arnold1983[vgl.&31]
 Mit anderen Worten, nur weil die Sonne bisher immer im Osten aufgegangen ist, gibt es keine logische Notwendigkeit, die garantiert, dass sie es morgen wieder tun wird.
 Diese Erkenntnis wirft ernsthafte Zweifel an der Zuverlässigkeit induktiver Schlussfolgerungen auf, da sie letztlich auf einer ungesicherten Annahme über die Regelmäßigkeit der Natur beruhen.
 Verschiedene Philosophen und Wissenschaftstheoretiker haben versucht, das Induktionsproblem zu lösen oder zumindest dessen Auswirkungen abzumildern.
-Das Induktionsproblem bleibt jedoch ein fundamentales ungelöst.
-Es zwingt uns, die Grenzen unseres Wissens, aus Erfahrung zu gewinnen, anzuerkennen und zeigt die Notwendigkeit einer kritischen Haltung gegenüber unseren induktiven Schlussfolgerungen auf.
+Das Induktionsproblem bleibt jedoch ein fundamentales ungelöst. @poser2001[vgl.&115-126]
+Es zwingt uns, die Grenzen unseres Wissens, aus Erfahrung zu gewinnen, anzuerkennen und zeigt die Notwendigkeit einer kritischen Haltung gegenüber unseren induktiven Schlussfolgerungen auf. @poser2001[vgl.&126-127]
 
 = Axiome als Grundlage wissenschaftlicher Theorien
 

@@ -18,3 +18,14 @@ hintikka2011:
     doi: "10.1007/s11229-009-9668-8"
   page-range: 69-85
   volume: 183
+
+arnold1983:
+  type: Article
+  title: "Hume's Skepticism about Inductive Inference"
+  author: "Arnold, N. Scott"
+  date: 1983
+  publisher: "Johns Hopkins University Press"
+  serial-number:
+    issn: "0022-5053"
+  page-range: 31-56
+  volume: 21

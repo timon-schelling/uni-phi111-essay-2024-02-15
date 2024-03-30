@@ -109,14 +109,14 @@ Axiomatisierung macht so wissenschaftliche Arbeit außerhalb von experimenteller
 
 In vielen Wissenschaften sind auch Axiome vorausgesetzt, die nicht explizit ausformuliert werden.
 Sie sind dann in der jeweiligen Wissenschaftsgemeinschaft Kontext der für selbstverständlich gehalten wird.
-Grundlegend muss z.B. jede Naturwissenschaft voraussetzen, dass die Welt (und der spezifische Geltungsbereich) verstehbar ist, um überhaupt anzufangen, sie verstehen zu wollen.
+Grundlegend muss z.B. jede Naturwissenschaft voraussetzen, dass die Welt (und der spezifische Geltungsbereich) verstehbar ist, um überhaupt anzufangen, sie erklären zu wollen.
 Auch diese Annahme ist ein Axiom.
-Wenn so eine Theorie aufgestellt wird, so ist immer ein "unter der Voraussetzung, dass die Welt sich systematisch wissenschaftlich erklären lässt" axiomatisch impliziert.
+Wenn so eine Theorie aufgestellt wird, ist immer ein "unter der Voraussetzung, dass die Welt sich systematisch wissenschaftlich erklären lässt" axiomatisch impliziert.
 Je nach wissenschaftlicher Disziplin werden dann spezifische Axiome angenommen, in der Physik meinetwegen Aussagen über Zeit und Raum.
 
 = Unterschied zu Dogmen
 
-Axiome unterscheiden sich von Dogmen in ihrer Natur. Dogmen sind unveränderliche, unantastbare Wahrheiten, die nicht hinterfragt werden dürfen. Axiome hingegen sind Annahmen, die als wahr angenommen werden, um von ihnen aus weiterzudenken. Sie sind nicht zwangsweise unveränderlich, sondern können und müssen hinterfragt und auch angepasst werden, wenn sie sich als falsch herausstellen oder stärkere gefunden werden. Axiome sind zwangsweise konsistent und logisch und damit nicht willkürlich, eine Einschränkung, die für Dogmen nicht gemacht wird. Axiome sind nicht in Widerspruch zur wissenschaftlichen Methode, sondern ihre Voraussetzung.
+Axiome unterscheiden sich von Dogmen in ihrer Natur. Dogmen sollen unveränderliche, unantastbare Wahrheiten sein, die nicht hinterfragt werden dürfen. Axiome hingegen sind Annahmen, die als wahr angenommen werden, um von ihnen aus weiterzudenken. Sie sind nicht zwangsweise unveränderlich, sondern können und müssen hinterfragt und auch angepasst werden, wenn sie sich als falsch herausstellen oder stärkere gefunden werden. Axiome sind zwangsweise konsistent und folgen eienr logischen Struktur und sind damit nicht willkürlich, eine Einschränkung, die für Dogmen nicht gemacht wird. Axiome sind nicht in Widerspruch zur wissenschaftlichen Methode, sondern ihre Voraussetzung.
 
 //TODO: rechtschreibung ab hier überprüfen
 
@@ -136,26 +136,19 @@ Die historische Betrachtung der axiomatischen Methode offenbart nicht nur ihre z
 
 = Mangel an Allternativen
 
-Es gibt Zahlreiche scheinbare Allternativen zur axiomatischen Methode, die sich jedoch bei genauerer Betrachtung als unzureichend oder im grunde äquivalent herausstellen.
-Entweder sie scheintern am Induktionsproblem, sind im Kern selbst axiomatisch, es wird nur nicht expliziet von Axiomen gesprochen, oder sie wiedersprechen der axiomatischen Methode nicht und formilieren z.B. nur aus wie eine axiomatische Theorie durch eine andere ersetzt werden kann (Paradigmenwechsel, Hermeneutische Spriralbewegung des Verstehens).
+Es gibt Zahlreiche scheinbare Allternativen zur axiomatischen Methode, die sich jedoch bei genauerer Betrachtung als unzureichend oder im grunde äquivalent herausstellen. @poser2001[vgl.&]
+Entweder sie scheintern am Induktionsproblem, sind im Kern selbst axiomatisch, es wird nur nicht expliziet von Axiomen gesprochen, oder sie wiedersprechen der axiomatischen Methode nicht und formilieren z.B. nur aus wie eine axiomatische Theorie durch eine andere ersetzt werden kann (Paradigmenwechsel, Hermeneutische Spriralbewegung des Verstehens). @poser2001[vgl.&157 ff.]
 Zum Beispiel wird die Annahme, dass die Welt Verstehbar ist und sich systematisch wissenschaftlich erkären lässt, implizit vorausgesetzt.
 Oder auch einfach ein anderes Wort für Axiome verwendet, z.B. Festsetzung.
 Es scheint der Wissenschaft also an Allternativen zum axiomatischen Ansatz zu mangeln.
 
 = Fazit
 
-// Axiome sind in der Wissenschaft notwendig, um überhaupt wissenschaftliche Theorien aufstellen zu können. Sie bieten eine stabile Grundlage für deduktive Schlussfolgerungen und ermöglichen es, Wissen zu generieren, das
-
-
-
-//TODO: use this
-// Be this as it may, the power of a theory to serve as its own metatheory, offers an interesting way of comparing different axiom systems with each other.
-
-// = Erkährung A priori / A posteriori
-
-// In der Wissenschaft lassen sich zwei Arten von Erkentnissen unterscheiden. A priori und a posteriori. A priori Erkentnisse sind solche, die unabhängig von Erfahrung sind, allein auf Vernunft und logischen Schlussfolgerungen beruhen. A posteriori Erkentnisse sind solche, die auf Erfahrung beruhen und empirisch aber nicht rein logisch überprüfbar sind.
-// A priori Erkentnisse sind als resultat logischer Überlegung notwendigerweise wahr.
-
-// Es darf nicht vergessen werden, dass diese Axiome in der Mathematik immer implizit vorausgesetzt werden.
-// Selbst wenn sich
-// Sie müssen nicht bewiesen werden und brauchen
+Axiome erweisen sich als unverzichtbare Basis wissenschaftlicher Theorien.
+Ein Axiom ist eine Annahme, die als wahr angenommen wird, um von ihr aus weiterzuarbeiten, also eine Bedingung unter der die aus ihr gefolgerten Theoreme gelten.
+Die axiomatische Methode ermöglicht es, so auch ohne absolute Wahrheiten, systematisch und kohärentes Wissen zu generieren, was durch induktive Schlussfolgerungen allein nicht möglich wäre.
+Es wird eine Menge von Axiomen gewählt, die den gewünschten Geltungsbereich abdecken.
+Aus ihnen werden dann deduktiv Theoreme abgeleitet, die die Struktur und Logik des Geltungsbereichs der Theorie beschreiben.
+Wichtig dabei Axiome sind dabei keineswegs dogmatisch, da sie nicht als wahr festgelegt sind sondern nur innnerhalb einer theorie als wahr angenommen werden und durchaus hinterfragt werden sollen und angepasst werden können.
+Diese Flexibilität erlaubt es, Theorien zu bilden, im Bewusstsein der relativen Natur des daraus gewonnen Wissens.
+Axiome sind also nicht im Widerspruch zur wissenschaftlichen Methode, sondern in großen Teilen ihre Voraussetzung und auch Ausdruck der wissenschaftlichen Bestrebung, die Welt systematisch und kohärent zu erklären.

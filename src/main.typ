@@ -149,6 +149,6 @@ Ein Axiom ist eine Annahme, die als wahr angenommen wird, um von ihr aus weiterz
 Die axiomatische Methode ermöglicht es, so auch ohne absolute Wahrheiten, systematisch und kohärentes Wissen zu generieren, was durch induktive Schlussfolgerungen allein nicht möglich wäre.
 Es wird eine Menge von Axiomen gewählt, die den gewünschten Geltungsbereich abdecken.
 Aus ihnen werden dann deduktiv Theoreme abgeleitet, die die Struktur und Logik des Geltungsbereichs der Theorie beschreiben.
-Wichtig dabei Axiome sind dabei keineswegs dogmatisch, da sie nicht als wahr festgelegt sind sondern nur innnerhalb einer theorie als wahr angenommen werden und durchaus hinterfragt werden sollen und angepasst werden können.
+Wichtig dabei Axiome sind dabei keineswegs dogmatisch, da sie nicht als wahr festgelegt sind sondern nur innerhalb einer Theorie als wahr angenommen werden und durchaus hinterfragt werden sollen und angepasst werden können.
 Diese Flexibilität erlaubt es, Theorien zu bilden, im Bewusstsein der relativen Natur des daraus gewonnen Wissens.
 Axiome sind also nicht im Widerspruch zur wissenschaftlichen Methode, sondern in großen Teilen ihre Voraussetzung und auch Ausdruck der wissenschaftlichen Bestrebung, die Welt systematisch und kohärent zu erklären.

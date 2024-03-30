@@ -16,7 +16,7 @@
   authors: (
     "Timon Schelling",
   ),
-  date: "2024-01-29",
+  date: "2024-02-15",
   title-page-infos: [
     #set text(size: 0.97em)
     #table(

@@ -70,8 +70,8 @@ Hume argumentierte, dass es keine rationale Rechtfertigung dafür gibt, anzunehm
 Mit anderen Worten, nur weil die Sonne bisher immer im Osten aufgegangen ist, gibt es keine logische Notwendigkeit, die garantiert, dass sie es morgen wieder tun wird.
 Diese Erkenntnis wirft ernsthafte Zweifel an der Zuverlässigkeit induktiver Schlussfolgerungen auf, da sie letztlich auf einer ungesicherten Annahme über die Regelmäßigkeit der Natur beruhen.
 Verschiedene Philosophen und Wissenschaftstheoretiker haben versucht, das Induktionsproblem zu lösen oder zumindest dessen Auswirkungen abzumildern.
-Das Induktionsproblem bleibt jedoch ein fundamentales ungelöst. @poser2001[vgl.&115-126]
-Es zwingt uns, die Grenzen unseres Wissens, aus Erfahrung zu gewinnen, anzuerkennen und zeigt die Notwendigkeit einer kritischen Haltung gegenüber unseren induktiven Schlussfolgerungen auf. @poser2001[vgl.&126-127]
+Das Induktionsproblem bleibt jedoch ein fundamentale ungelöstes. @poser2001[vgl.&115-126]
+Es zwingt uns, die Grenzen unseres Wissens, anzuerkennen und zeigt die Notwendigkeit einer kritischen Haltung gegenüber unseren induktiven Schlussfolgerungen auf. @poser2001[vgl.&126-127]
 
 = Axiome als Grundlage wissenschaftlicher Theorien
 
@@ -116,7 +116,7 @@ Je nach wissenschaftlicher Disziplin werden dann spezifische Axiome angenommen, 
 
 = Unterschied zu Dogmen
 
-Axiome unterscheiden sich von Dogmen in ihrer Natur. Dogmen sollen unveränderliche, unantastbare Wahrheiten sein, die nicht hinterfragt werden dürfen. Axiome hingegen sind Annahmen, die als wahr angenommen werden, um von ihnen aus weiterzudenken. Sie sind nicht zwangsweise unveränderlich, sondern können und müssen hinterfragt und auch angepasst werden, wenn sie sich als falsch herausstellen oder stärkere gefunden werden. Axiome sind zwangsweise konsistent und folgen eienr logischen Struktur und sind damit nicht willkürlich, eine Einschränkung, die für Dogmen nicht gemacht wird. Axiome sind nicht in Widerspruch zur wissenschaftlichen Methode, sondern ihre Voraussetzung.
+Axiome unterscheiden sich von Dogmen in ihrer Natur. Dogmen sollen unveränderliche, unantastbare Wahrheiten sein, die nicht hinterfragt werden dürfen. Axiome hingegen sind Annahmen, die als wahr angenommen werden, um von ihnen aus weiterzudenken. Sie sind nicht zwangsweise unveränderlich, sondern können und müssen hinterfragt und auch angepasst werden, wenn sie sich als falsch herausstellen oder stärkere gefunden werden. Axiome sind zwangsweise konsistent und folgen einer logischen Struktur und sind damit nicht willkürlich, eine Einschränkung, die für Dogmen nicht gemacht wird. Axiome sind nicht in Widerspruch zur wissenschaftlichen Methode, sondern ihre Voraussetzung.
 
 //TODO: rechtschreibung ab hier überprüfen
 
@@ -125,19 +125,19 @@ Axiome unterscheiden sich von Dogmen in ihrer Natur. Dogmen sollen unveränderli
 Im Folgenden ein auf Jaakko Hintikkas Arbeit @hintikka2011 basierender historischer Überblick über die axiomatische Methode in der Mathematik und Logik.
 
 Die historische Entwicklung der axiomatischen Methode offenbart eine Evolution im Kern der mathematischen und logischen Theoriebildung. @hintikka2011[vgl.&72]
-ursprünglich im antiken Griechenland als ein Weg zur systematischen Grundlegung mathematischer Beweise konzipiert; @hintikka2011[vgl.&72]
+Ursprünglich im antiken Griechenland als ein Weg zur systematischen Grundlegung mathematischer Beweise konzipiert; @hintikka2011[vgl.&72]
 erfuhr sie im 19. Jahrhundert eine entscheidende Neukonzeptualisierung, maßgeblich angetrieben durch das Bestreben, Mathematik durch die Präzisierung ihrer Grundlagen neu zu definieren. @hintikka2011[vgl.&69-70]
 Die Metatheorie eines Axiomensystems, also die Untersuchung der Eigenschaften und der Struktur des Systems selbst, wurde zu einem zentralen Bestandteil der axiomatischen Methode. @hintikka2011[vgl.&70-71]
 Diese Entwicklung reflektiert das Verständnis, dass die Ableitung von Theoremen aus Axiomen nicht lediglich neue Tiefeninformationen erzeugt, sondern vielmehr Oberflächeninformationen liefert, die für das Verständnis der Struktur und der inneren Logik des Systems unerlässlich sind. @hintikka2011[vgl.&69, 78]
 Die Auseinandersetzung mit der Axiomatisierung der Logik und der Mengenlehre verdeutlichte die Grenzen und Herausforderungen, die mit der axiomatischen Methode einhergehen. @hintikka2011[vgl.&75]
 Insbesondere die Versuche, die Logik axiomatisch zu fassen, stießen auf das Problem, dass ein logisches System zur Untersuchung seiner selbst verwendet wird, was eine Reihe von Paradoxien und Unklarheiten mit sich brachte. @hintikka2011[vgl.&75-76]
-Ähnlich verhält es sich mit der Axiomatisierung der Mengenlehre, deren Modelle nicht adäquat die Strukturen von Mengen widerspiegeln, wie ursprünglich beabsichtigt. @hintikka2011[vgl.&79]
+Ähnlich verhält es sich mit der Axiomatisierung der Mengenlehre, deren Modelle nicht adäquat die Strukturen von Mengen widerspiegelten, wie ursprünglich beabsichtigt. @hintikka2011[vgl.&79]
 Die historische Betrachtung der axiomatischen Methode offenbart nicht nur ihre zentrale Bedeutung für die Entwicklung der Mathematik und Logik, sondern auch die tiefgreifenden philosophischen und methodologischen Fragen, die mit ihr verbunden sind. @hintikka2011[vgl.&84-85] Diese reichen von der Natur mathematischer Wahrheit und der Rolle von Axiomen in der Theoriebildung bis hin zu den Grenzen logischer und mathematischer Systeme. @hintikka2011[vgl.&84-85]
 
 = Mangel an Allternativen
 
 Es gibt zahlreiche scheinbare Alternativen zur axiomatischen Methode, die sich jedoch bei genauerer Betrachtung als unzureichend oder im Grunde äquivalent herausstellen. @poser2001[vgl.&]
-Entweder sie scheitern am Induktionsproblem, sind im Kern selbst axiomatisch, es wird nur nicht explizit von Axiomen gesprochen, oder sie widersprechen der axiomatischen Methode nicht und formulieren z.B. nur aus, wie eine axiomatische Theorie durch eine andere ersetzt werden kann (Paradigmenwechsel, hermeneutische Spriralbewegung des Verstehens). @poser2001[vgl.&157 ff.]
+Entweder sie scheitern am Induktionsproblem, sind im Kern selbst axiomatisch, es wird nur nicht explizit von Axiomen gesprochen, oder sie widersprechen der axiomatischen Methode nicht und formulieren z.B. nur aus, wie eine axiomatische Theorie durch eine andere ersetzt werden kann (Paradigmenwechsel, hermeneutische Spriralbewegung des Verstehens). @poser2001[vgl.&157 ff., 230-231]
 Zum Beispiel wird die Annahme, dass die Welt verstehbar ist und sich systematisch wissenschaftlich erklären lässt, implizit vorausgesetzt.
 Oder auch einfach ein anderes Wort für Axiome verwendet, z.B. Festsetzung.
 Es scheint der Wissenschaft also an Alternativen zum axiomatischen Ansatz zu mangeln.

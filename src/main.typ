@@ -126,7 +126,7 @@ Im Folgenden ein auf Jaakko Hintikkas Arbeit @hintikka2011 basierender historisc
 
 Die historische Entwicklung der axiomatischen Methode offenbart eine Evolution im Kern der mathematischen und logischen Theoriebildung. @hintikka2011[vgl.&72]
 ursprünglich im antiken Griechenland als ein Weg zur systematischen Grundlegung mathematischer Beweise konzipiert; @hintikka2011[vgl.&72]
-erfuhr sie im 19. Jahrhundert  eine entscheidende Neukonzeptualisierung, maßgeblich angetrieben durch das Bestreben, Mathematik durch die Präzisierung ihrer Grundlagen neu zu definieren. @hintikka2011[vgl.&69-70]
+erfuhr sie im 19. Jahrhundert eine entscheidende Neukonzeptualisierung, maßgeblich angetrieben durch das Bestreben, Mathematik durch die Präzisierung ihrer Grundlagen neu zu definieren. @hintikka2011[vgl.&69-70]
 Die Metatheorie eines Axiomensystems, also die Untersuchung der Eigenschaften und der Struktur des Systems selbst, wurde zu einem zentralen Bestandteil der axiomatischen Methode. @hintikka2011[vgl.&70-71]
 Diese Entwicklung reflektiert das Verständnis, dass die Ableitung von Theoremen aus Axiomen nicht lediglich neue Tiefeninformationen erzeugt, sondern vielmehr Oberflächeninformationen liefert, die für das Verständnis der Struktur und der inneren Logik des Systems unerlässlich sind. @hintikka2011[vgl.&69, 78]
 Die Auseinandersetzung mit der Axiomatisierung der Logik und der Mengenlehre verdeutlichte die Grenzen und Herausforderungen, die mit der axiomatischen Methode einhergehen. @hintikka2011[vgl.&75]
@@ -136,11 +136,11 @@ Die historische Betrachtung der axiomatischen Methode offenbart nicht nur ihre z
 
 = Mangel an Allternativen
 
-Es gibt Zahlreiche scheinbare Allternativen zur axiomatischen Methode, die sich jedoch bei genauerer Betrachtung als unzureichend oder im grunde äquivalent herausstellen. @poser2001[vgl.&]
-Entweder sie scheintern am Induktionsproblem, sind im Kern selbst axiomatisch, es wird nur nicht expliziet von Axiomen gesprochen, oder sie wiedersprechen der axiomatischen Methode nicht und formilieren z.B. nur aus wie eine axiomatische Theorie durch eine andere ersetzt werden kann (Paradigmenwechsel, Hermeneutische Spriralbewegung des Verstehens). @poser2001[vgl.&157 ff.]
-Zum Beispiel wird die Annahme, dass die Welt Verstehbar ist und sich systematisch wissenschaftlich erkären lässt, implizit vorausgesetzt.
+Es gibt zahlreiche scheinbare Alternativen zur axiomatischen Methode, die sich jedoch bei genauerer Betrachtung als unzureichend oder im Grunde äquivalent herausstellen. @poser2001[vgl.&]
+Entweder sie scheitern am Induktionsproblem, sind im Kern selbst axiomatisch, es wird nur nicht explizit von Axiomen gesprochen, oder sie widersprechen der axiomatischen Methode nicht und formulieren z.B. nur aus, wie eine axiomatische Theorie durch eine andere ersetzt werden kann (Paradigmenwechsel, hermeneutische Spriralbewegung des Verstehens). @poser2001[vgl.&157 ff.]
+Zum Beispiel wird die Annahme, dass die Welt verstehbar ist und sich systematisch wissenschaftlich erklären lässt, implizit vorausgesetzt.
 Oder auch einfach ein anderes Wort für Axiome verwendet, z.B. Festsetzung.
-Es scheint der Wissenschaft also an Allternativen zum axiomatischen Ansatz zu mangeln.
+Es scheint der Wissenschaft also an Alternativen zum axiomatischen Ansatz zu mangeln.
 
 = Fazit
 
